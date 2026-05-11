@@ -33,7 +33,7 @@ export async function scrapeHareruya2(url: string, name: string): Promise<Scrape
     const stockMatch = inventoryText.replace(/\s/g, '').match(/在庫(\d+)/);
     if (stockMatch) {
       stock = parseInt(stockMatch[1], 10);
-    } else if (inventoryText.includes('売り切れ') || inventoryText.includes('SOLD OUT')) {
+    } else if (inventoryText.includes('売り切れ') || inventoryText.includes('SOLD OUT') || inventoryText.includes('在庫なし')) {
       stock = 0;
     }
 

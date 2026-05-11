@@ -21,6 +21,12 @@ async function main() {
   
   const summaryData = calculateAverages(scrapedResults);
 
+  console.log('\n--- Scrape Summary ---');
+  for (const stats of summaryData) {
+    console.log(`${stats.name}: ${stats.avgPrice}円 (在庫: ${stats.totalStock})`);
+  }
+  console.log('----------------------\n');
+
   console.log('Saving results to local file...');
   
   try {
