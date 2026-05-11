@@ -1,0 +1,4709 @@
+[
+  {
+    "name": "イダイナキバex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "コライドンex【SAR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "サーナイトex【SAR】",
+    "avgPrice": 28,
+    "minPrice": 28,
+    "maxPrice": 28,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ふしぎなアメ【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ペパー【SAR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ペパー【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 53,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ボタン【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ボタン【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 18,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "基本闘エネルギー(SV)【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "基本雷エネルギー(SV)【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "博士の研究/オーリム博士【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "アルセウスV(SA)【SR】",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "アルセウスVSTAR【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "シロナの覇気【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ネオラントV(SA)【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ハイパーボール【UR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンV(SA)【SR】",
+    "avgPrice": 55,
+    "minPrice": 55,
+    "maxPrice": 55,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンVSTAR【HR】",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンパルキアV(SA)【SR】",
+    "avgPrice": 19,
+    "minPrice": 19,
+    "maxPrice": 19,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンディアルガVSTAR【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カイ【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ダブルターボエネルギー【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "頂への雪道【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンディアルガV(SA)【SR】",
+    "avgPrice": 16,
+    "minPrice": 16,
+    "maxPrice": 16,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンパルキアVSTAR【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カイリキーV(SA)【SR】",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "トレッキングシューズ【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ナタネの活気【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミライドンex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミモザ【SAR】",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミモザ【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミライドンex【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "アンノーンV(SA)【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "さぎょういん【SR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "スズナ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ルギアV(RR仕様)【P】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ルギアV(SA)【SR】",
+    "avgPrice": 180,
+    "minPrice": 180,
+    "maxPrice": 180,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ルギアVSTAR【UR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "レジドラゴV(SA)【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カミツレのきらめき【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ゲノセクトV(SA)【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウVMAX(SA)【HR】",
+    "avgPrice": 180,
+    "minPrice": 180,
+    "maxPrice": 180,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウV(SA)【SR】",
+    "avgPrice": 48,
+    "minPrice": 48,
+    "maxPrice": 48,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "基本炎エネルギー【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "基本草エネルギー【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "おじょうさま【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ギラティナV(SA)【SR】",
+    "avgPrice": 21,
+    "minPrice": 21,
+    "maxPrice": 21,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ギラティナVSTAR【UR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "プテラV(SA)【SR】",
+    "avgPrice": 21,
+    "minPrice": 21,
+    "maxPrice": 21,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "いちげきウーラオスVMAX(SA)【HR】",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "いちげきウーラオスV(SA)【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "いちげきエネルギー【UR】",
+    "avgPrice": 600,
+    "minPrice": 600,
+    "maxPrice": 600,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "バンギラスV(SA)【SR】",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "フヨウ【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ヘルガー【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "サイトウ【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウVMAX【HR】",
+    "avgPrice": 85,
+    "minPrice": 85,
+    "maxPrice": 85,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ルリナ【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カトレア【SR】",
+    "avgPrice": 17,
+    "minPrice": 17,
+    "maxPrice": 17,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "こくばバドレックスVMAX(SA)【HR】",
+    "avgPrice": 110,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "こくばバドレックスV(SA)【SR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ゼラオラV(SA)【SR】",
+    "avgPrice": 16,
+    "minPrice": 16,
+    "maxPrice": 16,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "セレビィV(SA)【P】",
+    "avgPrice": 20,
+    "minPrice": 20,
+    "maxPrice": 20,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ハピナスV(SA)【SR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガラルファイヤーV(SA)【SR】",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガラルフリーザーV(SA)【SR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カリンの信念【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "クララ【SR】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "バシャーモVMAX(SA)【HR】",
+    "avgPrice": 120,
+    "minPrice": 120,
+    "maxPrice": 120,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カイリューV(SA)【SR】",
+    "avgPrice": 90,
+    "minPrice": 90,
+    "maxPrice": 90,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "サナ【SR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "チャーレムV(SA)【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ヒガナの決意【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "レックウザVMAX(SA)【HR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "レックウザV(SA)【SR】",
+    "avgPrice": 190,
+    "minPrice": 190,
+    "maxPrice": 190,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "基本雷エネルギー【UR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "嵐の山脈【UR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガラルギャロップV(SA)【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "はくばバドレックスVMAX(SA)【HR】",
+    "avgPrice": 85,
+    "minPrice": 85,
+    "maxPrice": 85,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "はくばバドレックスV(SA)【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "メロン【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オンバーンV(SA)【SR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ジュラルドンVMAX(SA)【HR】",
+    "avgPrice": 27,
+    "minPrice": 27,
+    "maxPrice": 27,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ジュラルドンV(SA)【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ジュラルドンV(SR)【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "エンペルトV(SA)【SR】",
+    "avgPrice": 17,
+    "minPrice": 17,
+    "maxPrice": 17,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オクタン【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "コルニの気合い【HR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "コルニの気合い【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "モミ【HR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "モミ【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "レベルボール【UR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "れんげきウーラオスV(SA)【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "れんげきエネルギー【UR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "れんげきウーラオスVMAX(SA)【HR】",
+    "avgPrice": 100,
+    "minPrice": 100,
+    "maxPrice": 100,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウ(R仕様)【P】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウツーV(SA)【SR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウツーVSTAR【UR】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ルアーモジュール【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "エーフィVMAX(SA)【P】",
+    "avgPrice": 58,
+    "minPrice": 58,
+    "maxPrice": 58,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "エーフィV(SA)【SR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "グレイシアVMAX(SA)【HR】",
+    "avgPrice": 150,
+    "minPrice": 150,
+    "maxPrice": 150,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "グレイシアV(SA)【SR】",
+    "avgPrice": 25,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "サンダースV(SA)【SR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "シャワーズV(SA)【SR】",
+    "avgPrice": 28,
+    "minPrice": 28,
+    "maxPrice": 28,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ニンフィアVMAX(SA)【HR】",
+    "avgPrice": 220,
+    "minPrice": 220,
+    "maxPrice": 220,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ニンフィアV(SA)【SR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ブースターV(SA)【SR】",
+    "avgPrice": 28,
+    "minPrice": 28,
+    "maxPrice": 28,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ブラッキーVMAX(SA)【HR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ブラッキーV(SA)【SR】",
+    "avgPrice": 70,
+    "minPrice": 70,
+    "maxPrice": 70,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リーフィアVMAX(SA)【HR】",
+    "avgPrice": 95,
+    "minPrice": 95,
+    "maxPrice": 95,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リーフィアV(SA)【SR】",
+    "avgPrice": 25,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガラルファイヤーV【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウV【SR】",
+    "avgPrice": 33,
+    "minPrice": 33,
+    "maxPrice": 33,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "マリィのプライド【SR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 31,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "アセロラの予感【SR】Vクラ",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 21,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガラルの仲間たち【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "こくばバドレックスVMAX【CSR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ニンフィアVMAX【CSR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウV【CSR】",
+    "avgPrice": 27,
+    "minPrice": 27,
+    "maxPrice": 27,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウVMAX【CSR】",
+    "avgPrice": 35,
+    "minPrice": 35,
+    "maxPrice": 35,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウVMAX【UR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ブラッキーVMAX【CSR】",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミミッキュV【CSR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 23,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミミッキュVMAX【CSR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウVMAX【UR】",
+    "avgPrice": 33,
+    "minPrice": 33,
+    "maxPrice": 33,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ムゲンダイナVMAX【CSR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ユウリ【SR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "レックウザVMAX【CSR】",
+    "avgPrice": 43,
+    "minPrice": 43,
+    "maxPrice": 43,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "アルセウスVSTAR【UR】Vユニ",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンディアルガVSTAR【UR】Vユニ",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "オリジンパルキアVSTAR【UR】Vユニ",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カイ【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 18,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カミツレのきらめき【SR】Vユニ",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ギラティナVSTAR【UR】Vユニ",
+    "avgPrice": 35,
+    "minPrice": 35,
+    "maxPrice": 35,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ザクロ【SAR】",
+    "avgPrice": 650,
+    "minPrice": 650,
+    "maxPrice": 650,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ザマゼンタV【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "スイクンV【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ゼラオラVMAX【SAR】Vユニ",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "バオッキーVSTAR【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ボスの指令/アカギ【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウ【AR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ミュウツーVSTAR【SAR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンV【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンVSTAR【SAR】",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "博士の研究/ナナカマド博士【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 16,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "フウロ【SR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ポケモンごっこ【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "マリィ【SR】シャイニー",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンVMAX【SSR】",
+    "avgPrice": 38,
+    "minPrice": 38,
+    "maxPrice": 38,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "リザードンV【SSR】",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "MレックウザEX(25th)【P】",
+    "avgPrice": 42,
+    "minPrice": 42,
+    "maxPrice": 42,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カプ・テテフGX(25th)【P】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 54,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ガブリアスCLV.X(25th)【P】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "カメックス(25th)【P】",
+    "avgPrice": 23,
+    "minPrice": 23,
+    "maxPrice": 23,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "サーナイトexδ-デルタ種(25th)【P】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 22,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "R団のサンダー(25th)【P】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ゼクロム(25th)【P】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ゼルネアスEX(25th)【P】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 30,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "_のピカチュウ(25th)【P】",
+    "avgPrice": 95,
+    "minPrice": 95,
+    "maxPrice": 95,
+    "totalStock": 22,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ドンファン(25th)【P】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 50,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "にせオーキドはかせ(25th)【P】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 74,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.800Z"
+  },
+  {
+    "name": "ピカチュウ(25thミラー)",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ひかるコイキング(25th)【P】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フシギバナ(25th)【P】",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブラッキー☆(25th)【P】",
+    "avgPrice": 48,
+    "minPrice": 48,
+    "maxPrice": 48,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マグマ団のグラードン(25th)【P】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウex(25th)【P】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウ(25th)【UR】",
+    "avgPrice": 52,
+    "minPrice": 52,
+    "maxPrice": 52,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウツーEX(25th)【P】",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードン(25th)【P】",
+    "avgPrice": 100,
+    "minPrice": 100,
+    "maxPrice": 100,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "レシラム(25th)【P】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "レントラーGLLV.X(25th)【P】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 58,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団参上！(25th)【P】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 62,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "わるいギャラドス(25th)【P】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウ【AR】",
+    "avgPrice": 65,
+    "minPrice": 65,
+    "maxPrice": 65,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シロナの覇気【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒスイの仲間たち【SR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シンオウの仲間たち【SR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グレイシアVSTAR【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーフィアVSTAR【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 31,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エリカの招待【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エリカの招待【SR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウex【SAR】",
+    "avgPrice": 65,
+    "minPrice": 65,
+    "maxPrice": 65,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エリカの招待(マスターボールミラー)【U】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウ(マスターボールミラー)【C】",
+    "avgPrice": 110,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウex【UR】",
+    "avgPrice": 26,
+    "minPrice": 26,
+    "maxPrice": 26,
+    "totalStock": 38,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【SAR】",
+    "avgPrice": 82,
+    "minPrice": 82,
+    "maxPrice": 82,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サンダーex【SAR】",
+    "avgPrice": 26,
+    "minPrice": 26,
+    "maxPrice": 26,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サカキのカリスマ【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 17,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カメックスex【SAR】",
+    "avgPrice": 26,
+    "minPrice": 26,
+    "maxPrice": 26,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フーディンex【SAR】",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フシギバナex【SAR】",
+    "avgPrice": 25,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シャワーズ(マスターボールミラー)【R】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【SR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サンダース(マスターボールミラー)【R】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブースター(マスターボールミラー)【R】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナナミの手助け【SR】",
+    "avgPrice": 700,
+    "minPrice": 700,
+    "maxPrice": 700,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゲンガー(マスターボールミラー)【R】",
+    "avgPrice": 95,
+    "minPrice": 95,
+    "maxPrice": 95,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブラッキー(YU NAGABA)【P】",
+    "avgPrice": 26,
+    "minPrice": 26,
+    "maxPrice": 26,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サンダース(YU NAGABA)【P】",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グレイシア(YU NAGABA)【P】",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーフィア(YU NAGABA)【P】",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ニンフィア(YU NAGABA)【P】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブースター(YU NAGABA)【P】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シャワーズ(YU NAGABA)【P】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーブイ(YU NAGABA)【P】",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エーフィ(YU NAGABA)【P】",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【SAR】黒炎",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【UR】",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オモダカ【SAR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ポピー【SAR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【SR】黒炎",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ポピー【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピジョットex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オルティガ【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "コオリッポex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オモダカ【SR】",
+    "avgPrice": 600,
+    "minPrice": 600,
+    "maxPrice": 600,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブロロロームex【SAR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "バンギラスex【SR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パラソルおねえさん【SAR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ガブリアスex【SAR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "チリ【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パラソルおねえさん【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サーフゴーex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ガブリアスex【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リバーサルエネルギー【UR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 33,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シキミ【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ビーチコート【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カプ・コケコex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ガブリアスex【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アオキ【SR】",
+    "avgPrice": 550,
+    "minPrice": 550,
+    "maxPrice": 550,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ユキメノコex【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フーパex【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "トドロクツキex【SAR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メロコ【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "トドロクツキex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メロコ【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オーリム博士の気迫【SAR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グソクムシャex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゴージャスマント【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 16,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スナノケガワex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノブジンex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノブジンex【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リップ【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カウンターキャッチャー【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リップ【SR】",
+    "avgPrice": 700,
+    "minPrice": 700,
+    "maxPrice": 700,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノカイナex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "チルタリスex【SAR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノブジンex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フトゥー博士のシナリオ【SAR】",
+    "avgPrice": 750,
+    "minPrice": 750,
+    "maxPrice": 750,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウ【CHR】",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 39,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒスイゾロアークVSTAR【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒナツ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ラブトロスV【CSR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ガブリアスV【CSR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "こだわりベルト【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スターミーV【CSR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ジャローダV【CSR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "セレナ【SR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "チルタリス【CHR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テールナー【CHR】",
+    "avgPrice": 850,
+    "minPrice": 850,
+    "maxPrice": 850,
+    "totalStock": 32,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ふりそで【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "キハダ【SAR】",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "キハダ【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マスカーニャex【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ラウドボーンex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ウェーニバルex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボスの指令/ゲーチス【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マスカーニャex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ラウドボーンex【UR】",
+    "avgPrice": 700,
+    "minPrice": 700,
+    "maxPrice": 700,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ウェーニバルex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "デデンネex【SR】",
+    "avgPrice": 950,
+    "minPrice": 950,
+    "maxPrice": 950,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボスの指令/ゲーチス【SR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マスカーニャex【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "コイキング【AR】",
+    "avgPrice": 24,
+    "minPrice": 24,
+    "maxPrice": 24,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ハヤト【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモ【SAR】",
+    "avgPrice": 58,
+    "minPrice": 58,
+    "maxPrice": 58,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモ【SR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ディンルーex【SAR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "デカヌチャンex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーユイex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スーパーエネルギー回収【UR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 24,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サワロ【SAR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フォレトスex【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グルーシャ【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グルーシャ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 35,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パオジアンex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イキリンコex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "チオンジェンex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パオジアンex【UR】",
+    "avgPrice": 750,
+    "minPrice": 750,
+    "maxPrice": 750,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "すごいつりざお【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 36,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヤドキングex【SR】",
+    "avgPrice": 850,
+    "minPrice": 850,
+    "maxPrice": 850,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "コライドンex【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモ【SAR】シャイニー",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リザードンex【SAR】シャイニー",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サーナイトex【SAR】シャイニー",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボタン【SAR】シャイニー",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウ【S】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミュウex【SAR】シャイニー",
+    "avgPrice": 98,
+    "minPrice": 98,
+    "maxPrice": 98,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミミッキュ【AR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ネモ【SAR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ネルケ【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 36,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ペパー【SAR】シャイニー",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パルデアの学生【SR】346",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パルデアの学生【SR】345",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ベルのまごころ【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ベルのまごころ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 36,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "暗号マニアの解読【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 17,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノカシラex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノイサハex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テツノイワオex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "プライムキャッチャー【ACE】",
+    "avgPrice": 50,
+    "minPrice": 50,
+    "maxPrice": 50,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ビワ【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ビワ【SR】",
+    "avgPrice": 600,
+    "minPrice": 600,
+    "maxPrice": 600,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゲンガーex【SR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ウネルミナモex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "タケルライコex【SAR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ウガツホムラex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マツバの確信【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "なかよしポフィン【U】",
+    "avgPrice": 200,
+    "minPrice": 200,
+    "maxPrice": 200,
+    "totalStock": 34,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サザレ【SAR】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゲッコウガex【SAR】",
+    "avgPrice": 58,
+    "minPrice": 58,
+    "maxPrice": 58,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スイレンのお世話【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スイレンのお世話【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ガチグマアカツキex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サザレ【SR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヤバソチャex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "緊急ボード【UR】",
+    "avgPrice": 700,
+    "minPrice": 700,
+    "maxPrice": 700,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼイユ【SAR】",
+    "avgPrice": 25,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "totalStock": 24,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "なかよしポフィン【UR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 21,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スグリ【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オーガポンいどのめんex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼイユ【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 36,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オーガポンみどりのめんex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オーガポンいしずえのめんex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オーガポンかまどのめんex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スグリ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "改造ハンマー【UR】",
+    "avgPrice": 650,
+    "minPrice": 650,
+    "maxPrice": 650,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カシオペア【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "大地の器【UR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 39,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "キチキギスex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 32,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "モモワロウex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イイネイヌex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マシマシラex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カシオペア【SR】",
+    "avgPrice": 500,
+    "minPrice": 500,
+    "maxPrice": 500,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "力の砂時計【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アンズの秘技【SR】",
+    "avgPrice": 850,
+    "minPrice": 850,
+    "maxPrice": 850,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "タロ【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テラパゴスex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブライア【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 22,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "タロ【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼロの大空洞【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カミツオロチex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "デンチュラex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "勇気のおまもり【UR】",
+    "avgPrice": 600,
+    "minPrice": 600,
+    "maxPrice": 600,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ポケモンセンターのお姉さん(SR仕様)【P】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ソニア【SR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マリィ【SR】",
+    "avgPrice": 80,
+    "minPrice": 80,
+    "maxPrice": 80,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウV(未開封)",
+    "avgPrice": 160,
+    "minPrice": 160,
+    "maxPrice": 160,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "モンスターボール(未開封)",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 28,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ルチア【SR】",
+    "avgPrice": 250,
+    "minPrice": 250,
+    "maxPrice": 250,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ルチアのアピール【SAR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ラティアスex【SAR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ルチアのアピール【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 18,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アローラナッシーex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ジェットエネルギー【UR】",
+    "avgPrice": 400,
+    "minPrice": 400,
+    "maxPrice": 400,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カキツバタ【SAR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブリジュラスex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex【SAR】",
+    "avgPrice": 92,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サザンドラex【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "夜のタンカ【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 15,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミロカロスex【SAR】",
+    "avgPrice": 16,
+    "minPrice": 16,
+    "maxPrice": 16,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex【UR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ミカンのまなざし【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex【SR】",
+    "avgPrice": 16,
+    "minPrice": 16,
+    "maxPrice": 16,
+    "totalStock": 54,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブラッキーex【SAR】",
+    "avgPrice": 76,
+    "minPrice": 76,
+    "maxPrice": 76,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブラッキー(マスターボールミラー)",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ニンフィアex【SAR】",
+    "avgPrice": 25,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "totalStock": 44,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ニンフィア(マスターボールミラー)",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーブイ(マスターボールミラー)",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エーフィex【SAR】",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エーフィ(マスターボールミラー)",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 31,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーブイex【SAR】223",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グレイシアex【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーブイex【SAR】224",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 52,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex【UR】テラスタル",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 21,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "グレイシア(マスターボールミラー)",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 16,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーフィアex【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブースターex【SAR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シャワーズex【SAR】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 30,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サンダースex【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シャワーズ(マスターボールミラー)",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 47,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーフィア(マスターボールミラー)",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ブースター(マスターボールミラー)",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 32,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サンダース(マスターボールミラー)",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スボミー(マスターボールミラー)",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ドロンチ(マスターボールミラー)",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "トドロクツキ(マスターボールミラー)",
+    "avgPrice": 400,
+    "minPrice": 400,
+    "maxPrice": 400,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ソウブレイズex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "トドロクツキex【SAR】テラスタル",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イルカマンex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 29,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スグリ【SAR】テラスタル",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "スピンロトム(マスターボールミラー)",
+    "avgPrice": 300,
+    "minPrice": 300,
+    "maxPrice": 300,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ドラパルトex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "タケルライコex【SAR】テラスタル",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 28,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "タロ【SAR】テラスタル",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "テラパゴスex【SAR】テラスタル",
+    "avgPrice": null,
+    "minPrice": null,
+    "maxPrice": null,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "パルデアの仲間たち【SR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒトカゲ(AR仕様)",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フシギダネ(AR仕様)",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼニガメ(AR仕様)",
+    "avgPrice": 14,
+    "minPrice": 14,
+    "maxPrice": 14,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ニャース【P】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエのピッピex【SAR】",
+    "avgPrice": 37,
+    "minPrice": 37,
+    "maxPrice": 37,
+    "totalStock": 14,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモ의 ハラバリ-ex【SAR】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 23,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "Nのゾロアークex【SAR】",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモのハラバリーex【UR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ホップのザシアンex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボーマンダex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエのピッピex【SR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 31,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "Nのゾロアークex【UR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アイリスの闘志【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 24,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエのアブリボン【AR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 140,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモのハラバリーex【SR】",
+    "avgPrice": 850,
+    "minPrice": 850,
+    "maxPrice": 850,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボルケニオンex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 6,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "Nのレシラム【AR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモのタイカイデン【AR】",
+    "avgPrice": 650,
+    "minPrice": 650,
+    "maxPrice": 650,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "フリーザー【AR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモのカイデン(未開封)【P】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 23,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シロナのガブリアスex【SAR】",
+    "avgPrice": 45,
+    "minPrice": 45,
+    "maxPrice": 45,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒビキのホウオウex【SAR】",
+    "avgPrice": 38,
+    "minPrice": 38,
+    "maxPrice": 38,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒビキの冒険【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シロナのガブリアスex【UR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒビキのホウオウex【UR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガヤンマex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カスミのコダック【AR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒビキのバクフーン【AR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 27,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ハッコウシティ【UR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ペパーのマフィティフex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒビキのホウオウex【SR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "シロナのガブリアスex【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のミュウツーex【SAR】",
+    "avgPrice": 83,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のファイヤーex【SAR】",
+    "avgPrice": 23,
+    "minPrice": 23,
+    "maxPrice": 23,
+    "totalStock": 9,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のクロバットex【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のニドキングex【SAR】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のミュウツーex【UR】",
+    "avgPrice": 16,
+    "minPrice": 16,
+    "maxPrice": 16,
+    "totalStock": 23,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のサカキ【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 16,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のアテナ【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のミュウツーex【SR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のニャース【AR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "バシャーモ【AR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 7,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のヘルガー【AR】",
+    "avgPrice": 800,
+    "minPrice": 800,
+    "maxPrice": 800,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロケット団のソーナンス【AR】",
+    "avgPrice": 750,
+    "minPrice": 750,
+    "maxPrice": 750,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼクロムex【BWR】",
+    "avgPrice": 90,
+    "minPrice": 90,
+    "maxPrice": 90,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "レシラムex【BWR】",
+    "avgPrice": 94,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "totalStock": 5,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゼクロムex【SAR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "レシラムex【SAR】",
+    "avgPrice": 30,
+    "minPrice": 30,
+    "maxPrice": 30,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "キュレムex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メロエッタex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "サザンドラex【SAR】ホワイトフレア",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "Nの筋書き【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "トウコ【SAR】",
+    "avgPrice": 11,
+    "minPrice": 11,
+    "maxPrice": 11,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ビクティニ(未開封/AR仕様)【P】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 8,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "名探偵ピカチュウ【P】",
+    "avgPrice": 40,
+    "minPrice": 40,
+    "maxPrice": 40,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガルカリオex【MUR】",
+    "avgPrice": 78,
+    "minPrice": 78,
+    "maxPrice": 78,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエの決心【SAR】",
+    "avgPrice": 40,
+    "minPrice": 40,
+    "maxPrice": 40,
+    "totalStock": 52,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエの決心【SR】",
+    "avgPrice": 12,
+    "minPrice": 12,
+    "maxPrice": 12,
+    "totalStock": 95,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マチスの取引【SAR】",
+    "avgPrice": 900,
+    "minPrice": 900,
+    "maxPrice": 900,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガルカリオex【SAR】",
+    "avgPrice": 13,
+    "minPrice": 13,
+    "maxPrice": 13,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガフシギバナex【SAR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 22,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガサーナイトex【SAR】",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガサーナイトex【MUR】",
+    "avgPrice": 70,
+    "minPrice": 70,
+    "maxPrice": 70,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アセロラのいたずら【SAR】",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 62,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アセロラのいたずら【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 52,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガラティアスex【SAR】",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガアブソルex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 28,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガリザードンXex【MUR】",
+    "avgPrice": 330,
+    "minPrice": 330,
+    "maxPrice": 330,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガリザードンXex【SAR】",
+    "avgPrice": 140,
+    "minPrice": 140,
+    "maxPrice": 140,
+    "totalStock": 13,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒカリ【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ヒカリ【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 23,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "オドリドリex【SAR】",
+    "avgPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガリザードンXex【SR】",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 2,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ロトムex【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 41,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガカイリューex【MUR】",
+    "avgPrice": 60,
+    "minPrice": 60,
+    "maxPrice": 60,
+    "totalStock": 19,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガカイリューex【SAR】",
+    "avgPrice": 48,
+    "minPrice": 48,
+    "maxPrice": 48,
+    "totalStock": 81,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガゲンガーex【SAR】MEGA",
+    "avgPrice": 82,
+    "minPrice": 82,
+    "maxPrice": 82,
+    "totalStock": 16,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex【SAR】MEGA",
+    "avgPrice": 72,
+    "minPrice": 72,
+    "maxPrice": 72,
+    "totalStock": 25,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガリザードンXex【MA】",
+    "avgPrice": 10,
+    "minPrice": 10,
+    "maxPrice": 10,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガゲンガーex【MA】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 165,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "Nのゾロアークex【SAR】MEGA",
+    "avgPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "totalStock": 30,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ナンジャモのハラバリーex【SAR】MEGA",
+    "avgPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "totalStock": 64,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "マリィのオーロンゲex【SAR】MEGA",
+    "avgPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "totalStock": 55,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "カナリィ【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 26,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ダイゴのメタグロスex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 11,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "アイリスの闘志【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 20,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガユキメノコex【SAR】MEGA",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 49,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガディアンシーex【SAR】MEGA",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 29,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガリザードンYex(MUR仕様)",
+    "avgPrice": null,
+    "minPrice": null,
+    "maxPrice": null,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ピカチュウex(SAR仕様)スタデ",
+    "avgPrice": 400,
+    "minPrice": 400,
+    "maxPrice": 400,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "リーリエのピッピex(SAR仕様)スタデ",
+    "avgPrice": 140,
+    "minPrice": 140,
+    "maxPrice": 140,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ボスの指令/カラスバ(SR仕様)",
+    "avgPrice": 22,
+    "minPrice": 22,
+    "maxPrice": 22,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガメガニウムex(SAR仕様)",
+    "avgPrice": 36,
+    "minPrice": 36,
+    "maxPrice": 36,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガオーダイルex(SAR仕様)",
+    "avgPrice": 35,
+    "minPrice": 35,
+    "maxPrice": 35,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガエンブオーex(SAR仕様)",
+    "avgPrice": 21,
+    "minPrice": 21,
+    "maxPrice": 21,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "イーブイ(AR仕様)スタデ",
+    "avgPrice": 86,
+    "minPrice": 86,
+    "maxPrice": 86,
+    "totalStock": 4,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "エリカのモンジャラ(AR仕様)スタデ",
+    "avgPrice": 18,
+    "minPrice": 18,
+    "maxPrice": 18,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガジガルデex【MUR】",
+    "avgPrice": 38,
+    "minPrice": 38,
+    "maxPrice": 38,
+    "totalStock": 12,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メイのはげまし【SAR】",
+    "avgPrice": 23,
+    "minPrice": 23,
+    "maxPrice": 23,
+    "totalStock": 74,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ニャースex【SAR】",
+    "avgPrice": 15,
+    "minPrice": 15,
+    "maxPrice": 15,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガジガルデex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 56,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガスターミーex【SAR】",
+    "avgPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "totalStock": 75,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガピクシーex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ユカリ【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 51,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メイのはげまし【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 56,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガゲッコウガex【MUR】",
+    "avgPrice": 160,
+    "minPrice": 160,
+    "maxPrice": 160,
+    "totalStock": 3,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガゲッコウガex【SAR】",
+    "avgPrice": 55,
+    "minPrice": 55,
+    "maxPrice": 55,
+    "totalStock": 42,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ホミカの演奏【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 10,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガフラエッテex【SAR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 22,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "チラチーノex【SAR】",
+    "avgPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "totalStock": 0,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガドラミドロex【SAR】",
+    "avgPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "totalStock": 78,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "メガゲッコウガex【SR】",
+    "avgPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "totalStock": 64,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "AZの安らぎ【SAR】",
+    "avgPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "totalStock": 26,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  },
+  {
+    "name": "ゲンガーVMAX(SA)",
+    "avgPrice": 300,
+    "minPrice": 300,
+    "maxPrice": 300,
+    "totalStock": 1,
+    "sampleCount": 1,
+    "timestamp": "2026-05-11T21:00:00.801Z"
+  }
+]
