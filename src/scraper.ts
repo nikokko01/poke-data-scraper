@@ -83,19 +83,16 @@ export function calculateAverages(dataList: ScrapedData[]) {
       .map(l => l.stock)
       .filter((s): s is number => s !== null);
 
-    const avgPrice = validPrices.length > 0 
+    const price = validPrices.length > 0 
       ? Math.round(validPrices.reduce((a, b) => a + b, 0) / validPrices.length)
       : null;
 
-    const totalStock = validStocks.reduce((a, b) => a + b, 0);
+    const stock = validStocks.reduce((a, b) => a + b, 0);
 
     return {
       name,
-      avgPrice,
-      minPrice: validPrices.length > 0 ? Math.min(...validPrices) : null,
-      maxPrice: validPrices.length > 0 ? Math.max(...validPrices) : null,
-      totalStock,
-      sampleCount: listings.length,
+      price,
+      stock,
       timestamp: new Date().toISOString()
     };
   });

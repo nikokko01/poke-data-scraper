@@ -23,7 +23,7 @@ async function main() {
 
   console.log('\n--- Scrape Summary ---');
   for (const stats of summaryData) {
-    console.log(`${stats.name}: ${stats.avgPrice}円 (在庫: ${stats.totalStock})`);
+    console.log(`${stats.name}: ${stats.price}円 (在庫: ${stats.stock})`);
   }
   console.log('----------------------\n');
 
