@@ -24,13 +24,13 @@ export async function scrapeHareruya2(url: string, name: string): Promise<Scrape
     
     // Price extraction
     const priceRaw = $('meta[property="og:price:amount"]').attr('content');
-    const price = priceRaw ? parseInt(priceRaw, 10) : null;
+    const price = priceRaw ? parseInt(priceRaw.replace(/,/g, ''), 10) : null;
 
     // Inventory extraction
-    // Searching for the inventory text (e.g. "在庫 5")
     let stock: number | null = null;
-    const inventoryText = $('p[id^="Inventory-template"]').text() || $('body').text();
-    const stockMatch = inventoryText.match(/在庫\s*(\d+)/);
+    const inventoryElement = $('p[id^="Inventory-template"]');
+    const inventoryText = inventoryElement.length > 0 ? inventoryElement.text() : $('body').text();
+    const stockMatch = inventoryText.replace(/\s/g, '').match(/在庫(\d+)/);
     if (stockMatch) {
       stock = parseInt(stockMatch[1], 10);
     } else if (inventoryText.includes('売り切れ') || inventoryText.includes('SOLD OUT')) {
