@@ -64,17 +64,17 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       stock = soldOutText.includes('在庫なし') ? 0 : 1;
     } else if (url.includes('yuyu-tei.jp')) {
       // Yu-Gi-Oh! Tei Logic
-      // The main price is inside .product-detailing h4
+      // Try multiple selectors for the main price
       let priceText = $('.product-detailing h4').first().text().trim();
       if (!priceText) {
-        priceText = $('h4:contains("円")').first().text().trim();
+        priceText = $('h4.fw-bold').first().text().trim();
       }
-      if (!priceText) {
-        priceText = $('strong:contains("円")').first().text().trim();
+      if (!priceText || !priceText.includes('円')) {
+        priceText = $('h4:contains("円"), strong:contains("円")').first().text().trim();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
       
-      const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile').text();
+      const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile, .product-detailing').text();
       if (stockText.includes('在庫')) {
         const match = stockText.match(/在庫\s*:\s*(\d+)/);
         stock = match ? parseInt(match[1]) : 1;
@@ -84,7 +84,6 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       }
     } else if (url.includes('snkrdunk.com')) {
       // SNKRDUNK Logic
-      // Prices are often in custom attributes of detail-trading-card-single
       const mainTag = $('detail-trading-card-single').first();
       let priceText = "";
       if (mainTag.length > 0) {
@@ -93,7 +92,6 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       }
       
       if (!priceText) {
-        // Fallback to searching the whole HTML for ¥...
         const bodyHtml = $.html();
         const match = bodyHtml.match(/¥\s?([\d,]+)/);
         if (match) priceText = match[0];
@@ -105,11 +103,16 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       stock = bodyText.includes('売り切れ') || bodyText.includes('SOLD OUT') ? 0 : 1;
     } else if (url.includes('torecacamp-pokemon.com')) {
       // Toreca Camp Logic
-      const priceText = $('.product-item__price').first().text();
+      // Check both product page and list page selectors
+      let priceText = $('.price').first().text();
+      if (!priceText) {
+        priceText = $('.product-item__price').first().text();
+      }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
       
-      const stockText = $('.product-item__inventory').text();
-      stock = stockText.includes('在庫なし') ? 0 : 1;
+      const bodyText = $('body').text();
+      const stockText = $('.product-item__inventory, .product-form__info-content').text();
+      stock = (stockText.includes('在庫なし') || bodyText.includes('売り切れ')) ? 0 : 1;
     }
 
     return {
