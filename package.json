@@ -1,9 +1,13 @@
 {
+  "scripts": {
+    "scrape": "ts-node src/index.ts",
+    "find": "ts-node src/find.ts",
+    "fill-urls": "ts-node --transpile-only src/fill-missing-urls.ts"
+  },
   "dependencies": {
     "@types/node": "^25.6.2",
     "axios": "^1.16.0",
     "cheerio": "^1.2.0",
-    "firebase-admin": "^13.9.0",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   }

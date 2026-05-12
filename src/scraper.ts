@@ -103,6 +103,13 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       
       const bodyText = $('body').text();
       stock = bodyText.includes('売り切れ') || bodyText.includes('SOLD OUT') ? 0 : 1;
+    } else if (url.includes('torecacamp-pokemon.com')) {
+      // Toreca Camp Logic
+      const priceText = $('.product-item__price').first().text();
+      price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
+      
+      const stockText = $('.product-item__inventory').text();
+      stock = stockText.includes('在庫なし') ? 0 : 1;
     }
 
     return {
@@ -128,36 +135,63 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
   }
 }
 
-export function calculateAverages(dataList: ScrapedData[]) {
-  const groupedByName: Record<string, ScrapedData[]> = {};
+function fixUrl(baseUrl: string, partUrl: string | undefined): string | null {
+  if (!partUrl) return null;
+  if (partUrl.startsWith('http')) return partUrl;
+  const base = baseUrl.replace(/\/+$/, '');
+  const part = partUrl.replace(/^\/+/, '');
+  return `${base}/${part}`;
+}
 
-  dataList.forEach(data => {
-    if (!groupedByName[data.name]) {
-      groupedByName[data.name] = [];
+export async function searchCardUrl(site: string, keyword: string): Promise<string | null> {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+  };
+
+  const cleanKeyword = keyword.replace(/[【】]/g, ' ').trim();
+
+  try {
+    let searchUrl = '';
+    if (site === 'torecolo') {
+      searchUrl = `https://www.torecolo.jp/shop/goods/search.aspx?ct2=1074&search=x&keyword=${encodeURIComponent(keyword)}`;
+    } else if (site === 'hareruya2') {
+      searchUrl = `https://www.hareruya2.com/search?q=${encodeURIComponent(keyword)}`;
+    } else if (site === 'yuyutei') {
+      searchUrl = `https://yuyu-tei.jp/sell/poc/s/search?search_word=${encodeURIComponent(cleanKeyword)}`;
+    } else if (site === 'clabo') {
+      searchUrl = `https://www.c-labo-online.jp/product-list?keyword=${encodeURIComponent(keyword)}`;
+    } else if (site === 'snkrdunk') {
+      return `https://snkrdunk.com/search?keywords=${encodeURIComponent(keyword)}`;
+    } else if (site === 'torecacamp') {
+      searchUrl = `https://torecacamp-pokemon.com/search?q=${encodeURIComponent(cleanKeyword)}`;
     }
-    groupedByName[data.name].push(data);
-  });
 
-  return Object.entries(groupedByName).map(([name, listings]) => {
-    const validPrices = listings
-      .map(l => l.price)
-      .filter((p): p is number => p !== null && p > 0);
+    const response = await axios.get(searchUrl, { headers, timeout: 10000 });
+    const $ = cheerio.load(response.data);
 
-    const validStocks = listings
-      .map(l => l.stock)
-      .filter((s): s is number => s !== null);
+    if (site === 'torecolo') {
+      const link = $('.goods_list_ a[href*="/shop/g/g"]').first().attr('href');
+      return fixUrl('https://www.torecolo.jp', link);
+    } else if (site === 'hareruya2') {
+      const link = $('.product-item__title a, a.full-unstyled-link').filter((_, el) => {
+        const href = $(el).attr('href') || '';
+        return href.includes('/products/') || href.includes('/product/');
+      }).first().attr('href');
+      return fixUrl('https://www.hareruya2.com', link);
+    } else if (site === 'yuyutei') {
+      const link = $('a[href*="/sell/poc/card/"]').first().attr('href');
+      return fixUrl('https://yuyu-tei.jp', link);
+    } else if (site === 'clabo') {
+      const link = $('.item_data_link').first().attr('href');
+      return fixUrl('https://www.c-labo-online.jp', link);
+    } else if (site === 'torecacamp') {
+      const link = $('.product-item__title, .product-item__title a').first().attr('href');
+      return fixUrl('https://torecacamp-pokemon.com', link);
+    }
 
-    const price = validPrices.length > 0 
-      ? Math.round(validPrices.reduce((a, b) => a + b, 0) / validPrices.length)
-      : null;
-
-    const stock = validStocks.reduce((a, b) => a + b, 0);
-
-    return {
-      name,
-      price,
-      stock,
-      timestamp: new Date().toISOString()
-    };
-  });
+    return null;
+  } catch (error) {
+    console.error(`Error searching ${site} for ${keyword}:`, error);
+    return null;
+  }
 }

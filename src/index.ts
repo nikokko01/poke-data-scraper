@@ -1,4 +1,4 @@
-import { scrapeCard, calculateAverages, ScrapedData } from './scraper';
+import { scrapeCard, ScrapedData } from './scraper';
 import * as fs from 'fs';
 import * as path from 'path';
 
