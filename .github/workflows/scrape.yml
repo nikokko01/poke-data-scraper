@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/results.json
-          git commit -m "Update scraped prices [skip ci]" || echo "No changes to commit"
+          git add src/data/card.json
+          git commit -m "Update scraped prices in card.json [skip ci]" || echo "No changes to commit"
           git push

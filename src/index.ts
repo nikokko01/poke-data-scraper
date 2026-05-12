@@ -1,40 +1,41 @@
-import { scrapeHareruya2, calculateAverages, ScrapedData } from './scraper';
-import cards from './data/cards.json';
+import { scrapeCard, calculateAverages, ScrapedData } from './scraper';
 import * as fs from 'fs';
 import * as path from 'path';
 
 async function main() {
-  console.log(`Starting scrape for ${cards.length} cards...`);
+  const cardListPath = path.join(__dirname, 'data/card.json');
+  const cards = JSON.parse(fs.readFileSync(cardListPath, 'utf8'));
   
-  const scrapedResults: ScrapedData[] = [];
-
+  console.log(`Starting scrape for ${cards.length} unique cards...`);
+  
   for (const card of cards) {
-    console.log(`Scraping: ${card.name} (${card.url})`);
-    const result = await scrapeHareruya2(card.url, card.name);
-    scrapedResults.push(result);
+    console.log(`\nScraping card: ${card.name}`);
     
-    // Add small delay to be polite
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    for (const listing of card.listings) {
+      console.log(`  Checking: ${listing.url}`);
+      try {
+        const result = await scrapeCard(listing.url, card.name);
+        
+        // Update listing with new data
+        listing.price = result.price;
+        listing.stock = result.stock;
+        listing.timestamp = result.timestamp;
+        
+        // Add small delay to be polite
+        await new Promise(resolve => setTimeout(resolve, 800));
+      } catch (error) {
+        console.error(`  Failed to scrape ${listing.url}:`, error);
+      }
+    }
   }
 
-  console.log('Scrape complete. Calculating averages...');
-  
-  const summaryData = calculateAverages(scrapedResults);
+  console.log('\nScrape complete. Saving updated card.json...');
 
-  console.log('\n--- Scrape Summary ---');
-  for (const stats of summaryData) {
-    console.log(`${stats.name}: ${stats.price}円 (在庫: ${stats.stock})`);
-  }
-  console.log('----------------------\n');
-
-  console.log('Saving results to local file...');
-  
   try {
-    const outputPath = path.join(__dirname, 'data/results.json');
-    fs.writeFileSync(outputPath, JSON.stringify(summaryData, null, 2));
-    console.log(`Successfully saved data to ${outputPath}`);
+    fs.writeFileSync(cardListPath, JSON.stringify(cards, null, 2));
+    console.log(`Successfully updated ${cardListPath}`);
   } catch (error) {
-    console.error('Failed to save data to file:', error);
+    console.error('Failed to update card.json:', error);
   }
 
   console.log('All tasks finished.');
