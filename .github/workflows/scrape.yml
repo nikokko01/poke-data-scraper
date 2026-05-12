@@ -2,7 +2,7 @@ name: Scheduled Price Scrape
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every day at midnight UTC
+    - cron: '0 18 * * *' # Every day at 3:00 AM JST (18:00 UTC)
   workflow_dispatch: # Allows manual trigger
 
 permissions:
