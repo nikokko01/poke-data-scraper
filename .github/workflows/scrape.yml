@@ -27,15 +27,62 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run scraper and generate summary
-        run: |
-          npx ts-node --transpile-only src/index.ts
-          npx ts-node --transpile-only src/generate-summary.ts
-
-      - name: Commit and push changes
+      - name: git config
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/card.json src/data/summary.json src/data/history/
-          git commit -m "Update scraped prices and 7-day summary history [skip ci]" || echo "No changes to commit"
+
+      # Batch 1: cards 0-130
+      - name: Scrape batch 1 (0-130)
+        run: npx ts-node --transpile-only src/index.ts --start=0 --end=130
+
+      - name: Commit batch 1
+        run: |
+          git pull --rebase
+          git add src/data/card.json
+          git commit -m "Scrape batch 1/4 [skip ci]" || echo "No changes"
+          git push
+
+      # Batch 2: cards 130-261
+      - name: Scrape batch 2 (130-261)
+        run: npx ts-node --transpile-only src/index.ts --start=130 --end=261
+
+      - name: Commit batch 2
+        run: |
+          git pull --rebase
+          git add src/data/card.json
+          git commit -m "Scrape batch 2/4 [skip ci]" || echo "No changes"
+          git push
+
+      # Batch 3: cards 261-392
+      - name: Scrape batch 3 (261-392)
+        run: npx ts-node --transpile-only src/index.ts --start=261 --end=392
+
+      - name: Commit batch 3
+        run: |
+          git pull --rebase
+          git add src/data/card.json
+          git commit -m "Scrape batch 3/4 [skip ci]" || echo "No changes"
+          git push
+
+      # Batch 4: cards 392-524
+      - name: Scrape batch 4 (392-524)
+        run: npx ts-node --transpile-only src/index.ts --start=392 --end=524
+
+      - name: Commit batch 4
+        run: |
+          git pull --rebase
+          git add src/data/card.json
+          git commit -m "Scrape batch 4/4 [skip ci]" || echo "No changes"
+          git push
+
+      # Generate summary after all batches
+      - name: Generate summary and history
+        run: npx ts-node --transpile-only src/generate-summary.ts
+
+      - name: Commit summary
+        run: |
+          git pull --rebase
+          git add src/data/summary.json src/data/history/
+          git commit -m "Update summary and 7-day history [skip ci]" || echo "No changes"
           git push
