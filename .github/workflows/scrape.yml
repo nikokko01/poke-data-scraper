@@ -25,11 +25,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run scraper
-        run: npx ts-node --transpile-only src/index.ts
-
-      - name: Generate summary data
-        run: npx ts-node --transpile-only src/generate-summary.ts
+      - name: Run scraper and generate summary
+        run: |
+          npx ts-node --transpile-only src/index.ts
+          npx ts-node --transpile-only src/generate-summary.ts
 
       - name: Commit and push changes
         run: |
