@@ -12,13 +12,16 @@ export interface ScrapedData {
 }
 
 export async function scrapeCard(url: string, name: string, isRetry: boolean = false): Promise<ScrapedData> {
-  // Pre-check for known invalid SNKRDUNK patterns
-  if (url.includes('snkrdunk.com') && (url.includes('/products/') || url.includes('/search'))) {
-    if (!isRetry) {
-      const newUrl = await searchCardUrl('snkrdunk', name);
-      if (newUrl && newUrl !== url) {
-        return scrapeCard(newUrl, name, true);
-      }
+  // Pre-check for known invalid SNKRDUNK or Old Yuyu-tei patterns
+  const isOldYuyu = url.includes('yuyu-tei.jp') && (url.includes('game_poc') || url.includes('cardpreview'));
+  const isInvalidSnkr = url.includes('snkrdunk.com') && (url.includes('/products/') || url.includes('/search'));
+
+  if ((isOldYuyu || isInvalidSnkr) && !isRetry) {
+    const site = isOldYuyu ? 'yuyutei' : 'snkrdunk';
+    const newUrl = await searchCardUrl(site, name);
+    if (newUrl && newUrl !== url) {
+      console.log(`Updated old ${site} URL for ${name}: ${newUrl}`);
+      return scrapeCard(newUrl, name, true);
     }
   }
 
@@ -85,20 +88,19 @@ export async function scrapeCard(url: string, name: string, isRetry: boolean = f
       const soldOutText = $('.sold_out').text();
       stock = soldOutText.includes('在庫なし') ? 0 : 1;
     } else if (url.includes('yuyu-tei.jp')) {
-      // Yuyu-tei Logic
-      let priceText = $('h4.fw-bold.d-inline-block').first().text().trim();
-      if (!priceText || !priceText.includes('円')) {
-        priceText = $('h4').filter((_: number, el: any) => $(el).text().includes('円')).first().text().trim();
+      // Yuyu-tei Logic (New Site Compatible)
+      let priceText = $('.price, .text-danger, .fw-bold').filter((_: number, el: any) => $(el).text().includes('円')).first().text().trim();
+      if (!priceText) {
+        priceText = $('h4, b, strong, span').filter((_: number, el: any) => $(el).text().match(/\d+円/)).first().text().trim();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
 
-      const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile').text();
+      const stockText = $('.stock, .zaiko, .cart_sell_zaiko').text() || $('body').text();
       if (stockText.includes('在庫')) {
-        const match = stockText.match(/在庫\s*:\s*(\d+)/);
+        const match = stockText.match(/在庫\s*[:：]?\s*(\d+)/);
         stock = match ? parseInt(match[1]) : 1;
       } else {
-        const bodyText = $('body').text();
-        stock = bodyText.includes('売り切れ') || bodyText.includes('在庫なし') ? 0 : 1;
+        stock = stockText.includes('売切れ') || stockText.includes('在庫なし') ? 0 : 1;
       }
     } else if (url.includes('snkrdunk.com')) {
       // SNKRDUNK Logic
@@ -238,7 +240,21 @@ export async function searchCardUrl(site: string, keyword: string): Promise<stri
       }).first().attr('href');
       return fixUrl('https://www.hareruya2.com', link);
     } else if (site === 'yuyutei') {
-      const link = $('a[href*="/sell/poc/card/"]').first().attr('href');
+      const cardNumber = keyword.match(/\d{3}\/\d{3}/)?.[0];
+      let link = null;
+      if (cardNumber) {
+        // カード番号が含まれる要素を探し、その周辺のリンクを取得
+        const cardUnit = $('.card-unit').filter((_, el) => $(el).text().includes(cardNumber));
+        link = cardUnit.find('a[href*="/sell/poc/card/"]').first().attr('href');
+        
+        if (!link) {
+          console.log(`Strict match failed for ${keyword} (Number: ${cardNumber}). Returning null to avoid wrong data.`);
+          return null; 
+        }
+      } else {
+        // 番号がない場合は、最初の一つを拾う（プロモ等）が、リスクはあるため慎重に
+        link = $('a[href*="/sell/poc/card/"]').first().attr('href');
+      }
       return fixUrl('https://yuyu-tei.jp', link);
     } else if (site === 'clabo') {
       const link = $('.item_data_link').first().attr('href');
