@@ -63,18 +63,17 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       const soldOutText = $('.sold_out').text();
       stock = soldOutText.includes('在庫なし') ? 0 : 1;
     } else if (url.includes('yuyu-tei.jp')) {
-      // Yu-Gi-Oh! Tei Logic
-      // Try multiple selectors for the main price
-      let priceText = $('.product-detailing h4').first().text().trim();
-      if (!priceText) {
-        priceText = $('h4.fw-bold').first().text().trim();
-      }
+      // Yuyu-tei Logic
+      // 価格: "h4.fw-bold.d-inline-block" が実際の価格要素（例: " 3,480 円"）
+      // h4.fw-bold.first() だとナビゲーションの「収録弾」等を先に取ってしまうため注意
+      let priceText = $('h4.fw-bold.d-inline-block').first().text().trim();
       if (!priceText || !priceText.includes('円')) {
-        priceText = $('h4:contains("円"), strong:contains("円")').first().text().trim();
+        priceText = $('h4').filter((_: number, el: any) => $(el).text().includes('円')).first().text().trim();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
-      
-      const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile, .product-detailing').text();
+
+      // 在庫: "在庫 :   4 点" の形式
+      const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile').text();
       if (stockText.includes('在庫')) {
         const match = stockText.match(/在庫\s*:\s*(\d+)/);
         stock = match ? parseInt(match[1]) : 1;
