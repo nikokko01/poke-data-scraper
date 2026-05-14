@@ -37,6 +37,13 @@ async function main() {
       console.log(`  Checking: ${listing.url}`);
       try {
         const result = await scrapeCard(listing.url, card.name);
+        
+        // Update URL if it was auto-corrected
+        if (result.url !== listing.url) {
+          console.log(`  URL Updated: ${listing.url} -> ${result.url}`);
+          listing.url = result.url;
+        }
+
         listing.price     = result.price;
         listing.stock     = result.stock;
         listing.timestamp = result.timestamp;

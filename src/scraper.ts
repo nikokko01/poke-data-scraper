@@ -79,7 +79,7 @@ export async function scrapeCard(url: string, name: string, isRetry: boolean = f
       cardNumber = title.match(/\d{3}-\d{3}/)?.[0] || null;
     } else if (url.includes('c-labo-online.jp') || url.includes('c-labo-kaitori.jp')) {
       // Card Labo Logic
-      const priceText = $('.figure, #pricech').first().text();
+      const priceText = $('.figure, #pricech, .price_box').first().text();
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
       
       const soldOutText = $('.sold_out').text();
@@ -124,6 +124,9 @@ export async function scrapeCard(url: string, name: string, isRetry: boolean = f
       let priceText = $('.price').first().text();
       if (!priceText) {
         priceText = $('.product-item__price').first().text();
+      }
+      if (!priceText) {
+        priceText = $('span[data-product-price], .product-form__price').first().text();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
       
