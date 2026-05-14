@@ -11,12 +11,14 @@ export interface ScrapedData {
   timestamp: string;
 }
 
-export async function scrapeCard(url: string, name: string): Promise<ScrapedData> {
-  // Pre-check for invalid SNKRDUNK URLs to avoid 404s
+export async function scrapeCard(url: string, name: string, isRetry: boolean = false): Promise<ScrapedData> {
+  // Pre-check for known invalid SNKRDUNK patterns
   if (url.includes('snkrdunk.com') && (url.includes('/products/') || url.includes('/search'))) {
-    const newUrl = await searchCardUrl('snkrdunk', name);
-    if (newUrl && newUrl !== url) {
-      url = newUrl;
+    if (!isRetry) {
+      const newUrl = await searchCardUrl('snkrdunk', name);
+      if (newUrl && newUrl !== url) {
+        return scrapeCard(newUrl, name, true);
+      }
     }
   }
 
@@ -25,8 +27,21 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
       },
-      timeout: 15000
+      timeout: 15000,
+      validateStatus: (status) => status < 500 // Handle 404 manually
     });
+
+    // If 404, try to search for a new URL
+    if (response.status === 404 && !isRetry) {
+      const site = getSiteFromUrl(url);
+      if (site) {
+        console.log(`URL 404 for ${name} at ${site}. Searching for new URL...`);
+        const newUrl = await searchCardUrl(site, name);
+        if (newUrl && newUrl !== url) {
+          return scrapeCard(newUrl, name, true);
+        }
+      }
+    }
 
     const $ = cheerio.load(response.data);
     let price: number | null = null;
@@ -60,9 +75,8 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       const stockText = $('#spec_stock_msg').text();
       stock = stockText.includes('在庫あります') ? 1 : 0;
 
-      // Extract metadata from breadcrumbs or title if needed
       const title = $('title').text();
-      cardNumber = title.match(/\d{3}-\d{3}/)?.[0] || null; // Torecolo often uses 000-000 format
+      cardNumber = title.match(/\d{3}-\d{3}/)?.[0] || null;
     } else if (url.includes('c-labo-online.jp') || url.includes('c-labo-kaitori.jp')) {
       // Card Labo Logic
       const priceText = $('.figure, #pricech').first().text();
@@ -72,15 +86,12 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       stock = soldOutText.includes('在庫なし') ? 0 : 1;
     } else if (url.includes('yuyu-tei.jp')) {
       // Yuyu-tei Logic
-      // 価格: "h4.fw-bold.d-inline-block" が実際の価格要素（例: " 3,480 円"）
-      // h4.fw-bold.first() だとナビゲーションの「収録弾」等を先に取ってしまうため注意
       let priceText = $('h4.fw-bold.d-inline-block').first().text().trim();
       if (!priceText || !priceText.includes('円')) {
         priceText = $('h4').filter((_: number, el: any) => $(el).text().includes('円')).first().text().trim();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
 
-      // 在庫: "在庫 :   4 点" の形式
       const stockText = $('#cart_sell_zaiko_pc, #cart_sell_zaiko_mobile').text();
       if (stockText.includes('在庫')) {
         const match = stockText.match(/在庫\s*:\s*(\d+)/);
@@ -110,7 +121,6 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       stock = bodyText.includes('売り切れ') || bodyText.includes('SOLD OUT') ? 0 : 1;
     } else if (url.includes('torecacamp-pokemon.com')) {
       // Toreca Camp Logic
-      // Check both product page and list page selectors
       let priceText = $('.price').first().text();
       if (!priceText) {
         priceText = $('.product-item__price').first().text();
@@ -122,6 +132,18 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       stock = (stockText.includes('在庫なし') || bodyText.includes('売り切れ')) ? 0 : 1;
     }
 
+    // If result is still null and we haven't retried, try one last search
+    if (price === null && !isRetry) {
+      const site = getSiteFromUrl(url);
+      if (site) {
+        console.log(`Price null for ${name} at ${url}. Searching for better URL...`);
+        const newUrl = await searchCardUrl(site, name);
+        if (newUrl && newUrl !== url) {
+          return scrapeCard(newUrl, name, true);
+        }
+      }
+    }
+
     return {
       url,
       name,
@@ -131,8 +153,18 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       expansionCode,
       timestamp: new Date().toISOString()
     };
-  } catch (error) {
-    console.error(`Error scraping ${url}:`, error);
+  } catch (error: any) {
+    console.error(`Error scraping ${url}:`, error.message);
+    
+    // Retry on connection errors if possible
+    if (!isRetry) {
+      const site = getSiteFromUrl(url);
+      if (site) {
+        const newUrl = await searchCardUrl(site, name);
+        if (newUrl) return scrapeCard(newUrl, name, true);
+      }
+    }
+
     return {
       url,
       name,
@@ -143,6 +175,16 @@ export async function scrapeCard(url: string, name: string): Promise<ScrapedData
       timestamp: new Date().toISOString()
     };
   }
+}
+
+function getSiteFromUrl(url: string): string | null {
+  if (url.includes('hareruya2.com')) return 'hareruya2';
+  if (url.includes('torecolo.jp')) return 'torecolo';
+  if (url.includes('c-labo')) return 'clabo';
+  if (url.includes('yuyu-tei.jp')) return 'yuyutei';
+  if (url.includes('snkrdunk.com')) return 'snkrdunk';
+  if (url.includes('torecacamp-pokemon.com')) return 'torecacamp';
+  return null;
 }
 
 function fixUrl(baseUrl: string, partUrl: string | undefined): string | null {
