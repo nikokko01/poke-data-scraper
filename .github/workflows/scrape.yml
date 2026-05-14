@@ -40,7 +40,7 @@ jobs:
 
       - name: Commit batch 1
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           git add src/data/card.json
           git commit -m "Scrape batch 1/4 [skip ci]" || echo "No changes"
           git push
@@ -51,7 +51,7 @@ jobs:
 
       - name: Commit batch 2
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           git add src/data/card.json
           git commit -m "Scrape batch 2/4 [skip ci]" || echo "No changes"
           git push
@@ -62,7 +62,7 @@ jobs:
 
       - name: Commit batch 3
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           git add src/data/card.json
           git commit -m "Scrape batch 3/4 [skip ci]" || echo "No changes"
           git push
@@ -73,7 +73,7 @@ jobs:
 
       - name: Commit batch 4
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           git add src/data/card.json
           git commit -m "Scrape batch 4/4 [skip ci]" || echo "No changes"
           git push
@@ -84,7 +84,7 @@ jobs:
 
       - name: Commit summary
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           git add src/data/summary.json src/data/history/
           git commit -m "Update summary and 7-day history [skip ci]" || echo "No changes"
           git push
