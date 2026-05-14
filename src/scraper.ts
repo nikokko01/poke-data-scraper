@@ -12,6 +12,14 @@ export interface ScrapedData {
 }
 
 export async function scrapeCard(url: string, name: string): Promise<ScrapedData> {
+  // Pre-check for invalid SNKRDUNK URLs to avoid 404s
+  if (url.includes('snkrdunk.com') && (url.includes('/products/') || url.includes('/search'))) {
+    const newUrl = await searchCardUrl('snkrdunk', name);
+    if (newUrl && newUrl !== url) {
+      url = newUrl;
+    }
+  }
+
   try {
     const response = await axios.get(url, {
       headers: {
@@ -163,7 +171,11 @@ export async function searchCardUrl(site: string, keyword: string): Promise<stri
     } else if (site === 'clabo') {
       searchUrl = `https://www.c-labo-online.jp/product-list?keyword=${encodeURIComponent(keyword)}`;
     } else if (site === 'snkrdunk') {
-      return `https://snkrdunk.com/search?keywords=${encodeURIComponent(keyword)}`;
+      const response = await axios.get(`https://snkrdunk.com/search?keywords=${encodeURIComponent(keyword)}`, { headers, timeout: 10000 });
+      const html = response.data;
+      const match = html.match(/\/apparels\/(\d+)/);
+      const link = match ? match[0] : null;
+      return fixUrl('https://snkrdunk.com', link);
     } else if (site === 'torecacamp') {
       searchUrl = `https://torecacamp-pokemon.com/search?q=${encodeURIComponent(cleanKeyword)}`;
     }
