@@ -91,7 +91,7 @@ export async function scrapeCard(url: string, name: string, isRetry: boolean = f
       // Yuyu-tei Logic (New Site Compatible)
       let priceText = $('.price, .text-danger, .fw-bold').filter((_: number, el: any) => $(el).text().includes('円')).first().text().trim();
       if (!priceText) {
-        priceText = $('h4, b, strong, span').filter((_: number, el: any) => $(el).text().match(/\d+円/)).first().text().trim();
+        priceText = $('h4, b, strong, span').filter((_: number, el: any) => /\d+円/.test($(el).text())).first().text().trim();
       }
       price = parseInt(priceText.replace(/[^\d]/g, '')) || null;
 
