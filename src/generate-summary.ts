@@ -123,7 +123,48 @@ function generateSummary() {
   // Save results
   fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2));
   fs.writeFileSync(path.join(historyDir, `summary_${dateStr}.json`), JSON.stringify(summary, null, 2));
-  
+
+  // Generate Rankings (Fleamarket vs Shop Average)
+  interface RankingItem {
+    name: string;
+    code: string;
+    averagePrice: number;
+    fleamarketPrice: number;
+    diff: number;
+    diffRate: number;
+  }
+
+  const rankingData: RankingItem[] = [];
+  summary.forEach(item => {
+    if (item.averagePrice !== null && item.fleamarketPrice !== null) {
+      const diff = item.fleamarketPrice - item.averagePrice;
+      const diffRate = Math.round((diff / item.averagePrice) * 1000) / 10;
+      rankingData.push({
+        name: item.name,
+        code: item.code,
+        averagePrice: item.averagePrice,
+        fleamarketPrice: item.fleamarketPrice,
+        diff,
+        diffRate
+      });
+    }
+  });
+
+  const cheaperFleamarket = [...rankingData].sort((a, b) => a.diff - b.diff);
+  const expensiveFleamarket = [...rankingData].sort((a, b) => b.diff - a.diff);
+  const discrepancyRate = [...rankingData].sort((a, b) => Math.abs(b.diffRate) - Math.abs(a.diffRate));
+
+  const ranking = {
+    date: dateStr,
+    cheaperFleamarket,
+    expensiveFleamarket,
+    discrepancyRate
+  };
+
+  const rankingPath = path.join(dataDir, 'ranking.json');
+  fs.writeFileSync(rankingPath, JSON.stringify(ranking, null, 2));
+  fs.writeFileSync(path.join(historyDir, `ranking_${dateStr}.json`), JSON.stringify(ranking, null, 2));
+
   // Cleanup history (keep 7 days)
   const finalFiles = fs.readdirSync(historyDir)
     .filter(f => f.startsWith('summary_') && f.endsWith('.json'))
@@ -135,7 +176,17 @@ function generateSummary() {
     });
   }
 
-  console.log(`Processed ${summary.length} cards. Summary updated.`);
+  const finalRankingFiles = fs.readdirSync(historyDir)
+    .filter(f => f.startsWith('ranking_') && f.endsWith('.json'))
+    .sort();
+
+  if (finalRankingFiles.length > 7) {
+    finalRankingFiles.slice(0, finalRankingFiles.length - 7).forEach(f => {
+      fs.unlinkSync(path.join(historyDir, f));
+    });
+  }
+
+  console.log(`Processed ${summary.length} cards. Summary and rankings updated.`);
 }
 
 generateSummary();

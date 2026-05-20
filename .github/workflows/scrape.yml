@@ -85,6 +85,6 @@ jobs:
       - name: Commit summary
         run: |
           git pull --rebase --autostash
-          git add src/data/summary.json src/data/history/
-          git commit -m "Update summary and 7-day history [skip ci]" || echo "No changes"
+          git add src/data/summary.json src/data/ranking.json src/data/history/
+          git commit -m "Update summary, rankings and 7-day history [skip ci]" || echo "No changes"
           git push
