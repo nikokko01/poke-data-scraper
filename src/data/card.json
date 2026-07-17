@@ -4,39 +4,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/products/9017288261952?_pos=1&_sid=820b82e45&_ss=r",
-        "price": 1800,
-        "stock": 6,
-        "timestamp": "2026-07-16T19:20:37.138Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:18:31.043Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g102-078-SV1S-B/",
         "price": 1680,
         "stock": 0,
-        "timestamp": "2026-07-16T19:20:38.715Z"
+        "timestamp": "2026-07-17T19:18:32.872Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216621",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:41.140Z"
+        "timestamp": "2026-07-17T19:18:35.358Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:43.010Z"
+        "timestamp": "2026-07-17T19:18:37.261Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110898",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:44.351Z"
+        "timestamp": "2026-07-17T19:18:38.939Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itr8uwqei728_vwzj?_pos=1&_sid=142ce3555&_ss=r",
         "price": 1280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:45.644Z"
+        "timestamp": "2026-07-17T19:18:40.183Z"
       }
     ],
     "code": "102/078SV1S"
@@ -48,37 +48,37 @@
         "url": "https://www.hareruya2.com/products/9017288556864?_pos=1&_sid=8aeb68563&_ss=r",
         "price": 6000,
         "stock": 7,
-        "timestamp": "2026-07-16T19:20:46.901Z"
+        "timestamp": "2026-07-17T19:18:41.406Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g103-078-SV1S-B/",
         "price": 6580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:20:49.317Z"
+        "timestamp": "2026-07-17T19:18:42.953Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216622",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:51.565Z"
+        "timestamp": "2026-07-17T19:18:45.303Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:53.382Z"
+        "timestamp": "2026-07-17T19:18:47.179Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110953",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:54.808Z"
+        "timestamp": "2026-07-17T19:18:48.834Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itn32pz62dg8_k8pm?_pos=1&_sid=1f2577868&_ss=r",
         "price": 5980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:20:55.917Z"
+        "timestamp": "2026-07-17T19:18:50.036Z"
       }
     ],
     "code": "092/078SV1S"
@@ -88,39 +88,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/26977",
-        "price": 35000,
+        "price": 33000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:20:57.179Z"
+        "timestamp": "2026-07-17T19:18:51.317Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g101-078-SV1S-B/",
         "price": 30800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:20:58.678Z"
+        "timestamp": "2026-07-17T19:18:53.540Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216620",
         "price": 29800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:01.194Z"
+        "timestamp": "2026-07-17T19:18:56.030Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:03.038Z"
+        "timestamp": "2026-07-17T19:18:57.925Z"
       },
       {
-        "url": "https://snkrdunk.com/apparels/162094",
+        "url": "https://snkrdunk.com/apparels/657365",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:05.484Z"
+        "timestamp": "2026-07-17T19:19:00.324Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it5so84k0afb_bbp5?_pos=1&_sid=25c8eb179&_ss=r",
         "price": 19800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:06.633Z"
+        "timestamp": "2026-07-17T19:19:01.558Z"
       }
     ],
     "code": "097/078SV1S"
@@ -132,37 +132,37 @@
         "url": "https://www.hareruya2.com/product/27013",
         "price": 3000,
         "stock": 11,
-        "timestamp": "2026-07-16T19:21:07.793Z"
+        "timestamp": "2026-07-17T19:19:02.762Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g107-078-SV1V-B-K/",
         "price": 2363,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:09.327Z"
+        "timestamp": "2026-07-17T19:19:04.906Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216734",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:11.759Z"
+        "timestamp": "2026-07-17T19:19:07.283Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:13.598Z"
+        "timestamp": "2026-07-17T19:19:09.151Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110940",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:14.956Z"
+        "timestamp": "2026-07-17T19:19:10.817Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2q8hqe6dps_wip0?_pos=1&_sid=fbd3c9b73&_ss=r",
         "price": 3280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:16.083Z"
+        "timestamp": "2026-07-17T19:19:11.973Z"
       }
     ],
     "code": "091/078SV1V"
@@ -174,37 +174,37 @@
         "url": "https://www.hareruya2.com/product/27010",
         "price": 800,
         "stock": 9,
-        "timestamp": "2026-07-16T19:21:17.309Z"
+        "timestamp": "2026-07-17T19:19:13.258Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g104-078-SV1V-B/",
         "price": 1180,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:18.813Z"
+        "timestamp": "2026-07-17T19:19:15.570Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216731",
         "price": 1280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:21.087Z"
+        "timestamp": "2026-07-17T19:19:17.923Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:22.750Z"
+        "timestamp": "2026-07-17T19:19:19.599Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/161472",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:24.162Z"
+        "timestamp": "2026-07-17T19:19:21.261Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itv3v3l5c48a_g876?_pos=1&_sid=5721c8d8e&_ss=r",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:25.288Z"
+        "timestamp": "2026-07-17T19:19:22.523Z"
       }
     ],
     "code": "103/078SV1V"
@@ -216,37 +216,37 @@
         "url": "https://www.hareruya2.com/product/27005",
         "price": 500,
         "stock": 92,
-        "timestamp": "2026-07-16T19:21:26.360Z"
+        "timestamp": "2026-07-17T19:19:23.583Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g099-078-SV1V-B/",
         "price": 780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:29.061Z"
+        "timestamp": "2026-07-17T19:19:25.145Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216726",
         "price": 780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:31.295Z"
+        "timestamp": "2026-07-17T19:19:27.656Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:33.122Z"
+        "timestamp": "2026-07-17T19:19:29.539Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110912",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:34.703Z"
+        "timestamp": "2026-07-17T19:19:31.053Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it1y89rprktg_jljl?_pos=1&_sid=d1a1eaf2c&_ss=r",
         "price": 580,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:35.838Z"
+        "timestamp": "2026-07-17T19:19:32.195Z"
       }
     ],
     "code": "101/078SV1V"
@@ -258,37 +258,37 @@
         "url": "https://www.hareruya2.com/product/26981",
         "price": 2200,
         "stock": 6,
-        "timestamp": "2026-07-16T19:21:37.090Z"
+        "timestamp": "2026-07-17T19:19:33.232Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g105-078-SV1S-B/",
         "price": 1880,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:39.091Z"
+        "timestamp": "2026-07-17T19:19:34.628Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/249428",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:41.257Z"
+        "timestamp": "2026-07-17T19:19:37.208Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/164255",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:42.690Z"
+        "timestamp": "2026-07-17T19:19:38.605Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itg22m4zjo3k_lfs6?_pos=1&_sid=bf7aa1de0&_ss=r",
         "price": 3780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:43.855Z"
+        "timestamp": "2026-07-17T19:19:39.725Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:45.684Z"
+        "timestamp": "2026-07-17T19:19:41.752Z"
       }
     ],
     "code": "107/078SV1S"
@@ -298,39 +298,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/26976",
-        "price": 1300,
+        "price": 1200,
         "stock": 18,
-        "timestamp": "2026-07-16T19:21:46.940Z"
+        "timestamp": "2026-07-17T19:19:42.972Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g100-078-SV1S-B/",
         "price": 1580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:48.948Z"
+        "timestamp": "2026-07-17T19:19:45.879Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216619",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:51.155Z"
+        "timestamp": "2026-07-17T19:19:48.468Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:52.816Z"
+        "timestamp": "2026-07-17T19:19:50.342Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110948",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:54.365Z"
+        "timestamp": "2026-07-17T19:19:51.711Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ittkcnvmve6k_zfgj?_pos=1&_sid=d43aace1a&_ss=r",
         "price": 1780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:21:55.520Z"
+        "timestamp": "2026-07-17T19:19:52.962Z"
       }
     ],
     "code": "104/078SV1S"
@@ -341,38 +341,38 @@
       {
         "url": "https://www.hareruya2.com/product/26984",
         "price": 3000,
-        "stock": 9,
-        "timestamp": "2026-07-16T19:21:56.536Z"
+        "stock": 14,
+        "timestamp": "2026-07-17T19:19:53.990Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g108-078-SV1S-B/",
         "price": 3080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:21:58.870Z"
+        "timestamp": "2026-07-17T19:19:56.029Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216627",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:01.170Z"
+        "timestamp": "2026-07-17T19:19:58.048Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:03.131Z"
+        "timestamp": "2026-07-17T19:19:59.934Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110897",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:04.484Z"
+        "timestamp": "2026-07-17T19:20:01.606Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ity17l9cm0gg_kpqw?_pos=1&_sid=340e9bfad&_ss=r",
         "price": 3280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:05.618Z"
+        "timestamp": "2026-07-17T19:20:02.782Z"
       }
     ],
     "code": "100/078SV1S"
@@ -382,39 +382,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/27014",
-        "price": 2500,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:22:06.820Z"
+        "price": 2300,
+        "stock": 41,
+        "timestamp": "2026-07-17T19:20:04.018Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g108-078-SV1V-B/",
         "price": 1880,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:08.690Z"
+        "timestamp": "2026-07-17T19:20:05.439Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216735",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:10.583Z"
+        "timestamp": "2026-07-17T19:20:07.824Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:12.490Z"
+        "timestamp": "2026-07-17T19:20:09.694Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110941",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:13.912Z"
+        "timestamp": "2026-07-17T19:20:11.134Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it6870u8yle5_okrg?_pos=1&_sid=951828b45&_ss=r",
         "price": 1780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:15.045Z"
+        "timestamp": "2026-07-17T19:20:12.405Z"
       }
     ],
     "code": "105/078SV1V"
@@ -426,37 +426,37 @@
         "url": "https://www.hareruya2.com/product/27004",
         "price": 500,
         "stock": 37,
-        "timestamp": "2026-07-16T19:22:16.077Z"
+        "timestamp": "2026-07-17T19:20:13.452Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g099-078-SV1S-B/",
         "price": 830,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:18.419Z"
+        "timestamp": "2026-07-17T19:20:15.379Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216618",
         "price": 780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:20.628Z"
+        "timestamp": "2026-07-17T19:20:17.726Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:22.444Z"
+        "timestamp": "2026-07-17T19:20:19.584Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110947",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:24.160Z"
+        "timestamp": "2026-07-17T19:20:21.210Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itwdfxlqjk2y_gscp?_pos=1&_sid=0d1efaafa&_ss=r",
         "price": 980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:25.280Z"
+        "timestamp": "2026-07-17T19:20:22.364Z"
       }
     ],
     "code": "100/078SV1S"
@@ -468,37 +468,37 @@
         "url": "https://www.hareruya2.com/product/22346",
         "price": 11000,
         "stock": 13,
-        "timestamp": "2026-07-16T19:22:26.287Z"
+        "timestamp": "2026-07-17T19:20:23.615Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g112-100-S9-B/",
         "price": 11800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:27.831Z"
+        "timestamp": "2026-07-17T19:20:26.129Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186484",
         "price": 12800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:30.225Z"
+        "timestamp": "2026-07-17T19:20:28.442Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:31.884Z"
+        "timestamp": "2026-07-17T19:20:30.116Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91145",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:33.445Z"
+        "timestamp": "2026-07-17T19:20:31.851Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it0v6c0msimg_i6ux?_pos=1&_sid=56145d800&_ss=r",
         "price": 14800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:34.392Z"
+        "timestamp": "2026-07-17T19:20:33.030Z"
       }
     ],
     "code": "108/078S9"
@@ -509,38 +509,38 @@
       {
         "url": "https://www.hareruya2.com/product/22359",
         "price": 2600,
-        "stock": 3,
-        "timestamp": "2026-07-16T19:22:35.646Z"
+        "stock": 4,
+        "timestamp": "2026-07-17T19:20:34.273Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g125-100-S9-B/",
         "price": 3580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:37.412Z"
+        "timestamp": "2026-07-17T19:20:36.564Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/212734",
         "price": 21800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:39.802Z"
+        "timestamp": "2026-07-17T19:20:38.575Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:41.789Z"
+        "timestamp": "2026-07-17T19:20:40.432Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/105530",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:43.223Z"
+        "timestamp": "2026-07-17T19:20:41.824Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it0ffyosojb4_evls?_pos=1&_sid=87058e6a8&_ss=r",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:44.372Z"
+        "timestamp": "2026-07-17T19:20:42.953Z"
       }
     ],
     "code": "108/078S9"
@@ -552,37 +552,37 @@
         "url": "https://www.hareruya2.com/product/22348",
         "price": 2100,
         "stock": 10,
-        "timestamp": "2026-07-16T19:22:45.800Z"
+        "timestamp": "2026-07-17T19:20:44.293Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g114-100-S9-B/",
         "price": 2880,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:47.923Z"
+        "timestamp": "2026-07-17T19:20:45.907Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186486",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:49.798Z"
+        "timestamp": "2026-07-17T19:20:48.287Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:51.659Z"
+        "timestamp": "2026-07-17T19:20:49.964Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96568",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:53.031Z"
+        "timestamp": "2026-07-17T19:20:51.491Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it42u8jb0ium_y1oh?_pos=1&_sid=95454b922&_ss=r",
         "price": 2280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:54.336Z"
+        "timestamp": "2026-07-17T19:20:52.614Z"
       }
     ],
     "code": "114/100S9"
@@ -594,37 +594,37 @@
         "url": "https://www.hareruya2.com/products/9016986730816?_pos=1&_sid=b01e564f8&_ss=r",
         "price": 1600,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:55.610Z"
+        "timestamp": "2026-07-17T19:20:53.831Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g105-100-S9-B/",
         "price": 1580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:22:57.351Z"
+        "timestamp": "2026-07-17T19:20:55.399Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186477",
         "price": 1780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:22:59.216Z"
+        "timestamp": "2026-07-17T19:20:57.711Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:01.056Z"
+        "timestamp": "2026-07-17T19:20:59.569Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96567",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:02.709Z"
+        "timestamp": "2026-07-17T19:21:00.906Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itqqzwdnzt0c_1zup?_pos=1&_sid=4206d2858&_ss=r",
         "price": 980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:03.812Z"
+        "timestamp": "2026-07-17T19:21:02.041Z"
       }
     ],
     "code": "105/100S9"
@@ -635,38 +635,38 @@
       {
         "url": "https://www.hareruya2.com/product/22360",
         "price": 7500,
-        "stock": 3,
-        "timestamp": "2026-07-16T19:23:05.103Z"
+        "stock": 0,
+        "timestamp": "2026-07-17T19:21:03.286Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g126-100-S9-B/",
         "price": 8580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:06.731Z"
+        "timestamp": "2026-07-17T19:21:04.821Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186498",
         "price": 8980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:08.983Z"
+        "timestamp": "2026-07-17T19:21:06.765Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:10.824Z"
+        "timestamp": "2026-07-17T19:21:08.642Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91148",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:12.500Z"
+        "timestamp": "2026-07-17T19:21:10.197Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2mm4mwbgkz_0qxe?_pos=1&_sid=161376bfe&_ss=r",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:13.657Z"
+        "timestamp": "2026-07-17T19:21:11.400Z"
       }
     ],
     "code": "126/100S9"
@@ -678,37 +678,37 @@
         "url": "https://www.hareruya2.com/products/9016515559744?_pos=1&_sid=87a44d9dc&_ss=r",
         "price": 17000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:14.932Z"
+        "timestamp": "2026-07-17T19:21:12.433Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g103-100-S9-B/",
         "price": 38800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:17.417Z"
+        "timestamp": "2026-07-17T19:21:13.926Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186475",
         "price": 59800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:19.630Z"
+        "timestamp": "2026-07-17T19:21:15.873Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:21.448Z"
+        "timestamp": "2026-07-17T19:21:17.744Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91147",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:22.951Z"
+        "timestamp": "2026-07-17T19:21:19.415Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itn6njp85c8s_vtya?_pos=1&_sid=3f729e6bd&_ss=r",
         "price": 29800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:24.082Z"
+        "timestamp": "2026-07-17T19:21:20.608Z"
       }
     ],
     "code": "103/100S9"
@@ -720,37 +720,37 @@
         "url": "https://www.hareruya2.com/products/9016917262656?_pos=1&_sid=b00a8ec60&_ss=r",
         "price": 18000,
         "stock": 8,
-        "timestamp": "2026-07-16T19:23:25.302Z"
+        "timestamp": "2026-07-17T19:21:22.021Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g118-100-S9-B/",
         "price": 15800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:27.318Z"
+        "timestamp": "2026-07-17T19:21:24.835Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/186490",
         "price": 10800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:29.609Z"
+        "timestamp": "2026-07-17T19:21:28.201Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:31.257Z"
+        "timestamp": "2026-07-17T19:21:30.081Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91146",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:32.787Z"
+        "timestamp": "2026-07-17T19:21:31.524Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it950ojdwshw_k7j7?_pos=1&_sid=1b7665ad8&_ss=r",
         "price": 31800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:33.890Z"
+        "timestamp": "2026-07-17T19:21:32.678Z"
       }
     ],
     "code": "118/100S9"
@@ -762,37 +762,37 @@
         "url": "https://www.hareruya2.com/products/9016989319488?_pos=1&_sid=1885885e2&_ss=r",
         "price": 650,
         "stock": 2,
-        "timestamp": "2026-07-16T19:23:35.133Z"
+        "timestamp": "2026-07-17T19:21:33.940Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g071-067-S10P-B/",
         "price": 11800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:36.644Z"
+        "timestamp": "2026-07-17T19:21:35.710Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193363",
-        "price": 15800,
+        "price": 14800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:38.516Z"
+        "timestamp": "2026-07-17T19:21:37.671Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:40.346Z"
+        "timestamp": "2026-07-17T19:21:39.581Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91141",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:41.993Z"
+        "timestamp": "2026-07-17T19:21:40.914Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ityz8q24b6d4_zgqs?_pos=1&_sid=bc2024076&_ss=r",
         "price": 12800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:43.100Z"
+        "timestamp": "2026-07-17T19:21:42.046Z"
       }
     ],
     "code": "071/067S10P"
@@ -804,37 +804,37 @@
         "url": "https://www.hareruya2.com/product/23119",
         "price": 3000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:44.361Z"
+        "timestamp": "2026-07-17T19:21:43.414Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g086-067-S10P-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:46.044Z"
+        "timestamp": "2026-07-17T19:21:44.983Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193290",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:48.293Z"
+        "timestamp": "2026-07-17T19:21:47.358Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:49.941Z"
+        "timestamp": "2026-07-17T19:21:49.233Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/105546",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:51.372Z"
+        "timestamp": "2026-07-17T19:21:50.796Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itk0s2ahl470_d90u?_pos=1&_sid=b0c5c860d&_ss=r",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:52.475Z"
+        "timestamp": "2026-07-17T19:21:51.990Z"
       }
     ],
     "code": "086/067S10D"
@@ -846,37 +846,37 @@
         "url": "https://www.hareruya2.com/product/23110",
         "price": 6800,
         "stock": 4,
-        "timestamp": "2026-07-16T19:23:53.753Z"
+        "timestamp": "2026-07-17T19:21:53.332Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g077-067-S10P-B/",
         "price": 6780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:23:56.009Z"
+        "timestamp": "2026-07-17T19:21:55.552Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193369",
         "price": 7480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:23:58.416Z"
+        "timestamp": "2026-07-17T19:21:57.551Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:00.267Z"
+        "timestamp": "2026-07-17T19:21:59.408Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91142",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:01.660Z"
+        "timestamp": "2026-07-17T19:22:01.204Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it9atl4ng4zg_gd9l?_pos=1&_sid=fe40469b2&_ss=r",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:02.790Z"
+        "timestamp": "2026-07-17T19:22:02.350Z"
       }
     ],
     "code": "077/067S10P"
@@ -888,37 +888,37 @@
         "url": "https://www.hareruya2.com/product/23121",
         "price": 500,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:03.979Z"
+        "timestamp": "2026-07-17T19:22:03.374Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g088-067-S10P-B/",
         "price": 680,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:05.556Z"
+        "timestamp": "2026-07-17T19:22:05.439Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193380",
         "price": 580,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:07.614Z"
+        "timestamp": "2026-07-17T19:22:07.756Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:09.467Z"
+        "timestamp": "2026-07-17T19:22:09.436Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91144",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:10.874Z"
+        "timestamp": "2026-07-17T19:22:11.272Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itr5dxkbedlc_0aja?_pos=1&_sid=e1debe3d2&_ss=r",
         "price": 580,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:12.000Z"
+        "timestamp": "2026-07-17T19:22:12.382Z"
       }
     ],
     "code": "088/067S10P"
@@ -930,37 +930,37 @@
         "url": "https://www.hareruya2.com/product/23098",
         "price": 2000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:24:13.301Z"
+        "timestamp": "2026-07-17T19:22:13.667Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g088-067-S10D-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:15.315Z"
+        "timestamp": "2026-07-17T19:22:15.723Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193292",
         "price": 1680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:17.358Z"
+        "timestamp": "2026-07-17T19:22:18.053Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:19.198Z"
+        "timestamp": "2026-07-17T19:22:19.728Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93012",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:20.752Z"
+        "timestamp": "2026-07-17T19:22:21.148Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itmjjvcepuws_km1b?_pos=1&_sid=66b2aa4f1&_ss=r",
         "price": 1680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:22.037Z"
+        "timestamp": "2026-07-17T19:22:22.300Z"
       }
     ],
     "code": "088/067S10D"
@@ -971,38 +971,38 @@
       {
         "url": "https://www.hareruya2.com/product/23085",
         "price": 12000,
-        "stock": 22,
-        "timestamp": "2026-07-16T19:24:23.072Z"
+        "stock": 20,
+        "timestamp": "2026-07-17T19:22:23.666Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g075-067-S10D-B/",
         "price": 11800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:25.150Z"
+        "timestamp": "2026-07-17T19:22:25.243Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193279",
         "price": 13800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:27.666Z"
+        "timestamp": "2026-07-17T19:22:27.831Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:29.505Z"
+        "timestamp": "2026-07-17T19:22:29.716Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91140",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:30.886Z"
+        "timestamp": "2026-07-17T19:22:31.228Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itspd7rzsj2k_qf91?_pos=1&_sid=5127b3fe5&_ss=r",
         "price": 23800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:32.026Z"
+        "timestamp": "2026-07-17T19:22:32.431Z"
       }
     ],
     "code": "075/067S10D"
@@ -1014,37 +1014,37 @@
         "url": "https://www.hareruya2.com/product/23096",
         "price": 1700,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:33.054Z"
+        "timestamp": "2026-07-17T19:22:33.530Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g086-067-S10D-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:34.547Z"
+        "timestamp": "2026-07-17T19:22:35.756Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193378",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:36.421Z"
+        "timestamp": "2026-07-17T19:22:38.108Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:38.257Z"
+        "timestamp": "2026-07-17T19:22:40.150Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/105552",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:39.643Z"
+        "timestamp": "2026-07-17T19:22:41.544Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_iteaa9wsw7j8_rq1b?_pos=1&_sid=e391bc6d2&_ss=r",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:40.762Z"
+        "timestamp": "2026-07-17T19:22:42.666Z"
       }
     ],
     "code": "086/067S10P"
@@ -1056,37 +1056,37 @@
         "url": "https://www.hareruya2.com/product/23083",
         "price": 12000,
         "stock": 5,
-        "timestamp": "2026-07-16T19:24:41.801Z"
+        "timestamp": "2026-07-17T19:22:43.905Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g073-067-S10D-B/",
         "price": 11800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:44.161Z"
+        "timestamp": "2026-07-17T19:22:45.874Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193277",
         "price": 11800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:46.027Z"
+        "timestamp": "2026-07-17T19:22:48.269Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:47.870Z"
+        "timestamp": "2026-07-17T19:22:50.132Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96744",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:49.420Z"
+        "timestamp": "2026-07-17T19:22:51.609Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it4z9hzwr0gg_00lk?_pos=1&_sid=47b4a5b41&_ss=r",
         "price": 9980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:50.605Z"
+        "timestamp": "2026-07-17T19:22:52.711Z"
       }
     ],
     "code": "073/067S10D"
@@ -1098,37 +1098,37 @@
         "url": "https://www.hareruya2.com/product/23097",
         "price": 500,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:51.818Z"
+        "timestamp": "2026-07-17T19:22:53.975Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g087-067-S10D-B/",
         "price": 780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:24:53.254Z"
+        "timestamp": "2026-07-17T19:22:55.720Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193291",
         "price": 980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:55.523Z"
+        "timestamp": "2026-07-17T19:22:57.832Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:57.454Z"
+        "timestamp": "2026-07-17T19:22:59.761Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91139",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:24:58.936Z"
+        "timestamp": "2026-07-17T19:23:01.095Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itpfy3v54y94_muv4?_pos=1&_sid=ed3359fd2&_ss=r",
         "price": 680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:00.035Z"
+        "timestamp": "2026-07-17T19:23:02.218Z"
       }
     ],
     "code": "087/067S10D"
@@ -1139,38 +1139,38 @@
       {
         "url": "https://www.hareruya2.com/products/9017077170496?_pos=1&_sid=76be0c925&_ss=r",
         "price": 2100,
-        "stock": 18,
-        "timestamp": "2026-07-16T19:25:01.256Z"
+        "stock": 17,
+        "timestamp": "2026-07-17T19:23:03.518Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g078-067-S10D-B/",
         "price": 1880,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:03.240Z"
+        "timestamp": "2026-07-17T19:23:05.534Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/193282",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:05.498Z"
+        "timestamp": "2026-07-17T19:23:07.479Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:07.149Z"
+        "timestamp": "2026-07-17T19:23:09.360Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91138",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:10.759Z"
+        "timestamp": "2026-07-17T19:23:11.020Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itj331yz9696_4oml?_pos=1&_sid=dc2e3cdf8&_ss=r",
         "price": 2280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:11.881Z"
+        "timestamp": "2026-07-17T19:23:12.208Z"
       }
     ],
     "code": "078/067S10D"
@@ -1180,39 +1180,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/27012",
-        "price": 1700,
+        "price": 1800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:12.898Z"
+        "timestamp": "2026-07-17T19:23:13.451Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g106-078-SV1V-B/",
         "price": 1480,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:14.429Z"
+        "timestamp": "2026-07-17T19:23:14.879Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216733",
         "price": 1680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:16.716Z"
+        "timestamp": "2026-07-17T19:23:16.979Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:18.372Z"
+        "timestamp": "2026-07-17T19:23:18.850Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110939",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:19.780Z"
+        "timestamp": "2026-07-17T19:23:20.319Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it7j7iq32ib7_uaxe?_pos=1&_sid=5d48c3b61&_ss=r",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:20.946Z"
+        "timestamp": "2026-07-17T19:23:21.470Z"
       }
     ],
     "code": "106/078SV1V"
@@ -1223,38 +1223,38 @@
       {
         "url": "https://www.hareruya2.com/product/27011",
         "price": 15000,
-        "stock": 5,
-        "timestamp": "2026-07-16T19:25:22.218Z"
+        "stock": 4,
+        "timestamp": "2026-07-17T19:23:22.677Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g105-078-SV1V-B/",
         "price": 13800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:24.104Z"
+        "timestamp": "2026-07-17T19:23:24.212Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216732",
         "price": 15800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:25.993Z"
+        "timestamp": "2026-07-17T19:23:26.579Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:27.832Z"
+        "timestamp": "2026-07-17T19:23:28.453Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110938",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:29.232Z"
+        "timestamp": "2026-07-17T19:23:29.795Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itzfzucjgbfe_5kyd?_pos=1&_sid=71841c96c&_ss=r",
         "price": 15800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:30.373Z"
+        "timestamp": "2026-07-17T19:23:30.944Z"
       }
     ],
     "code": "105/078SV1V"
@@ -1266,37 +1266,37 @@
         "url": "https://www.hareruya2.com/product/27006",
         "price": 3000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:31.795Z"
+        "timestamp": "2026-07-17T19:23:32.226Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g100-078-SV1V-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:33.170Z"
+        "timestamp": "2026-07-17T19:23:33.747Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216727",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:36.084Z"
+        "timestamp": "2026-07-17T19:23:36.133Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=sv01v&CID=10100&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:38.262Z"
+        "timestamp": "2026-07-17T19:23:38.332Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110910",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:39.753Z"
+        "timestamp": "2026-07-17T19:23:40.126Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itl6z8ci80wm_eo2q?_pos=1&_sid=94fa7be71&_ss=r",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:40.859Z"
+        "timestamp": "2026-07-17T19:23:41.243Z"
       }
     ],
     "code": "100/078SV1V"
@@ -1308,37 +1308,37 @@
         "url": "https://www.hareruya2.com/product/27008",
         "price": 6000,
         "stock": 6,
-        "timestamp": "2026-07-16T19:25:42.104Z"
+        "timestamp": "2026-07-17T19:23:42.514Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g102-078-SV1V-B/",
         "price": 5480,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:43.705Z"
+        "timestamp": "2026-07-17T19:23:44.139Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216729",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:45.762Z"
+        "timestamp": "2026-07-17T19:23:46.283Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=sv01v&CID=10102&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:48.018Z"
+        "timestamp": "2026-07-17T19:23:48.421Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110935",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:49.480Z"
+        "timestamp": "2026-07-17T19:23:49.987Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it4dizsvdpig_szkv?_pos=1&_sid=9a0305777&_ss=r",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:50.616Z"
+        "timestamp": "2026-07-17T19:23:51.120Z"
       }
     ],
     "code": "102/078SV1V"
@@ -1350,37 +1350,37 @@
         "url": "https://www.hareruya2.com/products/9017272467776?_pos=1&_sid=da8b6e3be&_ss=r",
         "price": 3500,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:51.841Z"
+        "timestamp": "2026-07-17T19:23:52.318Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g103-098-S12-B/",
         "price": 3080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:25:53.990Z"
+        "timestamp": "2026-07-17T19:23:54.357Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208696",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:56.394Z"
+        "timestamp": "2026-07-17T19:23:56.315Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10103&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:58.633Z"
+        "timestamp": "2026-07-17T19:23:58.259Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100560",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:25:59.924Z"
+        "timestamp": "2026-07-17T19:23:59.937Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it02jpfy4a5g_wk5y?_pos=1&_sid=1d01dfe82&_ss=r",
         "price": 2280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:01.091Z"
+        "timestamp": "2026-07-17T19:24:01.130Z"
       }
     ],
     "code": "103/098S12"
@@ -1392,37 +1392,37 @@
         "url": "https://www.hareruya2.com/products/9017213583680?_pos=1&_sid=7b0bd31ea&_ss=r",
         "price": 500,
         "stock": 48,
-        "timestamp": "2026-07-16T19:26:02.310Z"
+        "timestamp": "2026-07-17T19:24:02.391Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g111-098-S12-B/",
         "price": 480,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:03.942Z"
+        "timestamp": "2026-07-17T19:24:04.729Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208704",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:05.990Z"
+        "timestamp": "2026-07-17T19:24:07.250Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10111&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:08.080Z"
+        "timestamp": "2026-07-17T19:24:09.396Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100568",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:09.673Z"
+        "timestamp": "2026-07-17T19:24:10.919Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itz91z6e3bk8_ipei?_pos=1&_sid=6d6476001&_ss=r",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:10.796Z"
+        "timestamp": "2026-07-17T19:24:12.074Z"
       }
     ],
     "code": "111/098S12"
@@ -1434,37 +1434,37 @@
         "url": "https://www.hareruya2.com/products/9017214370112?_pos=1&_sid=29b3a1d9d&_ss=r",
         "price": 1900,
         "stock": 9,
-        "timestamp": "2026-07-16T19:26:12.118Z"
+        "timestamp": "2026-07-17T19:24:13.346Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g113-098-S12-B/",
         "price": 2080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:13.840Z"
+        "timestamp": "2026-07-17T19:24:15.359Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208706",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:16.310Z"
+        "timestamp": "2026-07-17T19:24:17.580Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10113&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:18.442Z"
+        "timestamp": "2026-07-17T19:24:19.725Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100570",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:19.999Z"
+        "timestamp": "2026-07-17T19:24:21.240Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itl62sxvnxwq_ygek?_pos=1&_sid=6725bb594&_ss=r",
         "price": 2280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:21.134Z"
+        "timestamp": "2026-07-17T19:24:22.380Z"
       }
     ],
     "code": "113/098S12"
@@ -1476,31 +1476,31 @@
         "url": "https://www.hareruya2.com/products/9017655394624?_pos=5&_sid=cffcf796d&_ss=r",
         "price": 13000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:22.364Z"
+        "timestamp": "2026-07-17T19:24:23.616Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g322-S-P/",
         "price": 12800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:24.514Z"
+        "timestamp": "2026-07-17T19:24:25.339Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208719",
         "price": 6480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:26.730Z"
+        "timestamp": "2026-07-17T19:24:28.115Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10109&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:28.830Z"
+        "timestamp": "2026-07-17T19:24:30.316Z"
       },
       {
         "url": "https://snkrdunk.com/products/43977",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:31.285Z"
+        "timestamp": "2026-07-17T19:24:32.802Z"
       }
     ],
     "code": "322S-P"
@@ -1511,38 +1511,38 @@
       {
         "url": "https://www.hareruya2.com/products/9017087459648?_pos=1&_sid=0f37463d3&_ss=r",
         "price": 2400,
-        "stock": 92,
-        "timestamp": "2026-07-16T19:26:32.580Z"
+        "stock": 117,
+        "timestamp": "2026-07-17T19:24:33.995Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g110-098-S12-B/",
         "price": 158000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:34.148Z"
+        "timestamp": "2026-07-17T19:24:35.506Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208703",
         "price": 178000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:36.432Z"
+        "timestamp": "2026-07-17T19:24:37.782Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10110&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:38.699Z"
+        "timestamp": "2026-07-17T19:24:39.922Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100567",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:40.001Z"
+        "timestamp": "2026-07-17T19:24:41.364Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it8y25mgj332_pxjr?_pos=1&_sid=29b765f6f&_ss=r",
         "price": 218000,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:26:41.093Z"
+        "stock": 0,
+        "timestamp": "2026-07-17T19:24:42.484Z"
       }
     ],
     "code": "110/098S12"
@@ -1553,38 +1553,38 @@
       {
         "url": "https://www.hareruya2.com/products/9017087918400?_pos=1&_sid=e04da3722&_ss=r",
         "price": 950,
-        "stock": 6,
-        "timestamp": "2026-07-16T19:26:42.376Z"
+        "stock": 8,
+        "timestamp": "2026-07-17T19:24:43.726Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g123-098-S12-B/",
         "price": 9080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:44.497Z"
+        "timestamp": "2026-07-17T19:24:46.246Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208716",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:46.726Z"
+        "timestamp": "2026-07-17T19:24:48.249Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10123&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:48.836Z"
+        "timestamp": "2026-07-17T19:24:50.381Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100580",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:50.116Z"
+        "timestamp": "2026-07-17T19:24:51.931Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itgt7oortfxc_4wj2?_pos=1&_sid=99a76e2bb&_ss=r",
         "price": 7480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:51.252Z"
+        "timestamp": "2026-07-17T19:24:53.083Z"
       }
     ],
     "code": "123/098S12"
@@ -1596,37 +1596,37 @@
         "url": "https://www.hareruya2.com/product/25603",
         "price": 3300,
         "stock": 19,
-        "timestamp": "2026-07-16T19:26:52.267Z"
+        "timestamp": "2026-07-17T19:24:54.154Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g108-098-S12-B/",
         "price": 2880,
         "stock": 0,
-        "timestamp": "2026-07-16T19:26:54.319Z"
+        "timestamp": "2026-07-17T19:24:56.241Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/208701",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:56.611Z"
+        "timestamp": "2026-07-17T19:24:58.550Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s12&CID=10108&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:26:58.874Z"
+        "timestamp": "2026-07-17T19:25:00.700Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100565",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:00.264Z"
+        "timestamp": "2026-07-17T19:25:02.216Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2t6rwmk4d4_d6qr?_pos=1&_sid=26408caf2&_ss=r",
         "price": 2480,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:01.413Z"
+        "timestamp": "2026-07-17T19:25:03.384Z"
       }
     ],
     "code": "108/098S12"
@@ -1638,37 +1638,37 @@
         "url": "https://www.hareruya2.com/product/20486",
         "price": 1500,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:02.637Z"
+        "timestamp": "2026-07-17T19:25:04.395Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g113-100-S8-B/",
         "price": 2280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:04.356Z"
+        "timestamp": "2026-07-17T19:25:06.199Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/177184",
         "price": 2180,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:06.809Z"
+        "timestamp": "2026-07-17T19:25:08.512Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10113&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:08.912Z"
+        "timestamp": "2026-07-17T19:25:10.453Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/105534",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:10.573Z"
+        "timestamp": "2026-07-17T19:25:12.068Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it0gglwusspu_nqrb?_pos=1&_sid=f71f158cd&_ss=r",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:11.767Z"
+        "timestamp": "2026-07-17T19:25:13.193Z"
       }
     ],
     "code": "113/100S8"
@@ -1680,37 +1680,37 @@
         "url": "https://www.hareruya2.com/product/20482",
         "price": 2500,
         "stock": 10,
-        "timestamp": "2026-07-16T19:27:12.814Z"
+        "timestamp": "2026-07-17T19:25:14.292Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g109-100-S8-B/",
         "price": 2280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:14.427Z"
+        "timestamp": "2026-07-17T19:25:15.836Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/177180",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:16.354Z"
+        "timestamp": "2026-07-17T19:25:17.773Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10109&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:18.524Z"
+        "timestamp": "2026-07-17T19:25:19.720Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96577",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:19.932Z"
+        "timestamp": "2026-07-17T19:25:21.140Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it8utof6s23c_mhtf?_pos=1&_sid=94e857262&_ss=r",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:21.081Z"
+        "timestamp": "2026-07-17T19:25:22.316Z"
       }
     ],
     "code": "109/100S8"
@@ -1722,37 +1722,37 @@
         "url": "https://www.hareruya2.com/product/20492",
         "price": 180000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:22.131Z"
+        "timestamp": "2026-07-17T19:25:23.649Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g119-100-S8-B/",
         "price": 188000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:23.895Z"
+        "timestamp": "2026-07-17T19:25:25.655Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/177190",
         "price": 178000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:25.782Z"
+        "timestamp": "2026-07-17T19:25:27.995Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10119&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:27.989Z"
+        "timestamp": "2026-07-17T19:25:30.141Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93016",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:29.540Z"
+        "timestamp": "2026-07-17T19:25:31.623Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itf25abmblur_xtvq?_pos=1&_sid=9d6500ecd&_ss=r",
         "price": 228000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:30.669Z"
+        "timestamp": "2026-07-17T19:25:32.749Z"
       }
     ],
     "code": "119/100S8"
@@ -1764,37 +1764,37 @@
         "url": "https://www.hareruya2.com/products/9016809324864?_pos=1&_sid=0909bd8b0&_ss=r",
         "price": 8500,
         "stock": 39,
-        "timestamp": "2026-07-16T19:27:32.100Z"
+        "timestamp": "2026-07-17T19:25:34.023Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g106-100-S8-B/",
         "price": 27800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:33.936Z"
+        "timestamp": "2026-07-17T19:25:35.716Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/177177",
         "price": 44800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:36.410Z"
+        "timestamp": "2026-07-17T19:25:37.658Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10106&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:38.515Z"
+        "timestamp": "2026-07-17T19:25:39.790Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91163",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:40.298Z"
+        "timestamp": "2026-07-17T19:25:41.249Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itnugm66n5je_8ifm?_pos=1&_sid=6beefbdd3&_ss=r",
         "price": 44800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:41.429Z"
+        "timestamp": "2026-07-17T19:25:42.377Z"
       }
     ],
     "code": "106/100S8"
@@ -1806,37 +1806,37 @@
         "url": "https://www.hareruya2.com/product/20502",
         "price": 3500,
         "stock": 2,
-        "timestamp": "2026-07-16T19:27:42.625Z"
+        "timestamp": "2026-07-17T19:25:43.653Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g129-100-S8-B/",
         "price": 3380,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:44.188Z"
+        "timestamp": "2026-07-17T19:25:45.497Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/236590",
         "price": 2180,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:46.399Z"
+        "timestamp": "2026-07-17T19:25:47.852Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10129&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:48.496Z"
+        "timestamp": "2026-07-17T19:25:49.969Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/132286",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:50.108Z"
+        "timestamp": "2026-07-17T19:25:51.307Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it5lfieopkdm_gyjk?_pos=1&_sid=8bbe36c4b&_ss=r",
         "price": 3280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:51.263Z"
+        "timestamp": "2026-07-17T19:25:52.462Z"
       }
     ],
     "code": "129/100S8"
@@ -1848,37 +1848,37 @@
         "url": "https://www.hareruya2.com/product/20501",
         "price": 2300,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:52.512Z"
+        "timestamp": "2026-07-17T19:25:53.705Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g128-100-S8-B/",
         "price": 4080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:27:54.242Z"
+        "timestamp": "2026-07-17T19:25:55.284Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/225197",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:56.114Z"
+        "timestamp": "2026-07-17T19:25:57.231Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08&CID=10128&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:58.268Z"
+        "timestamp": "2026-07-17T19:25:59.371Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/141409",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:27:59.773Z"
+        "timestamp": "2026-07-17T19:26:00.878Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itquesmpwkrc_vlzs?_pos=1&_sid=1897e3ca1&_ss=r",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:00.988Z"
+        "timestamp": "2026-07-17T19:26:02.056Z"
       }
     ],
     "code": "128/100S8"
@@ -1890,37 +1890,37 @@
         "url": "https://www.hareruya2.com/product/24309",
         "price": 1700,
         "stock": 4,
-        "timestamp": "2026-07-16T19:28:02.206Z"
+        "timestamp": "2026-07-17T19:26:03.313Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g114-100-S11-B/",
         "price": 2080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:04.722Z"
+        "timestamp": "2026-07-17T19:26:05.700Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/200616",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:07.113Z"
+        "timestamp": "2026-07-17T19:26:07.681Z"
       },
       {
-        "url": "https://snkrdunk.com/apparels/93374",
+        "url": "https://snkrdunk.com/apparels/91312",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:08.743Z"
+        "timestamp": "2026-07-17T19:26:09.979Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itre7opok9bu_kf7y?_pos=1&_sid=3392cdd78&_ss=r",
         "price": 1880,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:09.842Z"
+        "timestamp": "2026-07-17T19:26:11.118Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:11.691Z"
+        "timestamp": "2026-07-17T19:26:13.024Z"
       }
     ],
     "code": "114/100S11"
@@ -1932,37 +1932,37 @@
         "url": "https://www.hareruya2.com/product/24301",
         "price": 18000,
         "stock": 4,
-        "timestamp": "2026-07-16T19:28:12.761Z"
+        "timestamp": "2026-07-17T19:26:14.064Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g111-100-S11-B/",
         "price": 308000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:14.777Z"
+        "timestamp": "2026-07-17T19:26:15.971Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/200613",
         "price": 278000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:17.039Z"
+        "timestamp": "2026-07-17T19:26:18.294Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s11&CID=10111&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:19.140Z"
+        "timestamp": "2026-07-17T19:26:20.444Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93379",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:20.711Z"
+        "timestamp": "2026-07-17T19:26:21.875Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itlrbwcwtftc_pvzc?_pos=1&_sid=8d915b961&_ss=r",
         "price": 12800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:21.811Z"
+        "timestamp": "2026-07-17T19:26:23.033Z"
       }
     ],
     "code": "111/100S11"
@@ -1974,37 +1974,37 @@
         "url": "https://www.hareruya2.com/product/24320",
         "price": 9000,
         "stock": 3,
-        "timestamp": "2026-07-16T19:28:22.822Z"
+        "timestamp": "2026-07-17T19:26:24.353Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g125-100-S11-B/",
         "price": 9080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:24.312Z"
+        "timestamp": "2026-07-17T19:26:26.023Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/200627",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:26.529Z"
+        "timestamp": "2026-07-17T19:26:28.390Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/105536",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:27.794Z"
+        "timestamp": "2026-07-17T19:26:29.835Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itv32c7rdnq4_afdp?_pos=1&_sid=47cd9f5a5&_ss=r",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:28.934Z"
+        "timestamp": "2026-07-17T19:26:30.973Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:30.595Z"
+        "timestamp": "2026-07-17T19:26:32.817Z"
       }
     ],
     "code": "125/100S11"
@@ -2016,37 +2016,37 @@
         "url": "https://www.hareruya2.com/products/9017269813568?_pos=1&_sid=932c78bcb&_ss=r",
         "price": 18000,
         "stock": 4,
-        "timestamp": "2026-07-16T19:28:31.909Z"
+        "timestamp": "2026-07-17T19:26:34.072Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g106-100-S11-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:33.884Z"
+        "timestamp": "2026-07-17T19:26:36.120Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/200608",
         "price": 19800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:35.770Z"
+        "timestamp": "2026-07-17T19:26:38.502Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93378",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:37.168Z"
+        "timestamp": "2026-07-17T19:26:39.940Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itpzkxbb0hjs_vcbn?_pos=1&_sid=7400d45f1&_ss=r",
         "price": 29800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:28:38.313Z"
+        "stock": 0,
+        "timestamp": "2026-07-17T19:26:41.161Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:40.206Z"
+        "timestamp": "2026-07-17T19:26:43.043Z"
       }
     ],
     "code": "106/100S11"
@@ -2058,37 +2058,37 @@
         "url": "https://www.hareruya2.com/product/19007",
         "price": 55000,
         "stock": 5,
-        "timestamp": "2026-07-16T19:28:41.555Z"
+        "timestamp": "2026-07-17T19:26:44.369Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g085-070-S5I-B/",
         "price": 50800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:43.241Z"
+        "timestamp": "2026-07-17T19:26:47.043Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154560",
         "price": 59800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:45.109Z"
+        "timestamp": "2026-07-17T19:26:49.003Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s05i&CID=10085&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:47.219Z"
+        "timestamp": "2026-07-17T19:26:51.201Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93034",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:48.835Z"
+        "timestamp": "2026-07-17T19:26:52.639Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itcuh9apvcrc_pysj?_pos=1&_sid=bc5922045&_ss=r",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:49.959Z"
+        "timestamp": "2026-07-17T19:26:53.814Z"
       }
     ],
     "code": "085/070S5I"
@@ -2100,37 +2100,37 @@
         "url": "https://www.hareruya2.com/products/9016629625152",
         "price": 6000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:51.160Z"
+        "timestamp": "2026-07-17T19:26:54.755Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g075-070-S5I-B/",
         "price": 5080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:28:53.365Z"
+        "timestamp": "2026-07-17T19:26:56.965Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154550",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:55.243Z"
+        "timestamp": "2026-07-17T19:26:59.293Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/98654",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:56.530Z"
+        "timestamp": "2026-07-17T19:27:00.801Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itcuh9apvcrc_pysj?_pos=1&_sid=3ff5afa3c&_ss=r",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:57.671Z"
+        "timestamp": "2026-07-17T19:27:01.907Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:28:59.519Z"
+        "timestamp": "2026-07-17T19:27:03.838Z"
       }
     ],
     "code": "075/070S5I"
@@ -2142,37 +2142,37 @@
         "url": "https://www.hareruya2.com/product/19013",
         "price": 600,
         "stock": 10,
-        "timestamp": "2026-07-16T19:29:00.767Z"
+        "timestamp": "2026-07-17T19:27:04.890Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g091-070-S5I-B/",
         "price": 680,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:02.912Z"
+        "timestamp": "2026-07-17T19:27:06.653Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154566",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:04.755Z"
+        "timestamp": "2026-07-17T19:27:09.025Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/98663",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:06.227Z"
+        "timestamp": "2026-07-17T19:27:10.373Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itv7rbpwvvfk_dlix?_pos=1&_sid=339d6d5ae&_ss=r",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:07.342Z"
+        "timestamp": "2026-07-17T19:27:11.509Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:09.165Z"
+        "timestamp": "2026-07-17T19:27:13.384Z"
       }
     ],
     "code": "091/070S5I"
@@ -2184,37 +2184,37 @@
         "url": "https://www.hareruya2.com/products/9016632574272",
         "price": 44000,
         "stock": 5,
-        "timestamp": "2026-07-16T19:29:10.341Z"
+        "timestamp": "2026-07-17T19:27:14.361Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g077-070-S5I-B/",
         "price": 48800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:12.494Z"
+        "timestamp": "2026-07-17T19:27:16.844Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154552",
         "price": 59800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:14.378Z"
+        "timestamp": "2026-07-17T19:27:19.189Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s05i&CID=10077&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:16.486Z"
+        "timestamp": "2026-07-17T19:27:21.132Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91189",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:18.135Z"
+        "timestamp": "2026-07-17T19:27:22.498Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itt1vsxlv38e_onbt?_pos=1&_sid=5da00cc02&_ss=r",
         "price": 59800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:19.236Z"
+        "timestamp": "2026-07-17T19:27:23.716Z"
       }
     ],
     "code": "077/070S5I"
@@ -2226,37 +2226,37 @@
         "url": "https://www.hareruya2.com/products/9016643387712?_pos=2&_sid=04de63430&_ss=r",
         "price": 2900,
         "stock": 8,
-        "timestamp": "2026-07-16T19:29:20.521Z"
+        "timestamp": "2026-07-17T19:27:24.930Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g080-070-S5I-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:22.713Z"
+        "timestamp": "2026-07-17T19:27:26.472Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154555",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:24.590Z"
+        "timestamp": "2026-07-17T19:27:28.838Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/98666",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:26.083Z"
+        "timestamp": "2026-07-17T19:27:30.302Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it3gb9bp4us8_uhxd?_pos=1&_sid=18d73113e&_ss=r",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:27.271Z"
+        "timestamp": "2026-07-17T19:27:31.472Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:28.933Z"
+        "timestamp": "2026-07-17T19:27:33.143Z"
       }
     ],
     "code": "080/070S5I"
@@ -2268,37 +2268,37 @@
         "url": "https://www.hareruya2.com/products/9016560484672?_pos=1&_sid=8285356d7&_ss=r",
         "price": 4000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:30.171Z"
+        "timestamp": "2026-07-17T19:27:34.401Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g089-070-S5I-B/",
         "price": 3580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:32.426Z"
+        "timestamp": "2026-07-17T19:27:36.418Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154564",
         "price": 3980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:34.887Z"
+        "timestamp": "2026-07-17T19:27:38.366Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/99571",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:36.363Z"
+        "timestamp": "2026-07-17T19:27:39.929Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itosb1qml1zo_h0v2?_pos=1&_sid=0460708fa&_ss=r",
         "price": 3780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:37.515Z"
+        "timestamp": "2026-07-17T19:27:41.056Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:39.415Z"
+        "timestamp": "2026-07-17T19:27:42.726Z"
       }
     ],
     "code": "089/070S5I"
@@ -2310,37 +2310,37 @@
         "url": "https://www.hareruya2.com/products/9016490230080?_pos=1&_sid=4d8113f16&_ss=r",
         "price": 3700,
         "stock": 8,
-        "timestamp": "2026-07-16T19:29:40.613Z"
+        "timestamp": "2026-07-17T19:27:43.831Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g109-100-S4-B/",
         "price": 3580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:42.116Z"
+        "timestamp": "2026-07-17T19:27:46.049Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182785",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:44.585Z"
+        "timestamp": "2026-07-17T19:27:48.414Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s04&CID=10109&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:46.780Z"
+        "timestamp": "2026-07-17T19:27:50.554Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96675",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:48.274Z"
+        "timestamp": "2026-07-17T19:27:52.026Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itcx7olwwzlw_3dry?_pos=1&_sid=6d7e1b8af&_ss=r",
         "price": 2280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:49.386Z"
+        "timestamp": "2026-07-17T19:27:53.150Z"
       }
     ],
     "code": "109/100s4"
@@ -2352,37 +2352,37 @@
         "url": "https://www.hareruya2.com/products/9016492622144?_pos=1&_sid=651959804&_ss=r",
         "price": 75000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:50.622Z"
+        "timestamp": "2026-07-17T19:27:54.365Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g114-100-S4-B/",
         "price": 70800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:52.750Z"
+        "timestamp": "2026-07-17T19:27:55.804Z"
       },
       {
         "url": "https://www.c-labo-kaitori.jp/product/17256",
         "price": 48000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:54.915Z"
+        "timestamp": "2026-07-17T19:27:57.918Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91197",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:56.308Z"
+        "timestamp": "2026-07-17T19:27:59.508Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it3qsab5vjcx_ourl?_pos=1&_sid=4f22944af&_ss=r",
         "price": 57800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:29:57.424Z"
+        "timestamp": "2026-07-17T19:28:00.681Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:29:59.270Z"
+        "timestamp": "2026-07-17T19:28:02.790Z"
       }
     ],
     "code": "114/100s4"
@@ -2394,37 +2394,37 @@
         "url": "https://www.hareruya2.com/products/9016491311424?_pos=4&_sid=c2b518a6b&_ss=r",
         "price": 6000,
         "stock": 5,
-        "timestamp": "2026-07-16T19:30:00.327Z"
+        "timestamp": "2026-07-17T19:28:04.245Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g111-100-S4-B/",
         "price": 5780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:02.169Z"
+        "timestamp": "2026-07-17T19:28:05.931Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/143726",
         "price": 5980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:04.552Z"
+        "timestamp": "2026-07-17T19:28:08.465Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96715",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:05.980Z"
+        "timestamp": "2026-07-17T19:28:09.842Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itb3tnilcuq8_gayl?_pos=1&_sid=fcc481a7b&_ss=r",
         "price": 3780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:07.144Z"
+        "timestamp": "2026-07-17T19:28:10.973Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:08.976Z"
+        "timestamp": "2026-07-17T19:28:12.700Z"
       }
     ],
     "code": "111/100s4"
@@ -2435,38 +2435,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016751653184?_pos=3&_sid=dc807330e&_ss=r",
         "price": 15000,
-        "stock": 6,
-        "timestamp": "2026-07-16T19:30:10.211Z"
+        "stock": 3,
+        "timestamp": "2026-07-17T19:28:13.949Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g080-070-S6K-B/",
         "price": 12800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:12.639Z"
+        "timestamp": "2026-07-17T19:28:16.243Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163139",
         "price": 16800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:15.072Z"
+        "timestamp": "2026-07-17T19:28:18.563Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91181",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:16.857Z"
+        "timestamp": "2026-07-17T19:28:19.993Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itncc10upbq6_k5lg?_pos=1&_sid=c7f5d29aa&_ss=r",
         "price": 17800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:18.023Z"
+        "timestamp": "2026-07-17T19:28:21.134Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:19.686Z"
+        "timestamp": "2026-07-17T19:28:23.006Z"
       }
     ],
     "code": "080/070S6K"
@@ -2478,37 +2478,37 @@
         "url": "https://www.hareruya2.com/products/9016753586496?_pos=1&_sid=b626f7dfb&_ss=r",
         "price": 95000,
         "stock": 3,
-        "timestamp": "2026-07-16T19:30:20.992Z"
+        "timestamp": "2026-07-17T19:28:24.239Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g086-070-S6K-B/",
         "price": 108000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:22.642Z"
+        "timestamp": "2026-07-17T19:28:26.101Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163145",
         "price": 108000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:24.927Z"
+        "timestamp": "2026-07-17T19:28:28.005Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91182",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:26.469Z"
+        "timestamp": "2026-07-17T19:28:29.423Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itrsj5kk5t0e_m7ce?_pos=1&_sid=9165d2ded&_ss=r",
         "price": 108000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:27.630Z"
+        "timestamp": "2026-07-17T19:28:30.591Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:29.475Z"
+        "timestamp": "2026-07-17T19:28:32.476Z"
       }
     ],
     "code": "086/070S6K"
@@ -2520,37 +2520,37 @@
         "url": "https://www.hareruya2.com/products/9016750309696?_pos=1&_sid=d9a12b75c&_ss=r",
         "price": 4200,
         "stock": 5,
-        "timestamp": "2026-07-16T19:30:30.734Z"
+        "timestamp": "2026-07-17T19:28:33.867Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g076-070-S6K-B/",
         "price": 3580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:32.441Z"
+        "timestamp": "2026-07-17T19:28:35.691Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163135",
         "price": 4480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:34.685Z"
+        "timestamp": "2026-07-17T19:28:38.155Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06k&CID=10076&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:36.946Z"
+        "timestamp": "2026-07-17T19:28:40.450Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96682",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:38.362Z"
+        "timestamp": "2026-07-17T19:28:41.829Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it9ecssamida_qbuy?_pos=1&_sid=8df8ae42f&_ss=r",
         "price": 3980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:39.534Z"
+        "timestamp": "2026-07-17T19:28:43.000Z"
       }
     ],
     "code": "076/070S6K"
@@ -2561,38 +2561,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016737923392?_pos=3&_sid=6a1d96816&_ss=r",
         "price": 16000,
-        "stock": 3,
-        "timestamp": "2026-07-16T19:30:40.556Z"
+        "stock": 2,
+        "timestamp": "2026-07-17T19:28:44.126Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-070-S6K-B/",
         "price": 15800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:43.032Z"
+        "timestamp": "2026-07-17T19:28:46.341Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163133",
         "price": 17800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:45.080Z"
+        "timestamp": "2026-07-17T19:28:48.284Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91180",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:46.763Z"
+        "timestamp": "2026-07-17T19:28:49.659Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itg76rw92i32_ugv0?_pos=1&_sid=d0b6e8680&_ss=r",
         "price": 10800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:47.859Z"
+        "timestamp": "2026-07-17T19:28:50.754Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:49.712Z"
+        "timestamp": "2026-07-17T19:28:52.728Z"
       }
     ],
     "code": "074/070S6K"
@@ -2604,37 +2604,37 @@
         "url": "https://www.hareruya2.com/products/9062746063168?_pos=3&_sid=002f2854c&_ss=r",
         "price": 20000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:50.964Z"
+        "timestamp": "2026-07-17T19:28:53.798Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g175-S-P/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:52.661Z"
+        "timestamp": "2026-07-17T19:28:55.534Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163788",
         "price": 19800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:54.999Z"
+        "timestamp": "2026-07-17T19:28:57.468Z"
       },
       {
         "url": "https://snkrdunk.com/products/84724",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:30:57.193Z"
+        "timestamp": "2026-07-17T19:28:59.981Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_its270p7vlrs_v1ld?_pos=1&_sid=2de3ed76f&_ss=r&variant=44308192854190",
         "price": 19800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:30:58.318Z"
+        "timestamp": "2026-07-17T19:29:01.183Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:00.208Z"
+        "timestamp": "2026-07-17T19:29:03.049Z"
       }
     ],
     "code": "175S-P"
@@ -2646,37 +2646,37 @@
         "url": "https://www.hareruya2.com/products/9016751358272?_pos=5&_sid=dc266f1ff&_ss=r",
         "price": 4200,
         "stock": 2,
-        "timestamp": "2026-07-16T19:31:01.410Z"
+        "timestamp": "2026-07-17T19:29:04.093Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g079-070-S6K-B/",
         "price": 4580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:03.301Z"
+        "timestamp": "2026-07-17T19:29:06.269Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163138",
         "price": 4980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:05.699Z"
+        "timestamp": "2026-07-17T19:29:08.385Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96686",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:07.020Z"
+        "timestamp": "2026-07-17T19:29:09.725Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itch1f8zj0mc_rc6j?_pos=1&_sid=7c0a97ea0&_ss=r",
         "price": 4980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:08.170Z"
+        "timestamp": "2026-07-17T19:29:10.922Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:10.033Z"
+        "timestamp": "2026-07-17T19:29:12.801Z"
       }
     ],
     "code": "079/070S6K"
@@ -2688,37 +2688,37 @@
         "url": "https://www.hareruya2.com/products/9016642666816?_pos=2&_sid=0f079ef20&_ss=r",
         "price": 52000,
         "stock": 8,
-        "timestamp": "2026-07-16T19:31:11.097Z"
+        "timestamp": "2026-07-17T19:29:14.412Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g078-070-S5A-B/",
         "price": 57800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:13.718Z"
+        "timestamp": "2026-07-17T19:29:17.042Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/160489",
         "price": 59800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:15.984Z"
+        "timestamp": "2026-07-17T19:29:19.123Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91185",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:17.343Z"
+        "timestamp": "2026-07-17T19:29:20.625Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itj54ie8xxf4_svmz?_pos=1&_sid=66bce35da&_ss=r",
         "price": 69800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:18.454Z"
+        "timestamp": "2026-07-17T19:29:21.759Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:20.309Z"
+        "timestamp": "2026-07-17T19:29:23.621Z"
       }
     ],
     "code": "078/070S5a"
@@ -2730,37 +2730,37 @@
         "url": "https://www.hareruya2.com/products/9016630640960?_pos=1&_sid=95b752692&_ss=r",
         "price": 8500,
         "stock": 3,
-        "timestamp": "2026-07-16T19:31:21.604Z"
+        "timestamp": "2026-07-17T19:29:24.685Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-070-S5A-B/",
         "price": 9080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:23.306Z"
+        "timestamp": "2026-07-17T19:29:26.999Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/160485",
         "price": 8480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:25.351Z"
+        "timestamp": "2026-07-17T19:29:29.547Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/127726",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:26.790Z"
+        "timestamp": "2026-07-17T19:29:31.086Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it8l93lcfonc_kpkq?_pos=1&_sid=a6bce59ca&_ss=r",
         "price": 8980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:27.938Z"
+        "timestamp": "2026-07-17T19:29:32.256Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:29.600Z"
+        "timestamp": "2026-07-17T19:29:34.122Z"
       }
     ],
     "code": "074/070S5a"
@@ -2772,37 +2772,37 @@
         "url": "https://www.hareruya2.com/products/9016647975232?_pos=2&_sid=e4a06f44d&_ss=r",
         "price": 2600,
         "stock": 6,
-        "timestamp": "2026-07-16T19:31:30.619Z"
+        "timestamp": "2026-07-17T19:29:35.489Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g081-070-S5A-B/",
         "price": 2980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:33.185Z"
+        "timestamp": "2026-07-17T19:29:37.232Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/160492",
         "price": 2980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:35.462Z"
+        "timestamp": "2026-07-17T19:29:39.226Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/98677",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:36.798Z"
+        "timestamp": "2026-07-17T19:29:40.550Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itti4cbxfwlf_3cwn?_pos=1&_sid=833af48e6&_ss=r",
         "price": 2580,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:37.922Z"
+        "timestamp": "2026-07-17T19:29:41.759Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:39.753Z"
+        "timestamp": "2026-07-17T19:29:43.620Z"
       }
     ],
     "code": "081/070S5a"
@@ -2814,37 +2814,37 @@
         "url": "https://www.hareruya2.com/products/9016650006848?_pos=3&_sid=b5b22c16b&_ss=r",
         "price": 12000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:31:41.078Z"
+        "timestamp": "2026-07-17T19:29:45.051Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g082-070-S5A-B/",
         "price": 9980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:42.740Z"
+        "timestamp": "2026-07-17T19:29:46.825Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/160493",
         "price": 11800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:44.615Z"
+        "timestamp": "2026-07-17T19:29:48.753Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s05a&CID=10082&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:46.545Z"
+        "timestamp": "2026-07-17T19:29:50.870Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91184",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:47.812Z"
+        "timestamp": "2026-07-17T19:29:52.702Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itlabur8if3e_ttxx?_pos=1&_sid=002b0f92c&_ss=r",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:48.928Z"
+        "timestamp": "2026-07-17T19:29:53.852Z"
       }
     ],
     "code": "082/070S5a"
@@ -2856,37 +2856,37 @@
         "url": "https://www.hareruya2.com/products/9016931877184?_pos=1&_sid=19109a2ff&_ss=r",
         "price": 5300,
         "stock": 5,
-        "timestamp": "2026-07-16T19:31:50.232Z"
+        "timestamp": "2026-07-17T19:29:55.163Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g086-070-S5A-B/",
         "price": 108000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:52.284Z"
+        "timestamp": "2026-07-17T19:29:57.438Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/160497",
         "price": 108000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:54.158Z"
+        "timestamp": "2026-07-17T19:29:59.728Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s05a&CID=10086&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:56.242Z"
+        "timestamp": "2026-07-17T19:30:01.672Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93030",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:31:57.561Z"
+        "timestamp": "2026-07-17T19:30:03.286Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2b3phvc3kx_msgf?_pos=1&_sid=8f4d76ea4&_ss=r",
         "price": 108000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:31:58.708Z"
+        "timestamp": "2026-07-17T19:30:04.450Z"
       }
     ],
     "code": "086/070S5a"
@@ -2898,37 +2898,37 @@
         "url": "https://www.hareruya2.com/product/19860",
         "price": 75000,
         "stock": 8,
-        "timestamp": "2026-07-16T19:31:59.753Z"
+        "timestamp": "2026-07-17T19:30:05.761Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-067-S7R-B/",
         "price": 82800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:02.318Z"
+        "timestamp": "2026-07-17T19:30:07.424Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170821",
         "price": 84800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:04.188Z"
+        "timestamp": "2026-07-17T19:30:09.346Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91166",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:05.747Z"
+        "timestamp": "2026-07-17T19:30:10.937Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itycnbmlsym8_lkbh?_pos=1&_sid=7c632c575&_ss=r&variant=47176147566766",
         "price": 34800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:06.911Z"
+        "timestamp": "2026-07-17T19:30:12.134Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:08.766Z"
+        "timestamp": "2026-07-17T19:30:14.042Z"
       }
     ],
     "code": "074/067S7R"
@@ -2940,37 +2940,37 @@
         "url": "https://www.hareruya2.com/product/19863",
         "price": 9000,
         "stock": 3,
-        "timestamp": "2026-07-16T19:32:09.803Z"
+        "timestamp": "2026-07-17T19:30:15.098Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g077-067-S7R-B/",
         "price": 6580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:11.181Z"
+        "timestamp": "2026-07-17T19:30:17.446Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170824",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:13.656Z"
+        "timestamp": "2026-07-17T19:30:19.985Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91168",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:15.057Z"
+        "timestamp": "2026-07-17T19:30:21.518Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itugzi4ldauc_dfh5?_pos=1&_sid=364b1b355&_ss=r",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:16.217Z"
+        "timestamp": "2026-07-17T19:30:22.732Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/hp/10313",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:18.094Z"
+        "timestamp": "2026-07-17T19:30:24.664Z"
       }
     ],
     "code": "077/067S7R"
@@ -2982,37 +2982,37 @@
         "url": "https://www.hareruya2.com/product/19858",
         "price": 3500,
         "stock": 3,
-        "timestamp": "2026-07-16T19:32:19.388Z"
+        "timestamp": "2026-07-17T19:30:25.723Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g072-067-S7R-B/",
         "price": 2580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:21.700Z"
+        "timestamp": "2026-07-17T19:30:27.909Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170819",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:23.805Z"
+        "timestamp": "2026-07-17T19:30:30.233Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96561",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:25.168Z"
+        "timestamp": "2026-07-17T19:30:31.790Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itfbib7fns0m_n47o?_pos=1&_sid=b530f25be&_ss=r",
         "price": 2680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:26.321Z"
+        "timestamp": "2026-07-17T19:30:32.948Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:28.328Z"
+        "timestamp": "2026-07-17T19:30:34.826Z"
       }
     ],
     "code": "072/067S7R"
@@ -3024,37 +3024,37 @@
         "url": "https://www.hareruya2.com/product/19865",
         "price": 6500,
         "stock": 4,
-        "timestamp": "2026-07-16T19:32:29.584Z"
+        "timestamp": "2026-07-17T19:30:35.905Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g079-067-S7R-B/",
         "price": 5580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:31.274Z"
+        "timestamp": "2026-07-17T19:30:38.451Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170826",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:33.144Z"
+        "timestamp": "2026-07-17T19:30:40.799Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s07r&CID=10079&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:35.254Z"
+        "timestamp": "2026-07-17T19:30:43.195Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91165",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:36.531Z"
+        "timestamp": "2026-07-17T19:30:44.706Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it0duw9pazvs_uwny?_pos=1&_sid=93a16c3f0&_ss=r",
         "price": 5980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:37.644Z"
+        "timestamp": "2026-07-17T19:30:45.838Z"
       }
     ],
     "code": "079/067S7R"
@@ -3066,37 +3066,37 @@
         "url": "https://www.hareruya2.com/products/9016858378560?_pos=4&_sid=5a739c5d2&_ss=r",
         "price": 900000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:38.680Z"
+        "timestamp": "2026-07-17T19:30:46.865Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g083-067-S7R-B/",
         "price": 908000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:40.978Z"
+        "timestamp": "2026-07-17T19:30:49.262Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170830",
         "price": 948000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:43.361Z"
+        "timestamp": "2026-07-17T19:30:51.577Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93017",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:44.902Z"
+        "timestamp": "2026-07-17T19:30:53.148Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ite0m10hnknd_5d5e?_pos=1&_sid=01a40cd26&_ss=r",
         "price": 898000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:46.028Z"
+        "timestamp": "2026-07-17T19:30:54.326Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:47.684Z"
+        "timestamp": "2026-07-17T19:30:56.272Z"
       }
     ],
     "code": "083/067S7R"
@@ -3108,37 +3108,37 @@
         "url": "https://www.hareruya2.com/products/9016853365056?_pos=1&_sid=1a8fd3fd0&_ss=r",
         "price": 160000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:32:48.985Z"
+        "timestamp": "2026-07-17T19:30:57.528Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g076-067-S7R-B/",
         "price": 208000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:50.532Z"
+        "timestamp": "2026-07-17T19:30:59.031Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170823",
         "price": 188000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:52.426Z"
+        "timestamp": "2026-07-17T19:31:01.317Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91167",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:53.971Z"
+        "timestamp": "2026-07-17T19:31:03.220Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itvwc9u91l3a_ii5t?_pos=1&_sid=a5d9b6e3d&_ss=r",
         "price": 198000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:55.088Z"
+        "timestamp": "2026-07-17T19:31:04.386Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:32:56.947Z"
+        "timestamp": "2026-07-17T19:31:06.261Z"
       }
     ],
     "code": "076/067S7R"
@@ -3150,37 +3150,37 @@
         "url": "https://www.hareruya2.com/product/19876",
         "price": 5000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:57.937Z"
+        "timestamp": "2026-07-17T19:31:07.322Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g090-067-S7R-B/",
         "price": 4080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:32:59.885Z"
+        "timestamp": "2026-07-17T19:31:08.853Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/216735",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:02.120Z"
+        "timestamp": "2026-07-17T19:31:11.395Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/110941",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:03.535Z"
+        "timestamp": "2026-07-17T19:31:12.856Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ith1ngy3npva_udmb?_pos=1&_sid=21d5cb485&_ss=r",
         "price": 4280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:04.729Z"
+        "timestamp": "2026-07-17T19:31:13.995Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:06.725Z"
+        "timestamp": "2026-07-17T19:31:16.009Z"
       }
     ],
     "code": "090/067S7R"
@@ -3192,37 +3192,37 @@
         "url": "https://www.hareruya2.com/product/19875",
         "price": 800,
         "stock": 2,
-        "timestamp": "2026-07-16T19:33:07.952Z"
+        "timestamp": "2026-07-17T19:31:17.251Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g089-067-S7R-B/",
         "price": 980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:09.481Z"
+        "timestamp": "2026-07-17T19:31:18.837Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170836",
         "price": 780,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:11.350Z"
+        "timestamp": "2026-07-17T19:31:21.130Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96631",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:12.843Z"
+        "timestamp": "2026-07-17T19:31:22.617Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it6rkz4bpwlk_ij2n?_pos=1&_sid=37a30409f&_ss=r",
         "price": 1380,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:14.008Z"
+        "timestamp": "2026-07-17T19:31:23.803Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:15.861Z"
+        "timestamp": "2026-07-17T19:31:25.474Z"
       }
     ],
     "code": "089/067S7R"
@@ -3234,37 +3234,37 @@
         "url": "https://www.hareruya2.com/products/9016510054720?_pos=5&_sid=50daaa45d&_ss=r",
         "price": 7000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:17.123Z"
+        "timestamp": "2026-07-17T19:31:26.556Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g075-070-S6H-B/",
         "price": 5080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:19.015Z"
+        "timestamp": "2026-07-17T19:31:28.380Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163039",
         "price": 6480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:20.923Z"
+        "timestamp": "2026-07-17T19:31:30.349Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96725",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:22.499Z"
+        "timestamp": "2026-07-17T19:31:32.066Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itzrns6mz6d8_etxv?_pos=1&_sid=7ee2881ee&_ss=r",
         "price": 6980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:23.661Z"
+        "timestamp": "2026-07-17T19:31:33.218Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:25.319Z"
+        "timestamp": "2026-07-17T19:31:35.251Z"
       }
     ],
     "code": "075/070S6H"
@@ -3276,37 +3276,37 @@
         "url": "https://www.hareruya2.com/product/19318",
         "price": 75000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:33:26.601Z"
+        "timestamp": "2026-07-17T19:31:36.543Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g085-070-S6H-B/",
         "price": 79800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:28.274Z"
+        "timestamp": "2026-07-17T19:31:39.517Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163049",
         "price": 79800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:30.708Z"
+        "timestamp": "2026-07-17T19:31:41.489Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93029",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:32.098Z"
+        "timestamp": "2026-07-17T19:31:43.125Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itu0ghjb7m08_6ezi?_pos=1&_sid=4bfd604bc&_ss=r",
         "price": 880,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:33.228Z"
+        "timestamp": "2026-07-17T19:31:44.272Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:35.058Z"
+        "timestamp": "2026-07-17T19:31:46.133Z"
       }
     ],
     "code": "085/070S6H"
@@ -3318,37 +3318,37 @@
         "url": "https://www.hareruya2.com/products/9016508154176?_pos=5&_sid=2da033a17&_ss=r",
         "price": 3500,
         "stock": 2,
-        "timestamp": "2026-07-16T19:33:36.095Z"
+        "timestamp": "2026-07-17T19:31:47.197Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g073-070-S6H-B/",
         "price": 3080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:37.793Z"
+        "timestamp": "2026-07-17T19:31:49.043Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163037",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:40.117Z"
+        "timestamp": "2026-07-17T19:31:51.513Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96708",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:41.558Z"
+        "timestamp": "2026-07-17T19:31:52.883Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it0ld5nzpwio_fab1?_pos=1&_sid=72a83dc7d&_ss=r",
         "price": 3280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:42.704Z"
+        "timestamp": "2026-07-17T19:31:54.032Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:44.562Z"
+        "timestamp": "2026-07-17T19:31:55.698Z"
       }
     ],
     "code": "073/070S6H"
@@ -3360,37 +3360,37 @@
         "url": "https://www.hareruya2.com/products/9016523784512?_pos=3&_sid=a8722a179&_ss=r",
         "price": 1500,
         "stock": 10,
-        "timestamp": "2026-07-16T19:33:45.571Z"
+        "timestamp": "2026-07-17T19:31:56.930Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g083-070-S6H-B/",
         "price": 1080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:47.748Z"
+        "timestamp": "2026-07-17T19:31:58.691Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/163047",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:50.001Z"
+        "timestamp": "2026-07-17T19:32:01.016Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96709",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:51.365Z"
+        "timestamp": "2026-07-17T19:32:02.471Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it3m988p7h3s_ebrv?_pos=1&_sid=025981da2&_ss=r",
         "price": 480,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:33:52.517Z"
+        "stock": 0,
+        "timestamp": "2026-07-17T19:32:03.620Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:54.503Z"
+        "timestamp": "2026-07-17T19:32:05.499Z"
       }
     ],
     "code": "083/070S6H"
@@ -3402,37 +3402,37 @@
         "url": "https://www.hareruya2.com/product/19883",
         "price": 7500,
         "stock": 9,
-        "timestamp": "2026-07-16T19:33:55.531Z"
+        "timestamp": "2026-07-17T19:32:06.546Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-067-S7D-B/",
         "price": 8080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:33:57.703Z"
+        "timestamp": "2026-07-17T19:32:08.631Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170731",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:33:59.913Z"
+        "timestamp": "2026-07-17T19:32:10.585Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/98649",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:01.345Z"
+        "timestamp": "2026-07-17T19:32:12.378Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it8et9g6wfag_rxmf?_pos=1&_sid=d2d1c84a3&_ss=r",
         "price": 6980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:02.558Z"
+        "timestamp": "2026-07-17T19:32:13.530Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:04.405Z"
+        "timestamp": "2026-07-17T19:32:15.407Z"
       }
     ],
     "code": "074/067S7D"
@@ -3443,38 +3443,38 @@
       {
         "url": "https://www.hareruya2.com/product/19892",
         "price": 23000,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:34:05.670Z"
+        "stock": 1,
+        "timestamp": "2026-07-17T19:32:16.714Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g083-067-S7D-B/",
         "price": 25800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:07.658Z"
+        "timestamp": "2026-07-17T19:32:18.080Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170740",
         "price": 26800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:09.983Z"
+        "timestamp": "2026-07-17T19:32:20.024Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93019",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:11.355Z"
+        "timestamp": "2026-07-17T19:32:21.439Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itwcfom908pg_xfoq?_pos=1&_sid=b5a53f588&_ss=r",
         "price": 14800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:12.487Z"
+        "timestamp": "2026-07-17T19:32:22.594Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:14.399Z"
+        "timestamp": "2026-07-17T19:32:24.460Z"
       }
     ],
     "code": "083/067S7D"
@@ -3486,37 +3486,37 @@
         "url": "https://www.hareruya2.com/products/9016873353536?_pos=1&_sid=3474d530e&_ss=r",
         "price": 6000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:15.657Z"
+        "timestamp": "2026-07-17T19:32:25.665Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g076-067-S7D-B/",
         "price": 5580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:17.720Z"
+        "timestamp": "2026-07-17T19:32:27.201Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170733",
         "price": 6480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:19.941Z"
+        "timestamp": "2026-07-17T19:32:29.491Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91169",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:21.696Z"
+        "timestamp": "2026-07-17T19:32:31.204Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it71tc1ap93s_iz3k?_pos=1&_sid=bef3c2ad2&_ss=r",
         "price": 5980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:22.852Z"
+        "timestamp": "2026-07-17T19:32:32.389Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:24.810Z"
+        "timestamp": "2026-07-17T19:32:34.268Z"
       }
     ],
     "code": "076/067S7D"
@@ -3528,37 +3528,37 @@
         "url": "https://www.hareruya2.com/product/19884",
         "price": 500,
         "stock": 7,
-        "timestamp": "2026-07-16T19:34:26.009Z"
+        "timestamp": "2026-07-17T19:32:35.480Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g075-067-S7D-B/",
         "price": 430,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:28.093Z"
+        "timestamp": "2026-07-17T19:32:37.052Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/170732",
         "price": 680,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:30.566Z"
+        "timestamp": "2026-07-17T19:32:39.252Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91169",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:31.975Z"
+        "timestamp": "2026-07-17T19:32:40.844Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it27idiadnjk_swho?_pos=1&_sid=a7e35ce27&_ss=r",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:33.077Z"
+        "timestamp": "2026-07-17T19:32:42.038Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:34.896Z"
+        "timestamp": "2026-07-17T19:32:43.709Z"
       }
     ],
     "code": "075/067S7D"
@@ -3570,37 +3570,37 @@
         "url": "https://www.hareruya2.com/products/9016664883520?_pos=7&_sid=659ffde09&_ss=r",
         "price": 15000,
         "stock": 7,
-        "timestamp": "2026-07-16T19:34:35.928Z"
+        "timestamp": "2026-07-17T19:32:44.779Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-070-S5R-B/",
         "price": 12800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:38.384Z"
+        "timestamp": "2026-07-17T19:32:46.379Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154570",
         "price": 16800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:40.292Z"
+        "timestamp": "2026-07-17T19:32:48.286Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/99573",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:41.653Z"
+        "timestamp": "2026-07-17T19:32:49.657Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ithsolnzsis0_uzod?_pos=1&_sid=8ff85ff3c&_ss=r",
         "price": 16800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:42.807Z"
+        "timestamp": "2026-07-17T19:32:50.853Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:44.632Z"
+        "timestamp": "2026-07-17T19:32:52.530Z"
       }
     ],
     "code": "074/070S5R"
@@ -3612,37 +3612,37 @@
         "url": "https://www.hareruya2.com/product/19102",
         "price": 1600,
         "stock": 4,
-        "timestamp": "2026-07-16T19:34:45.907Z"
+        "timestamp": "2026-07-17T19:32:53.541Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g089-070-S5R-B/",
         "price": 2280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:47.982Z"
+        "timestamp": "2026-07-17T19:32:55.287Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154585",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:50.259Z"
+        "timestamp": "2026-07-17T19:32:57.237Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100079",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:51.520Z"
+        "timestamp": "2026-07-17T19:32:58.677Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itxi3c66fd6e_yzgj?_pos=1&_sid=ffe5290ff&_ss=r",
         "price": 1380,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:52.637Z"
+        "timestamp": "2026-07-17T19:32:59.927Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:34:54.539Z"
+        "timestamp": "2026-07-17T19:33:01.795Z"
       }
     ],
     "code": "089/070S5R"
@@ -3654,37 +3654,37 @@
         "url": "https://www.hareruya2.com/products/9016598626624?_pos=1&_sid=f9fffaa5b&_ss=r",
         "price": 1300,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:55.766Z"
+        "timestamp": "2026-07-17T19:33:03.015Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g086-070-S5R-B/",
         "price": 2380,
         "stock": 0,
-        "timestamp": "2026-07-16T19:34:57.969Z"
+        "timestamp": "2026-07-17T19:33:05.354Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154582",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:00.343Z"
+        "timestamp": "2026-07-17T19:33:07.696Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/99576",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:01.665Z"
+        "timestamp": "2026-07-17T19:33:09.460Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it7l0vkutqwy_un2z?_pos=1&_sid=46739e236&_ss=r",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:02.826Z"
+        "timestamp": "2026-07-17T19:33:10.631Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:04.489Z"
+        "timestamp": "2026-07-17T19:33:12.533Z"
       }
     ],
     "code": "086/070S5R"
@@ -3696,37 +3696,37 @@
         "url": "https://www.hareruya2.com/products/9016587387200?_pos=1&_sid=9f746ca14&_ss=r",
         "price": 5500,
         "stock": 5,
-        "timestamp": "2026-07-16T19:35:05.710Z"
+        "timestamp": "2026-07-17T19:33:13.769Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g079-070-S5R-B/",
         "price": 4280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:07.498Z"
+        "timestamp": "2026-07-17T19:33:15.588Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154575",
         "price": 5980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:09.814Z"
+        "timestamp": "2026-07-17T19:33:17.988Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91186",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:11.140Z"
+        "timestamp": "2026-07-17T19:33:19.517Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it7trhodmblo_pyg8?_pos=1&_sid=337966910&_ss=r",
         "price": 5480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:12.305Z"
+        "timestamp": "2026-07-17T19:33:20.701Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:14.174Z"
+        "timestamp": "2026-07-17T19:33:22.532Z"
       }
     ],
     "code": "079/070S5R"
@@ -3738,37 +3738,37 @@
         "url": "https://www.hareruya2.com/products/9016495178048?_pos=1&_sid=27ce407c4&_ss=r",
         "price": 1300,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:15.462Z"
+        "timestamp": "2026-07-17T19:33:23.787Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g088-070-S5R-B/",
         "price": 1280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:17.131Z"
+        "timestamp": "2026-07-17T19:33:25.495Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154584",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:19.007Z"
+        "timestamp": "2026-07-17T19:33:28.163Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/100080",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:20.528Z"
+        "timestamp": "2026-07-17T19:33:29.689Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itlaxzq047g2_dcth?_pos=1&_sid=f134b8307&_ss=r",
         "price": 1380,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:21.696Z"
+        "timestamp": "2026-07-17T19:33:30.803Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:23.353Z"
+        "timestamp": "2026-07-17T19:33:32.479Z"
       }
     ],
     "code": "088/070S5R"
@@ -3780,37 +3780,37 @@
         "url": "https://www.hareruya2.com/products/9016590893376?_pos=1&_sid=9d0b462e5&_ss=r",
         "price": 5500,
         "stock": 4,
-        "timestamp": "2026-07-16T19:35:24.406Z"
+        "timestamp": "2026-07-17T19:33:33.556Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g081-070-S5R-B/",
         "price": 4280,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:26.251Z"
+        "timestamp": "2026-07-17T19:33:36.574Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154577",
         "price": 6480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:28.154Z"
+        "timestamp": "2026-07-17T19:33:38.471Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91187",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:29.658Z"
+        "timestamp": "2026-07-17T19:33:39.823Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itqbbq8qwjcw_bpb0?_pos=1&_sid=344ed3cb4&_ss=r",
         "price": 4480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:30.824Z"
+        "timestamp": "2026-07-17T19:33:40.953Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:32.822Z"
+        "timestamp": "2026-07-17T19:33:42.805Z"
       }
     ],
     "code": "081/070S5R"
@@ -3822,37 +3822,37 @@
         "url": "https://www.hareruya2.com/product/19103",
         "price": 4500,
         "stock": 3,
-        "timestamp": "2026-07-16T19:35:34.113Z"
+        "timestamp": "2026-07-17T19:33:43.974Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g090-070-S5R-B/",
         "price": 3780,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:36.608Z"
+        "timestamp": "2026-07-17T19:33:45.890Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154586",
         "price": 4480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:38.551Z"
+        "timestamp": "2026-07-17T19:33:48.218Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93033",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:39.982Z"
+        "timestamp": "2026-07-17T19:33:49.548Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it729z4cyl88_jjnw?_pos=1&_sid=961ba6575&_ss=r",
         "price": 4980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:41.102Z"
+        "timestamp": "2026-07-17T19:33:50.679Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:42.930Z"
+        "timestamp": "2026-07-17T19:33:52.565Z"
       }
     ],
     "code": "090/070S5R"
@@ -3864,37 +3864,37 @@
         "url": "https://www.hareruya2.com/products/9016672452928?_pos=3&_sid=f3d337175&_ss=r",
         "price": 3500,
         "stock": 5,
-        "timestamp": "2026-07-16T19:35:43.991Z"
+        "timestamp": "2026-07-17T19:33:53.748Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g077-070-S5R-B/",
         "price": 3580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:45.766Z"
+        "timestamp": "2026-07-17T19:33:56.028Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154573",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:48.075Z"
+        "timestamp": "2026-07-17T19:33:57.958Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/99574",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:49.640Z"
+        "timestamp": "2026-07-17T19:33:59.491Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itksq50lwm48_uuwi?_pos=1&_sid=c614e2091&_ss=r",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:50.768Z"
+        "timestamp": "2026-07-17T19:34:00.736Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:52.609Z"
+        "timestamp": "2026-07-17T19:34:02.838Z"
       }
     ],
     "code": "077/070S5R"
@@ -3906,37 +3906,37 @@
         "url": "https://www.hareruya2.com/product/19104",
         "price": 550,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:53.815Z"
+        "timestamp": "2026-07-17T19:34:04.119Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g091-070-S5R-B/",
         "price": 680,
         "stock": 0,
-        "timestamp": "2026-07-16T19:35:56.038Z"
+        "timestamp": "2026-07-17T19:34:05.789Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154587",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:35:58.417Z"
+        "timestamp": "2026-07-17T19:34:07.720Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s05r&CID=10091&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:00.524Z"
+        "timestamp": "2026-07-17T19:34:09.665Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/99575",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:01.956Z"
+        "timestamp": "2026-07-17T19:34:11.088Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ith9n015kkoc_naxi?_pos=1&_sid=59e83ab2c&_ss=r",
         "price": 580,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:03.054Z"
+        "timestamp": "2026-07-17T19:34:12.308Z"
       }
     ],
     "code": "091/070S5R"
@@ -3948,37 +3948,37 @@
         "url": "https://www.hareruya2.com/product/19097",
         "price": 90000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:04.418Z"
+        "timestamp": "2026-07-17T19:34:13.538Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g084-070-S5R-B/",
         "price": 80800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:06.991Z"
+        "timestamp": "2026-07-17T19:34:14.838Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/154580",
         "price": 94800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:09.258Z"
+        "timestamp": "2026-07-17T19:34:17.164Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91188",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:10.743Z"
+        "timestamp": "2026-07-17T19:34:18.627Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itgl5t5d4shk_li3g?_pos=1&_sid=64a9c1328&_ss=r",
         "price": 84800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:11.880Z"
+        "timestamp": "2026-07-17T19:34:19.732Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:13.533Z"
+        "timestamp": "2026-07-17T19:34:21.620Z"
       }
     ],
     "code": "084/070S5R"
@@ -3989,38 +3989,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016995774784?_pos=4&_sid=ddaeb35b7&_ss=r",
         "price": 2000,
-        "stock": 28,
-        "timestamp": "2026-07-16T19:36:14.778Z"
+        "stock": 43,
+        "timestamp": "2026-07-17T19:34:22.689Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g272-S-P/",
         "price": 5980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:16.269Z"
+        "timestamp": "2026-07-17T19:34:24.213Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/198425",
         "price": 3480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:18.171Z"
+        "timestamp": "2026-07-17T19:34:26.664Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s10b&CID=10028&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:20.273Z"
+        "timestamp": "2026-07-17T19:34:28.804Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/518774",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:21.640Z"
+        "timestamp": "2026-07-17T19:34:30.166Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itj0cwt32ho0_vivf?_pos=1&_sid=74db73ff5&_ss=r",
         "price": 55800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:22.763Z"
+        "timestamp": "2026-07-17T19:34:31.312Z"
       }
     ],
     "code": "272S-P"
@@ -4031,38 +4031,38 @@
       {
         "url": "https://www.hareruya2.com/products/9017189105984?_pos=1&_sid=6295aa688&_ss=r",
         "price": 23000,
-        "stock": 19,
-        "timestamp": "2026-07-16T19:36:24.209Z"
+        "stock": 17,
+        "timestamp": "2026-07-17T19:34:32.568Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g074-071-S10B-B/",
         "price": 23800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:25.785Z"
+        "timestamp": "2026-07-17T19:34:34.806Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/198388",
         "price": 27800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:28.088Z"
+        "timestamp": "2026-07-17T19:34:37.129Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91133",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:29.483Z"
+        "timestamp": "2026-07-17T19:34:38.763Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itboehn4ytkw_ji8s?_pos=1&_sid=74723362f&_ss=r",
         "price": 21800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:30.694Z"
+        "timestamp": "2026-07-17T19:34:39.912Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:32.535Z"
+        "timestamp": "2026-07-17T19:34:41.851Z"
       }
     ],
     "code": "074/071S10b"
@@ -4074,37 +4074,37 @@
         "url": "https://www.hareruya2.com/product/23912",
         "price": 11000,
         "stock": 22,
-        "timestamp": "2026-07-16T19:36:33.960Z"
+        "timestamp": "2026-07-17T19:34:43.101Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g091-071-S10B-B/",
         "price": 7080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:35.475Z"
+        "timestamp": "2026-07-17T19:34:45.601Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/198405",
         "price": 11800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:37.964Z"
+        "timestamp": "2026-07-17T19:34:48.138Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s10b&CID=10091&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:40.069Z"
+        "timestamp": "2026-07-17T19:34:50.436Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93009",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:41.466Z"
+        "timestamp": "2026-07-17T19:34:51.844Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itchaa2z8c7d_mksp?_pos=1&_sid=df98f828f&_ss=r",
         "price": 12800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:42.585Z"
+        "timestamp": "2026-07-17T19:34:53.089Z"
       }
     ],
     "code": "091/071S10b"
@@ -4116,37 +4116,37 @@
         "url": "https://www.hareruya2.com/products/9017198543168?_pos=1&_sid=438f11f81&_ss=r",
         "price": 500,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:43.787Z"
+        "timestamp": "2026-07-17T19:34:54.295Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g093-071-S10B-B/",
         "price": 630,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:45.992Z"
+        "timestamp": "2026-07-17T19:34:56.333Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/198407",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:48.231Z"
+        "timestamp": "2026-07-17T19:34:58.747Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s10b&CID=10093&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:50.405Z"
+        "timestamp": "2026-07-17T19:35:00.915Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96753",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:51.726Z"
+        "timestamp": "2026-07-17T19:35:02.561Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itpvrsp9hmsg_rf48?_pos=1&_sid=9dd857882&_ss=r",
         "price": 480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:52.884Z"
+        "timestamp": "2026-07-17T19:35:04.451Z"
       }
     ],
     "code": "093/071S10b"
@@ -4156,39 +4156,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/21155",
-        "price": 58000,
-        "stock": 9,
-        "timestamp": "2026-07-16T19:36:54.138Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:05.382Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g189-S-P/",
         "price": 50800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:36:56.119Z"
+        "timestamp": "2026-07-17T19:35:08.122Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166767",
         "price": 64800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:36:58.384Z"
+        "timestamp": "2026-07-17T19:35:10.477Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=spromo-200&CID=10089&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:00.477Z"
+        "timestamp": "2026-07-17T19:35:12.639Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93004",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:01.939Z"
+        "timestamp": "2026-07-17T19:35:13.970Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itliitrap1ec_gnf1?_pos=1&_sid=327e4353b&_ss=r",
-        "price": 79800,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:37:03.068Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:14.879Z"
       }
     ],
     "code": "189S-P"
@@ -4198,39 +4198,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/19557",
-        "price": 30000,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:37:04.356Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:15.908Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g081-069-S6A-B/",
         "price": 27800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:05.846Z"
+        "timestamp": "2026-07-17T19:35:17.628Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166322",
         "price": 34800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:08.112Z"
+        "timestamp": "2026-07-17T19:35:19.723Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10081&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:10.032Z"
+        "timestamp": "2026-07-17T19:35:21.878Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91175",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:11.609Z"
+        "timestamp": "2026-07-17T19:35:23.249Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itlxc74qxkkc_fksw?_pos=1&_sid=564e72629&_ss=r",
         "price": 26800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:12.755Z"
+        "timestamp": "2026-07-17T19:35:24.437Z"
       }
     ],
     "code": "081/069S6a"
@@ -4240,39 +4240,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/19567",
-        "price": 120000,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:37:13.997Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:25.343Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g091-069-S6A-B/",
         "price": 118000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:15.632Z"
+        "timestamp": "2026-07-17T19:35:26.898Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166332",
         "price": 128000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:18.035Z"
+        "timestamp": "2026-07-17T19:35:29.281Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10091&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:20.127Z"
+        "timestamp": "2026-07-17T19:35:31.408Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93024",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:21.515Z"
+        "timestamp": "2026-07-17T19:35:32.930Z"
       },
       {
-        "url": "https://torecacamp-pokemon.com/products/rc_ito20452m3kg_clhm?_pos=1&_sid=b978bba86&_ss=r",
-        "price": 99800,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:37:22.683Z"
+        "url": "https://torecacamp-pokemon.com/products/psa10%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%A2vmax-hrsa-s6a-091-069?_pos=1&_sid=1546709a9&_ss=r",
+        "price": 148000,
+        "stock": 1,
+        "timestamp": "2026-07-17T19:35:34.753Z"
       }
     ],
     "code": "091/069S6a"
@@ -4284,37 +4284,37 @@
         "url": "https://www.hareruya2.com/product/19553",
         "price": 20000,
         "stock": 9,
-        "timestamp": "2026-07-16T19:37:23.927Z"
+        "timestamp": "2026-07-17T19:35:38.361Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g077-069-S6A-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:26.119Z"
+        "timestamp": "2026-07-17T19:35:40.049Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166318",
         "price": 24800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:28.522Z"
+        "timestamp": "2026-07-17T19:35:42.383Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91173",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:29.892Z"
+        "timestamp": "2026-07-17T19:35:43.847Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itvuaedpzbqo_uwej?_pos=1&_sid=406ad77d3&_ss=r",
-        "price": 24800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:37:31.046Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:44.755Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:33.032Z"
+        "timestamp": "2026-07-17T19:35:46.675Z"
       }
     ],
     "code": "077/069S6a"
@@ -4324,39 +4324,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/19555",
-        "price": 20000,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:37:34.321Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:35:47.604Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g079-069-S6A-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:35.900Z"
+        "timestamp": "2026-07-17T19:35:49.647Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166320",
         "price": 24800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:38.377Z"
+        "timestamp": "2026-07-17T19:35:51.637Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10079&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:40.545Z"
+        "timestamp": "2026-07-17T19:35:53.781Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91174",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:42.198Z"
+        "timestamp": "2026-07-17T19:35:55.204Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itwqhxyzediq_33xo?_pos=1&_sid=39587a6f9&_ss=r",
         "price": 16800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:43.345Z"
+        "timestamp": "2026-07-17T19:35:56.527Z"
       }
     ],
     "code": "079/069S6a"
@@ -4368,37 +4368,37 @@
         "url": "https://www.hareruya2.com/product/19551",
         "price": 23000,
         "stock": 16,
-        "timestamp": "2026-07-16T19:37:44.568Z"
+        "timestamp": "2026-07-17T19:35:58.990Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g075-069-S6A-B/",
         "price": 22800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:46.270Z"
+        "timestamp": "2026-07-17T19:36:00.548Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166316",
         "price": 27800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:48.725Z"
+        "timestamp": "2026-07-17T19:36:03.106Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10075&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:50.823Z"
+        "timestamp": "2026-07-17T19:36:05.050Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91172",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:52.233Z"
+        "timestamp": "2026-07-17T19:36:06.615Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it1umppn8r28_n6b6?_pos=1&_sid=368687b05&_ss=r",
-        "price": 24800,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:37:53.391Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:07.527Z"
       }
     ],
     "code": "075/069S6a"
@@ -4408,39 +4408,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/19569",
-        "price": 170000,
-        "stock": 7,
-        "timestamp": "2026-07-16T19:37:54.641Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:09.097Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g093-069-S6A-B/",
         "price": 208000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:37:56.736Z"
+        "timestamp": "2026-07-17T19:36:10.608Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166334",
         "price": 218000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:37:58.886Z"
+        "timestamp": "2026-07-17T19:36:12.581Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93022",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:00.241Z"
+        "timestamp": "2026-07-17T19:36:13.973Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itpmmpt66pvw_jdwh?_pos=1&_sid=2bbe9ba7e&_ss=r",
         "price": 208000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:01.420Z"
+        "timestamp": "2026-07-17T19:36:16.320Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:03.415Z"
+        "timestamp": "2026-07-17T19:36:18.220Z"
       }
     ],
     "code": "093/069S6a"
@@ -4449,40 +4449,40 @@
     "name": "ニンフィアV(SA)【SR】",
     "listings": [
       {
-        "url": "https://www.hareruya2.com/product/19559",
-        "price": 26000,
-        "stock": 8,
-        "timestamp": "2026-07-16T19:38:04.487Z"
+        "url": "https://www.hareruya2.com/products/9017675546944?_pos=1&_sid=6dcde8829&_ss=r",
+        "price": 48000,
+        "stock": 1,
+        "timestamp": "2026-07-17T19:36:20.684Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g083-069-S6A-B/",
         "price": 27800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:06.646Z"
+        "timestamp": "2026-07-17T19:36:22.802Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166324",
         "price": 29800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:08.972Z"
+        "timestamp": "2026-07-17T19:36:25.278Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91177",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:10.439Z"
+        "timestamp": "2026-07-17T19:36:26.922Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itflc9eoagrb_njvc?_pos=1&_sid=0626d3880&_ss=r",
-        "price": 18800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:38:11.637Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:27.839Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:13.466Z"
+        "timestamp": "2026-07-17T19:36:29.513Z"
       }
     ],
     "code": "083/069S6a"
@@ -4492,39 +4492,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/19549",
-        "price": 22000,
-        "stock": 10,
-        "timestamp": "2026-07-16T19:38:14.725Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:30.640Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g073-069-S6A-B/",
         "price": 22800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:16.247Z"
+        "timestamp": "2026-07-17T19:36:32.188Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166314",
         "price": 24800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:18.508Z"
+        "timestamp": "2026-07-17T19:36:34.681Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91171",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:19.914Z"
+        "timestamp": "2026-07-17T19:36:36.271Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itxyxb4jz534_tlel?_pos=1&_sid=cc7e4bd48&_ss=r&variant=47174922535086",
-        "price": 5980,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:38:21.069Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:37.195Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:22.944Z"
+        "timestamp": "2026-07-17T19:36:39.236Z"
       }
     ],
     "code": "073/069S6a"
@@ -4533,40 +4533,40 @@
     "name": "ブラッキーVMAX(SA)【HR】",
     "listings": [
       {
-        "url": "https://www.hareruya2.com/product/19571",
+        "url": "https://www.hareruya2.com/products/9016859263296?_pos=1&_sid=ae1a49f54&_ss=r",
         "price": 550000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:24.154Z"
+        "timestamp": "2026-07-17T19:36:41.938Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g095-069-S6A-B/",
         "price": 658000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:25.803Z"
+        "timestamp": "2026-07-17T19:36:43.839Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166336",
         "price": 698000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:28.129Z"
+        "timestamp": "2026-07-17T19:36:46.214Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10095&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:30.279Z"
+        "timestamp": "2026-07-17T19:36:48.358Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93021",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:31.859Z"
+        "timestamp": "2026-07-17T19:36:50.123Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itc71g21b8og_2ntz?_pos=1&_sid=8112390f2&_ss=r",
-        "price": 568000,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:38:32.956Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:51.030Z"
       }
     ],
     "code": "095/069S6a"
@@ -4578,37 +4578,37 @@
         "url": "https://www.hareruya2.com/products/9016850383168?_pos=1&_sid=68d540d51&_ss=r",
         "price": 65000,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:34.207Z"
+        "timestamp": "2026-07-17T19:36:52.310Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g085-069-S6A-B/",
         "price": 73800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:35.737Z"
+        "timestamp": "2026-07-17T19:36:53.580Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166326",
         "price": 74800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:37.805Z"
+        "timestamp": "2026-07-17T19:36:55.853Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91176",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:39.208Z"
+        "timestamp": "2026-07-17T19:36:57.143Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2z7q8xbpbk_m9qk?_pos=1&_sid=b4eb17413&_ss=r",
-        "price": 49800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:38:40.371Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:36:58.100Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:42.249Z"
+        "timestamp": "2026-07-17T19:36:59.771Z"
       }
     ],
     "code": "085/069S6a"
@@ -4620,37 +4620,37 @@
         "url": "https://www.hareruya2.com/product/19565",
         "price": 88000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:38:43.499Z"
+        "timestamp": "2026-07-17T19:37:01.962Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g089-069-S6A-B/",
         "price": 85800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:45.017Z"
+        "timestamp": "2026-07-17T19:37:03.325Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166330",
         "price": 89800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:46.924Z"
+        "timestamp": "2026-07-17T19:37:05.299Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/93023",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:48.415Z"
+        "timestamp": "2026-07-17T19:37:06.987Z"
       },
       {
-        "url": "https://torecacamp-pokemon.com/products/rc_it41xdn7vado_gwfw?_pos=1&_sid=521133a61&_ss=r",
-        "price": 3280,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:38:49.556Z"
+        "url": "https://torecacamp-pokemon.com/products/rc_it26b1wofmuu_cz16?_pos=1&_sid=9718e20e7&_ss=r",
+        "price": 74800,
+        "stock": 1,
+        "timestamp": "2026-07-17T19:37:09.038Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:51.388Z"
+        "timestamp": "2026-07-17T19:37:10.715Z"
       }
     ],
     "code": "089/069S6a"
@@ -4659,40 +4659,40 @@
     "name": "リーフィアV(SA)【SR】",
     "listings": [
       {
-        "url": "https://www.hareruya2.com/product/19547",
+        "url": "https://www.hareruya2.com/products/9016620810560?_pos=1&_sid=c2bb6032e&_ss=r",
         "price": 21000,
         "stock": 2,
-        "timestamp": "2026-07-16T19:38:52.691Z"
+        "timestamp": "2026-07-17T19:37:12.477Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g071-069-S6A-B/",
         "price": 23800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:38:54.214Z"
+        "timestamp": "2026-07-17T19:37:14.787Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/166312",
         "price": 24800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:56.319Z"
+        "timestamp": "2026-07-17T19:37:17.374Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s06a&CID=10071&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:58.446Z"
+        "timestamp": "2026-07-17T19:37:19.500Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91170",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:38:59.833Z"
+        "timestamp": "2026-07-17T19:37:20.972Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it6dp77ozz8h_uoof?_pos=1&_sid=13140e1b2&_ss=r",
         "price": 34800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:00.975Z"
+        "timestamp": "2026-07-17T19:37:22.363Z"
       }
     ],
     "code": "071/069S6a"
@@ -4704,37 +4704,37 @@
         "url": "https://www.hareruya2.com/products/9017051676992?_pos=1&_sid=1ee49c10e&_ss=r",
         "price": 3300,
         "stock": 4,
-        "timestamp": "2026-07-16T19:39:02.160Z"
+        "timestamp": "2026-07-17T19:37:24.347Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g422-414-SI-B/",
         "price": 2980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:04.061Z"
+        "timestamp": "2026-07-17T19:37:26.070Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/184335",
         "price": 2480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:06.306Z"
+        "timestamp": "2026-07-17T19:37:28.029Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/489746",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:07.647Z"
+        "timestamp": "2026-07-17T19:37:29.577Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itn9qrsq36io_5ynp?_pos=1&_sid=c6c56d2eb&_ss=r",
-        "price": 2580,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:39:08.825Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:37:30.542Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/si/10548",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:10.721Z"
+        "timestamp": "2026-07-17T19:37:32.425Z"
       }
     ],
     "code": "422/414SI"
@@ -4746,37 +4746,37 @@
         "url": "https://www.hareruya2.com/product/22014",
         "price": 18000,
         "stock": 19,
-        "timestamp": "2026-07-16T19:39:11.929Z"
+        "timestamp": "2026-07-17T19:37:33.746Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g415-414-SI-B/",
         "price": 23800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:14.101Z"
+        "timestamp": "2026-07-17T19:37:35.441Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/184328",
         "price": 7480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:16.361Z"
+        "timestamp": "2026-07-17T19:37:38.383Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/101654",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:17.814Z"
+        "timestamp": "2026-07-17T19:37:39.985Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itj0cwt32ho0_vivf?_pos=1&_sid=32e33b021&_ss=r",
         "price": 55800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:19.010Z"
+        "timestamp": "2026-07-17T19:37:44.379Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/si/10541",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:20.849Z"
+        "timestamp": "2026-07-17T19:37:46.307Z"
       }
     ],
     "code": "415/414SI"
@@ -4788,37 +4788,37 @@
         "url": "https://www.hareruya2.com/products/9017048203584?_pos=1&_sid=8046f8eae&_ss=r",
         "price": 11000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:22.182Z"
+        "timestamp": "2026-07-17T19:37:47.578Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g419-414-SI-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:23.908Z"
+        "timestamp": "2026-07-17T19:37:49.759Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/184332",
         "price": 19800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:25.867Z"
+        "timestamp": "2026-07-17T19:37:52.089Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91150",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:27.337Z"
+        "timestamp": "2026-07-17T19:37:53.571Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itqb9qw1hu1a_xlpk?_pos=1&_sid=49b83061c&_ss=r",
-        "price": 19800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:39:28.477Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:37:54.493Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/si/10545",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:30.137Z"
+        "timestamp": "2026-07-17T19:37:56.144Z"
       }
     ],
     "code": "419/414SI"
@@ -4830,37 +4830,37 @@
         "url": "https://www.hareruya2.com/products/9016877744448?_pos=1&_sid=fbce4c726&_ss=r",
         "price": 7500,
         "stock": 3,
-        "timestamp": "2026-07-16T19:39:31.478Z"
+        "timestamp": "2026-07-17T19:37:57.400Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g255-184-S8B-B/",
         "price": 6580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:33.189Z"
+        "timestamp": "2026-07-17T19:37:59.486Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182779",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:35.088Z"
+        "timestamp": "2026-07-17T19:38:01.495Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91151",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:36.390Z"
+        "timestamp": "2026-07-17T19:38:03.021Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:38.368Z"
+        "timestamp": "2026-07-17T19:38:04.719Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it49e8v3zelu_sblp?_pos=1&_sid=0fa84d43a&_ss=r",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:39.502Z"
+        "timestamp": "2026-07-17T19:38:06.053Z"
       }
     ],
     "code": "255/184S8b"
@@ -4872,37 +4872,37 @@
         "url": "https://www.hareruya2.com/products/9016879087936?_pos=1&_sid=399e28767&_ss=r",
         "price": 4200,
         "stock": 16,
-        "timestamp": "2026-07-16T19:39:40.840Z"
+        "timestamp": "2026-07-17T19:38:07.318Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g258-184-S8B-B/",
         "price": 4080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:42.632Z"
+        "timestamp": "2026-07-17T19:38:09.536Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182782",
         "price": 4980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:44.545Z"
+        "timestamp": "2026-07-17T19:38:12.016Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91152",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:46.269Z"
+        "timestamp": "2026-07-17T19:38:13.552Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itida81zpm7q_epvq?_pos=1&_sid=c9fe7a504&_ss=r",
         "price": 4280,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:47.402Z"
+        "timestamp": "2026-07-17T19:38:14.692Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:49.214Z"
+        "timestamp": "2026-07-17T19:38:16.550Z"
       }
     ],
     "code": "258/184S8b"
@@ -4914,37 +4914,37 @@
         "url": "https://www.hareruya2.com/products/9016936464704?_pos=1&_sid=13cd0fa5d&_ss=r",
         "price": 1300,
         "stock": 14,
-        "timestamp": "2026-07-16T19:39:50.499Z"
+        "timestamp": "2026-07-17T19:38:18.454Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g236-184-S8B-B/",
         "price": 1580,
         "stock": 0,
-        "timestamp": "2026-07-16T19:39:52.788Z"
+        "timestamp": "2026-07-17T19:38:20.287Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182760",
         "price": 1480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:54.685Z"
+        "timestamp": "2026-07-17T19:38:22.609Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08b&CID=10346&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:56.864Z"
+        "timestamp": "2026-07-17T19:38:24.810Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96691",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:58.577Z"
+        "timestamp": "2026-07-17T19:38:26.351Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it2puijffv8g_45vb?_pos=1&_sid=e12853a87&_ss=r",
         "price": 1980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:39:59.745Z"
+        "timestamp": "2026-07-17T19:38:28.160Z"
       }
     ],
     "code": "236/184S8b"
@@ -4955,38 +4955,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016935252288?_pos=1&_sid=0d81d5f62&_ss=r",
         "price": 10000,
-        "stock": 11,
-        "timestamp": "2026-07-16T19:40:01.048Z"
+        "stock": 12,
+        "timestamp": "2026-07-17T19:38:29.351Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g232-184-S8B-B/",
         "price": 12800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:02.821Z"
+        "timestamp": "2026-07-17T19:38:31.441Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182756",
         "price": 13800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:04.874Z"
+        "timestamp": "2026-07-17T19:38:33.575Z"
       },
       {
-        "url": "https://snkrdunk.com/apparels/96676",
+        "url": "https://snkrdunk.com/apparels/96726",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:06.178Z"
+        "timestamp": "2026-07-17T19:38:36.020Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itqatnwuxf3q_qjcw?_pos=1&_sid=22a92823e&_ss=r",
         "price": 12800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:07.333Z"
+        "timestamp": "2026-07-17T19:38:37.298Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:09.307Z"
+        "timestamp": "2026-07-17T19:38:39.182Z"
       }
     ],
     "code": "232/184S8b"
@@ -4997,38 +4997,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016933450048?_pos=1&_sid=fa7ba8377&_ss=r",
         "price": 26000,
-        "stock": 17,
-        "timestamp": "2026-07-16T19:40:10.561Z"
+        "stock": 18,
+        "timestamp": "2026-07-17T19:38:44.560Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g222-184-S8B-B/",
         "price": 23800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:12.243Z"
+        "timestamp": "2026-07-17T19:38:46.037Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182749",
         "price": 32800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:14.791Z"
+        "timestamp": "2026-07-17T19:38:48.358Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96712",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:16.334Z"
+        "timestamp": "2026-07-17T19:38:49.769Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_iter0okkl68n_txvy?_pos=1&_sid=89a56ccb2&_ss=r",
-        "price": 29800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:40:17.461Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:38:50.695Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:19.124Z"
+        "timestamp": "2026-07-17T19:38:52.369Z"
       }
     ],
     "code": "222/184S8b"
@@ -5038,39 +5038,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/21370",
-        "price": 22000,
-        "stock": 0,
-        "timestamp": "2026-07-16T19:40:20.413Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:38:53.308Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g223-184-S8B-B/",
         "price": 28800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:21.977Z"
+        "timestamp": "2026-07-17T19:38:55.670Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182750",
         "price": 34800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:23.880Z"
+        "timestamp": "2026-07-17T19:38:57.950Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96712",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:26.114Z"
+        "timestamp": "2026-07-17T19:38:59.396Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it1gouzcsjqo_fc7s?_pos=1&_sid=a72a835cc&_ss=r",
-        "price": 34800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:40:27.248Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:00.313Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:29.089Z"
+        "timestamp": "2026-07-17T19:39:02.195Z"
       }
     ],
     "code": "223/184S8b"
@@ -5080,39 +5080,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/21423",
-        "price": 27000,
-        "stock": 18,
-        "timestamp": "2026-07-16T19:40:30.422Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:03.228Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g279-184-S8B-B/",
         "price": 30800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:32.691Z"
+        "timestamp": "2026-07-17T19:39:05.270Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182803",
         "price": 34800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:34.762Z"
+        "timestamp": "2026-07-17T19:39:07.738Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91154",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:36.219Z"
+        "timestamp": "2026-07-17T19:39:09.243Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itv4eyb608cu_agkp?_pos=1&_sid=9095c4c6d&_ss=r",
         "price": 42800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:37.396Z"
+        "timestamp": "2026-07-17T19:39:10.539Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:39.058Z"
+        "timestamp": "2026-07-17T19:39:12.419Z"
       }
     ],
     "code": "279/184S8b"
@@ -5124,37 +5124,37 @@
         "url": "https://www.hareruya2.com/products/9016938955072?_pos=1&_sid=2d27f6519&_ss=r",
         "price": 18000,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:40.395Z"
+        "timestamp": "2026-07-17T19:39:13.648Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g245-184-S8B-B/",
         "price": 18800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:42.594Z"
+        "timestamp": "2026-07-17T19:39:15.728Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182769",
         "price": 18800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:44.897Z"
+        "timestamp": "2026-07-17T19:39:18.162Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96729",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:46.274Z"
+        "timestamp": "2026-07-17T19:39:19.968Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itcx3jh57w0k_o0ba?_pos=1&_sid=2946ab21c&_ss=r",
         "price": 47800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:47.469Z"
+        "timestamp": "2026-07-17T19:39:21.718Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:49.105Z"
+        "timestamp": "2026-07-17T19:39:23.596Z"
       }
     ],
     "code": "245/184S8b"
@@ -5163,40 +5163,40 @@
     "name": "ミミッキュV【CSR】",
     "listings": [
       {
-        "url": "https://www.hareruya2.com/product/21377",
-        "price": 6500,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:40:50.387Z"
+        "url": "https://www.hareruya2.com/products/9016935547200?_pos=1&_sid=143e0d283&_ss=r",
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:25.569Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g234-184-S8B-B/",
         "price": 9080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:40:51.905Z"
+        "timestamp": "2026-07-17T19:39:27.019Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182757",
         "price": 7480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:54.003Z"
+        "timestamp": "2026-07-17T19:39:29.343Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/126327",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:55.440Z"
+        "timestamp": "2026-07-17T19:39:30.750Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itde468q6yuj_fgrp?_pos=1&_sid=bf0582359&_ss=r",
-        "price": 6980,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:40:56.570Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:31.672Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:40:58.416Z"
+        "timestamp": "2026-07-17T19:39:33.584Z"
       }
     ],
     "code": "233/184S8b"
@@ -5206,39 +5206,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/products/9016935809344?_pos=1&_sid=5fb1cb47d&_ss=r",
-        "price": 9500,
-        "stock": 21,
-        "timestamp": "2026-07-16T19:40:59.660Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:34.544Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g234-184-S8B-B/",
         "price": 9080,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:01.890Z"
+        "timestamp": "2026-07-17T19:39:36.629Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182758",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:04.372Z"
+        "timestamp": "2026-07-17T19:39:38.945Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96731",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:06.016Z"
+        "timestamp": "2026-07-17T19:39:40.254Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_it5qb1rfvu7c_zdkr?_pos=1&_sid=e8e82b5ff&_ss=r",
         "price": 9980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:07.139Z"
+        "timestamp": "2026-07-17T19:39:43.190Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:08.776Z"
+        "timestamp": "2026-07-17T19:39:45.080Z"
       }
     ],
     "code": "234/184S8b"
@@ -5248,39 +5248,39 @@
     "listings": [
       {
         "url": "https://www.hareruya2.com/product/21424",
-        "price": 23000,
-        "stock": 24,
-        "timestamp": "2026-07-16T19:41:10.107Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:48.111Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g280-184-S8B-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:11.792Z"
+        "timestamp": "2026-07-17T19:39:49.676Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182804",
         "price": 29800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:13.699Z"
+        "timestamp": "2026-07-17T19:39:51.663Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96733",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:15.006Z"
+        "timestamp": "2026-07-17T19:39:53.135Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itcyu8bh6iat_ehpt?_pos=1&_sid=2354ce878&_ss=r",
-        "price": 34800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:41:16.111Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:39:54.094Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:17.951Z"
+        "timestamp": "2026-07-17T19:39:55.975Z"
       }
     ],
     "code": "280/184S8b"
@@ -5291,38 +5291,38 @@
       {
         "url": "https://www.hareruya2.com/product/21391",
         "price": 1000,
-        "stock": 19,
-        "timestamp": "2026-07-16T19:41:19.228Z"
+        "stock": 23,
+        "timestamp": "2026-07-17T19:39:57.262Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g247-184-S8B-B/",
         "price": 1480,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:21.439Z"
+        "timestamp": "2026-07-17T19:39:59.321Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182771",
         "price": 980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:23.352Z"
+        "timestamp": "2026-07-17T19:40:01.676Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96694",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:24.662Z"
+        "timestamp": "2026-07-17T19:40:03.363Z"
       },
       {
-        "url": "https://torecacamp-pokemon.com/products/rc_it12tb23f3py_zgea?_pos=1&_sid=f2ee77862&_ss=r",
-        "price": 1080,
+        "url": "https://torecacamp-pokemon.com/products/rc_it12tb23f3py_zgea?_pos=1&_sid=6c3cf0391&_ss=r",
+        "price": 980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:25.802Z"
+        "timestamp": "2026-07-17T19:40:05.096Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:27.615Z"
+        "timestamp": "2026-07-17T19:40:06.767Z"
       }
     ],
     "code": "247/184S8b"
@@ -5331,40 +5331,40 @@
     "name": "ユウリ【SR】",
     "listings": [
       {
-        "url": "https://www.hareruya2.com/products/9016885051712?_pos=1&_sid=056273886&_ss=r",
+        "url": "https://www.hareruya2.com/products/9016885051712?_pos=1&_sid=978b82e09&_ss=r",
         "price": 8000,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:41:28.916Z"
+        "stock": 0,
+        "timestamp": "2026-07-17T19:40:08.403Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g276-184-S8B-B/",
         "price": 7980,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:31.308Z"
+        "timestamp": "2026-07-17T19:40:10.693Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182800",
         "price": 9480,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:33.402Z"
+        "timestamp": "2026-07-17T19:40:12.686Z"
       },
       {
         "url": "https://yuyu-tei.jp/game_poc/carddetail/cardpreview.php?VER=s08b&CID=10386&MODE=sell",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:35.599Z"
+        "timestamp": "2026-07-17T19:40:14.819Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/91153",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:36.974Z"
+        "timestamp": "2026-07-17T19:40:16.582Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itp4u4ku2rfa_harr?_pos=1&_sid=2f4fe1a91&_ss=r",
         "price": 7980,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:38.176Z"
+        "timestamp": "2026-07-17T19:40:17.828Z"
       }
     ],
     "code": "276/184S8b"
@@ -5375,38 +5375,38 @@
       {
         "url": "https://www.hareruya2.com/products/9016820302144?_pos=1&_sid=382c0895b&_ss=r",
         "price": 900,
-        "stock": 2,
-        "timestamp": "2026-07-16T19:41:39.415Z"
+        "stock": 5,
+        "timestamp": "2026-07-17T19:40:19.524Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g284-184-S8B-B/",
         "price": 36800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:41.771Z"
+        "timestamp": "2026-07-17T19:40:21.307Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/182776",
         "price": 34800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:44.087Z"
+        "timestamp": "2026-07-17T19:40:23.670Z"
       },
       {
         "url": "https://snkrdunk.com/apparels/96714",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:45.390Z"
+        "timestamp": "2026-07-17T19:40:25.170Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_ita26cjr1r0y_0uju?_pos=1&_sid=d97294bfb&_ss=r",
         "price": 36800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:46.508Z"
+        "timestamp": "2026-07-17T19:40:26.744Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:48.315Z"
+        "timestamp": "2026-07-17T19:40:28.620Z"
       }
     ],
     "code": "252/184S8b"
@@ -5417,38 +5417,38 @@
       {
         "url": "https://www.hareruya2.com/product/26401",
         "price": 18000,
-        "stock": 3,
-        "timestamp": "2026-07-16T19:41:49.621Z"
+        "stock": 2,
+        "timestamp": "2026-07-17T19:40:30.629Z"
       },
       {
         "url": "https://www.torecolo.jp/shop/g/g262-172-S12A-B/",
         "price": 20800,
         "stock": 0,
-        "timestamp": "2026-07-16T19:41:51.207Z"
+        "timestamp": "2026-07-17T19:40:32.424Z"
       },
       {
         "url": "https://www.c-labo-online.jp/product/212734",
         "price": 21800,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:53.280Z"
+        "timestamp": "2026-07-17T19:40:34.753Z"
       },
       {
         "url": "https://snkrdunk.com/products/POK-TCG-S12a-262-172",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:55.765Z"
+        "timestamp": "2026-07-17T19:40:37.113Z"
       },
       {
         "url": "https://yuyu-tei.jp/sell/poc/card/m01l/10092",
         "price": null,
         "stock": 1,
-        "timestamp": "2026-07-16T19:41:57.593Z"
+        "timestamp": "2026-07-17T19:40:38.797Z"
       },
       {
         "url": "https://torecacamp-pokemon.com/products/rc_itnhjt9dl14k_mzdl?_pos=1&_sid=b354bd2ab&_ss=r",
-        "price": 19800,
-        "stock": 1,
-        "timestamp": "2026-07-16T19:41:58.726Z"
+        "price": null,
+        "stock": null,
+        "timestamp": "2026-07-17T19:40:39.716Z"
       }
     ],
     "code": "262/172S12a"
