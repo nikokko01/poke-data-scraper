@@ -8,7 +8,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コライドンex【SAR】",
@@ -19,7 +19,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サーナイトex【SAR】",
@@ -30,7 +30,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ふしぎなアメ【UR】",
@@ -38,10 +38,10 @@
     "averagePrice": 3031,
     "minPrice": 2363,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g107-078-SV1V-B-K/",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ペパー【SAR】",
@@ -49,10 +49,10 @@
     "averagePrice": 1185,
     "minPrice": 800,
     "bestStoreUrl": "https://www.hareruya2.com/product/27010",
-    "totalStock": 12,
+    "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ペパー【SR】",
@@ -63,7 +63,7 @@
     "totalStock": 94,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボタン【SAR】",
@@ -74,7 +74,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボタン【SR】",
@@ -82,10 +82,10 @@
     "averagePrice": 1510,
     "minPrice": 1200,
     "bestStoreUrl": "https://www.hareruya2.com/product/26976",
-    "totalStock": 20,
+    "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "基本闘エネルギー(SV)【UR】",
@@ -96,7 +96,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "基本雷エネルギー(SV)【UR】",
@@ -104,10 +104,10 @@
     "averagePrice": 2110,
     "minPrice": 1780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it6870u8yle5_okrg?_pos=1&_sid=951828b45&_ss=r",
-    "totalStock": 42,
+    "totalStock": 51,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "博士の研究/オーリム博士【SR】",
@@ -118,7 +118,7 @@
     "totalStock": 39,
     "fleamarketPrice": null,
     "changeRate": -75.9,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アルセウスV(SA)【SR】",
@@ -129,7 +129,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アルセウスVSTAR【UR】",
@@ -140,7 +140,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": -77.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シロナの覇気【SR】",
@@ -151,7 +151,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ネオラントV(SA)【SR】",
@@ -159,10 +159,10 @@
     "averagePrice": 1635,
     "minPrice": 1580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g105-100-S9-B/",
-    "totalStock": 3,
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": 10.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ハイパーボール【UR】",
@@ -173,7 +173,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンV(SA)【SR】",
@@ -181,10 +181,10 @@
     "averagePrice": 33850,
     "minPrice": 17000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016515559744?_pos=1&_sid=87a44d9dc&_ss=r",
-    "totalStock": 4,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンVSTAR【HR】",
@@ -195,7 +195,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンパルキアV(SA)【SR】",
@@ -206,7 +206,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンディアルガVSTAR【UR】",
@@ -217,7 +217,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カイ【SR】",
@@ -225,10 +225,10 @@
     "averagePrice": 7010,
     "minPrice": 6780,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g077-067-S10P-B/",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ダブルターボエネルギー【UR】",
@@ -239,7 +239,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "頂への雪道【UR】",
@@ -250,7 +250,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンディアルガV(SA)【SR】",
@@ -258,10 +258,10 @@
     "averagePrice": 15350,
     "minPrice": 11800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g075-067-S10D-B/",
-    "totalStock": 22,
+    "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンパルキアVSTAR【UR】",
@@ -272,7 +272,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カイリキーV(SA)【SR】",
@@ -283,7 +283,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トレッキングシューズ【UR】",
@@ -294,7 +294,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナタネの活気【SR】",
@@ -305,7 +305,7 @@
     "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミライドンex【UR】",
@@ -316,7 +316,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミモザ【SAR】",
@@ -327,7 +327,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 603.8,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミモザ【SR】",
@@ -338,7 +338,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミライドンex【SAR】",
@@ -349,7 +349,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アンノーンV(SA)【SR】",
@@ -360,7 +360,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "さぎょういん【SR】",
@@ -371,7 +371,7 @@
     "totalStock": 52,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スズナ【SR】",
@@ -379,10 +379,10 @@
     "averagePrice": 2185,
     "minPrice": 1900,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017214370112?_pos=1&_sid=29b3a1d9d&_ss=r",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルギアV(RR仕様)【P】",
@@ -393,7 +393,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルギアV(SA)【SR】",
@@ -401,10 +401,10 @@
     "averagePrice": 184667,
     "minPrice": 158000,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g110-098-S12-B/",
-    "totalStock": 109,
+    "totalStock": 112,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルギアVSTAR【UR】",
@@ -415,7 +415,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レジドラゴV(SA)【SR】",
@@ -426,7 +426,7 @@
     "totalStock": 20,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カミツレのきらめき【SR】",
@@ -437,7 +437,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゲノセクトV(SA)【SR】",
@@ -448,7 +448,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウVMAX(SA)【HR】",
@@ -459,7 +459,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウV(SA)【SR】",
@@ -470,7 +470,7 @@
     "totalStock": 40,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "基本炎エネルギー【UR】",
@@ -481,7 +481,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "基本草エネルギー【UR】",
@@ -492,7 +492,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "おじょうさま【SR】",
@@ -503,7 +503,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ギラティナV(SA)【SR】",
@@ -514,7 +514,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ギラティナVSTAR【UR】",
@@ -525,7 +525,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "プテラV(SA)【SR】",
@@ -536,7 +536,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "いちげきウーラオスVMAX(SA)【HR】",
@@ -547,7 +547,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "いちげきウーラオスV(SA)【SR】",
@@ -558,7 +558,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "いちげきエネルギー【UR】",
@@ -569,7 +569,7 @@
     "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "バンギラスV(SA)【SR】",
@@ -580,7 +580,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フヨウ【SR】",
@@ -591,7 +591,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヘルガー【UR】",
@@ -602,7 +602,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サイトウ【SR】",
@@ -612,8 +612,8 @@
     "bestStoreUrl": "https://www.c-labo-online.jp/product/182785",
     "totalStock": 12,
     "fleamarketPrice": null,
-    "changeRate": 9.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウVMAX【HR】",
@@ -624,7 +624,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルリナ【SR】",
@@ -635,7 +635,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カトレア【SR】",
@@ -646,7 +646,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "こくばバドレックスVMAX(SA)【HR】",
@@ -657,7 +657,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "こくばバドレックスV(SA)【SR】",
@@ -668,7 +668,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼラオラV(SA)【SR】",
@@ -676,10 +676,10 @@
     "averagePrice": 15100,
     "minPrice": 10800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itg76rw92i32_ugv0?_pos=1&_sid=d0b6e8680&_ss=r",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "セレビィV(SA)【P】",
@@ -687,10 +687,10 @@
     "averagePrice": 20100,
     "minPrice": 19800,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/163788",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ハピナスV(SA)【SR】",
@@ -701,7 +701,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガラルファイヤーV(SA)【SR】",
@@ -709,10 +709,10 @@
     "averagePrice": 59850,
     "minPrice": 52000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016642666816?_pos=2&_sid=0f079ef20&_ss=r",
-    "totalStock": 11,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガラルフリーザーV(SA)【SR】",
@@ -723,7 +723,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カリンの信念【SR】",
@@ -734,7 +734,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "クララ【SR】",
@@ -745,7 +745,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "バシャーモVMAX(SA)【HR】",
@@ -753,10 +753,10 @@
     "averagePrice": 108000,
     "minPrice": 108000,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g086-070-S5A-B/",
-    "totalStock": 9,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カイリューV(SA)【SR】",
@@ -767,7 +767,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サナ【SR】",
@@ -778,7 +778,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チャーレムV(SA)【SR】",
@@ -789,7 +789,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒガナの決意【SR】",
@@ -800,7 +800,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レックウザVMAX(SA)【HR】",
@@ -811,7 +811,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レックウザV(SA)【SR】",
@@ -822,7 +822,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "基本雷エネルギー【UR】",
@@ -833,7 +833,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "嵐の山脈【UR】",
@@ -844,7 +844,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガラルギャロップV(SA)【SR】",
@@ -855,7 +855,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "はくばバドレックスVMAX(SA)【HR】",
@@ -866,7 +866,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "はくばバドレックスV(SA)【SR】",
@@ -877,7 +877,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メロン【SR】",
@@ -885,10 +885,10 @@
     "averagePrice": 1353,
     "minPrice": 1080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g083-070-S6H-B/",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オンバーンV(SA)【SR】",
@@ -899,7 +899,7 @@
     "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ジュラルドンVMAX(SA)【HR】",
@@ -910,7 +910,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ジュラルドンV(SA)【SR】",
@@ -921,7 +921,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ジュラルドンV(SR)【SR】",
@@ -932,7 +932,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エンペルトV(SA)【SR】",
@@ -943,18 +943,18 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オクタン【UR】",
     "code": "089/070S5R",
-    "averagePrice": 1685,
-    "minPrice": 1380,
+    "averagePrice": 1635,
+    "minPrice": 1180,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itxi3c66fd6e_yzgj?_pos=1&_sid=ffe5290ff&_ss=r",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コルニの気合い【HR】",
@@ -965,7 +965,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コルニの気合い【SR】",
@@ -976,7 +976,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "モミ【HR】",
@@ -987,7 +987,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "モミ【SR】",
@@ -998,7 +998,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レベルボール【UR】",
@@ -1009,7 +1009,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "れんげきウーラオスV(SA)【SR】",
@@ -1020,7 +1020,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "れんげきエネルギー【UR】",
@@ -1031,7 +1031,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "れんげきウーラオスVMAX(SA)【HR】",
@@ -1042,7 +1042,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ(R仕様)【P】",
@@ -1050,10 +1050,10 @@
     "averagePrice": 4730,
     "minPrice": 3480,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/198425",
-    "totalStock": 39,
+    "totalStock": 41,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウツーV(SA)【SR】",
@@ -1061,10 +1061,10 @@
     "averagePrice": 23350,
     "minPrice": 21800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itboehn4ytkw_ji8s?_pos=1&_sid=74723362f&_ss=r",
-    "totalStock": 19,
+    "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウツーVSTAR【UR】",
@@ -1072,10 +1072,10 @@
     "averagePrice": 10670,
     "minPrice": 7080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g091-071-S10B-B/",
-    "totalStock": 24,
+    "totalStock": 25,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルアーモジュール【UR】",
@@ -1086,7 +1086,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エーフィVMAX(SA)【P】",
@@ -1097,7 +1097,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エーフィV(SA)【SR】",
@@ -1108,7 +1108,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシアVMAX(SA)【HR】",
@@ -1119,7 +1119,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシアV(SA)【SR】",
@@ -1127,10 +1127,10 @@
     "averagePrice": 21850,
     "minPrice": 20000,
     "bestStoreUrl": "https://www.hareruya2.com/product/19553",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダースV(SA)【SR】",
@@ -1138,21 +1138,21 @@
     "averagePrice": 20600,
     "minPrice": 16800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itwqhxyzediq_33xo?_pos=1&_sid=39587a6f9&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シャワーズV(SA)【SR】",
     "code": "075/069S6a",
-    "averagePrice": 24100,
-    "minPrice": 23000,
-    "bestStoreUrl": "https://www.hareruya2.com/product/19551",
-    "totalStock": 16,
+    "averagePrice": 22100,
+    "minPrice": 16800,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it1umppn8r28_n6b6?_pos=1&_sid=368687b05&_ss=r",
+    "totalStock": 17,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -8.3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィアVMAX(SA)【HR】",
@@ -1163,7 +1163,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィアV(SA)【SR】",
@@ -1174,7 +1174,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブースターV(SA)【SR】",
@@ -1185,7 +1185,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキーVMAX(SA)【HR】",
@@ -1196,7 +1196,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキーV(SA)【SR】",
@@ -1207,7 +1207,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィアVMAX(SA)【HR】",
@@ -1218,7 +1218,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィアV(SA)【SR】",
@@ -1229,7 +1229,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガラルファイヤーV【UR】",
@@ -1240,7 +1240,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウV【SR】",
@@ -1251,7 +1251,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マリィのプライド【SR】",
@@ -1262,7 +1262,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アセロラの予感【SR】Vクラ",
@@ -1273,7 +1273,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガラルの仲間たち【SR】",
@@ -1284,7 +1284,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "こくばバドレックスVMAX【CSR】",
@@ -1295,7 +1295,7 @@
     "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィアVMAX【CSR】",
@@ -1303,10 +1303,10 @@
     "averagePrice": 12350,
     "minPrice": 10000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016935252288?_pos=1&_sid=0d81d5f62&_ss=r",
-    "totalStock": 15,
+    "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウV【CSR】",
@@ -1317,7 +1317,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウVMAX【CSR】",
@@ -1325,10 +1325,10 @@
     "averagePrice": 30100,
     "minPrice": 22000,
     "bestStoreUrl": "https://www.hareruya2.com/product/21370",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウVMAX【UR】",
@@ -1339,7 +1339,7 @@
     "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキーVMAX【CSR】",
@@ -1347,10 +1347,10 @@
     "averagePrice": 18533,
     "minPrice": 18000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016938955072?_pos=1&_sid=2d27f6519&_ss=r",
-    "totalStock": 5,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミミッキュV【CSR】",
@@ -1361,7 +1361,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミミッキュVMAX【CSR】",
@@ -1372,7 +1372,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウVMAX【UR】",
@@ -1383,7 +1383,7 @@
     "totalStock": 25,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ムゲンダイナVMAX【CSR】",
@@ -1394,7 +1394,7 @@
     "totalStock": 27,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ユウリ【SR】",
@@ -1405,7 +1405,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レックウザVMAX【CSR】",
@@ -1413,10 +1413,10 @@
     "averagePrice": 36133,
     "minPrice": 34800,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/182776",
-    "totalStock": 4,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アルセウスVSTAR【UR】Vユニ",
@@ -1427,7 +1427,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンディアルガVSTAR【UR】Vユニ",
@@ -1438,7 +1438,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オリジンパルキアVSTAR【UR】Vユニ",
@@ -1449,7 +1449,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カイ【SAR】",
@@ -1457,54 +1457,54 @@
     "averagePrice": 4260,
     "minPrice": 3980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itvy1g5ps57h_el5y?_pos=1&_sid=054de536a&_ss=r",
-    "totalStock": 15,
+    "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カミツレのきらめき【SR】Vユニ",
     "code": "246/172S12a",
-    "averagePrice": 3353,
+    "averagePrice": 3335,
     "minPrice": 2880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g246-172-S12A-B/",
-    "totalStock": 11,
+    "totalStock": 15,
     "fleamarketPrice": null,
-    "changeRate": 11.4,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -0.5,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ギラティナVSTAR【UR】Vユニ",
     "code": "261/172S12a",
-    "averagePrice": 36800,
-    "minPrice": 36800,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g261-172-S12A-B/",
-    "totalStock": 3,
+    "averagePrice": 35350,
+    "minPrice": 29800,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ita6ig3sh3wg_8cfq?_pos=1&_sid=3eb53e6e4&_ss=r",
+    "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": 4.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -3.9,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ザクロ【SAR】",
     "code": "238/172S12a",
-    "averagePrice": 930,
-    "minPrice": 880,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g238-172-S12A-B/",
-    "totalStock": 3,
+    "averagePrice": 785,
+    "minPrice": 580,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ito9d1ztx2xk_tzks?_pos=1&_sid=dfc9b3fc2&_ss=r",
+    "totalStock": 11,
     "fleamarketPrice": null,
-    "changeRate": 18.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -15.6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ザマゼンタV【SAR】",
     "code": "232/172S12a",
-    "averagePrice": 2130,
-    "minPrice": 2080,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g232-172-S12A-B/",
-    "totalStock": 3,
+    "averagePrice": 2035,
+    "minPrice": 1900,
+    "bestStoreUrl": "https://www.hareruya2.com/products/9017320046912?_pos=1&_sid=a75a5d3bd&_ss=r",
+    "totalStock": 33,
     "fleamarketPrice": null,
-    "changeRate": 4.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -4.5,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スイクンV【SAR】",
@@ -1512,109 +1512,109 @@
     "averagePrice": 6260,
     "minPrice": 5980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/212687",
-    "totalStock": 6,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼラオラVMAX【SAR】Vユニ",
     "code": "219/172S12a",
-    "averagePrice": 3180,
+    "averagePrice": 3210,
     "minPrice": 2880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g219-172-S12A-B/",
-    "totalStock": 3,
+    "totalStock": 15,
     "fleamarketPrice": null,
-    "changeRate": -0.9,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0.9,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "バオッキーVSTAR【SAR】",
     "code": "214/172S12a",
-    "averagePrice": 4513,
-    "minPrice": 4080,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g214-172-S12A-B/",
-    "totalStock": 4,
+    "averagePrice": 4385,
+    "minPrice": 4000,
+    "bestStoreUrl": "https://www.hareruya2.com/product/26353",
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": 2.9,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -2.8,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボスの指令/アカギ【SR】",
     "code": "250/172S12a",
-    "averagePrice": 2380,
+    "averagePrice": 2385,
     "minPrice": 2280,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g250-172-S12A-B/",
-    "totalStock": 4,
+    "totalStock": 16,
     "fleamarketPrice": null,
-    "changeRate": -0.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウ【AR】",
     "code": "183/172S12a",
-    "averagePrice": 7669,
-    "minPrice": 6358,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g183-172-S12A-B-K/",
-    "totalStock": 3,
+    "averagePrice": 7330,
+    "minPrice": 5000,
+    "bestStoreUrl": "https://www.hareruya2.com/products/9017517375808?_pos=1&_sid=5d34dba7f&_ss=r",
+    "totalStock": 17,
     "fleamarketPrice": null,
-    "changeRate": -5.4,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -4.4,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウツーVSTAR【SAR】",
     "code": "221/172S12a",
-    "averagePrice": 17593,
+    "averagePrice": 17695,
     "minPrice": 12000,
     "bestStoreUrl": "https://www.c-labo-kaitori.jp/product/44505",
-    "totalStock": 4,
+    "totalStock": 12,
     "fleamarketPrice": null,
-    "changeRate": -0.6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0.6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンV【SAR】",
     "code": "211/172S12a",
-    "averagePrice": 9647,
-    "minPrice": 8980,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g211-172-S12A-B/",
-    "totalStock": 4,
+    "averagePrice": 9360,
+    "minPrice": 8500,
+    "bestStoreUrl": "https://www.hareruya2.com/products/9017182945600?_pos=1&_sid=3f1c694db&_ss=r",
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": 3.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンVSTAR【SAR】",
     "code": "212/172S12a",
-    "averagePrice": 22133,
+    "averagePrice": 20600,
     "minPrice": 15800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g212-172-S12A-B/",
-    "totalStock": 3,
+    "totalStock": 28,
     "fleamarketPrice": null,
-    "changeRate": 7.4,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -6.9,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "博士の研究/ナナカマド博士【SR】",
     "code": "248/172S12a",
-    "averagePrice": 463,
+    "averagePrice": 473,
     "minPrice": 430,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g248-172-S12A-B/",
-    "totalStock": 4,
+    "totalStock": 41,
     "fleamarketPrice": null,
-    "changeRate": -2.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 2.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フウロ【SR】",
     "code": "195/190s4a",
-    "averagePrice": 4630,
-    "minPrice": 4280,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g195-190-S4A-B/",
-    "totalStock": 4,
+    "averagePrice": 39800,
+    "minPrice": 39800,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ito3dkx2q1cg_zcby?_pos=1&_sid=19194a9b7&_ss=r",
+    "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": -0.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 759.6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ポケモンごっこ【SR】",
@@ -1625,7 +1625,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マリィ【SR】シャイニー",
@@ -1636,40 +1636,40 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンVMAX【SSR】",
     "code": "308/190s4a",
-    "averagePrice": 24300,
+    "averagePrice": 25850,
     "minPrice": 15800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g307-190-S4A-B/",
-    "totalStock": 3,
+    "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": -6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 6.4,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンV【SSR】",
     "code": "307/190s4a",
-    "averagePrice": 16350,
-    "minPrice": 12800,
+    "averagePrice": 16850,
+    "minPrice": 14800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itkluk7u03py_stng?_pos=1&_sid=e872ad350&_ss=r",
-    "totalStock": 4,
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 3.1,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "MレックウザEX(25th)【P】",
     "code": "024/025S8a-P",
-    "averagePrice": 40133,
+    "averagePrice": 39600,
     "minPrice": 35800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g024-025-S8A-P-B/",
-    "totalStock": 4,
+    "totalStock": 10,
     "fleamarketPrice": null,
-    "changeRate": 1.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -1.3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カプ・テテフGX(25th)【P】",
@@ -1677,10 +1677,10 @@
     "averagePrice": 1953,
     "minPrice": 1380,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g025-025-S8A-P-B/",
-    "totalStock": 18,
+    "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガブリアスCLV.X(25th)【P】",
@@ -1691,7 +1691,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カメックス(25th)【P】",
@@ -1699,65 +1699,65 @@
     "averagePrice": 18200,
     "minPrice": 16800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itcavt7rhjf6_sh8e?_pos=1&_sid=89b016c46&_ss=r",
-    "totalStock": 23,
+    "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サーナイトexδ-デルタ種(25th)【P】",
     "code": "015/025S8a-P",
-    "averagePrice": 4390,
+    "averagePrice": 4587,
     "minPrice": 3980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/179539",
-    "totalStock": 8,
+    "totalStock": 11,
     "fleamarketPrice": null,
-    "changeRate": -4.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 4.5,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "R団のサンダー(25th)【P】",
     "code": "008/025S8a-P",
-    "averagePrice": 4230,
+    "averagePrice": 4020,
     "minPrice": 3480,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/179532",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": 5.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -5,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼクロム(25th)【P】",
     "code": "021/025S8a-P",
-    "averagePrice": 14800,
-    "minPrice": 14800,
-    "bestStoreUrl": "https://www.c-labo-online.jp/product/179545",
-    "totalStock": 3,
+    "averagePrice": 15200,
+    "minPrice": 14000,
+    "bestStoreUrl": "https://www.hareruya2.com/products/9016771445056?_pos=1&_sid=753fae74d&_ss=r",
+    "totalStock": 23,
     "fleamarketPrice": null,
-    "changeRate": -2.6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 2.7,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼルネアスEX(25th)【P】",
     "code": "023/025S8a-P",
-    "averagePrice": 2980,
+    "averagePrice": 2987,
     "minPrice": 2980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/179547",
-    "totalStock": 4,
+    "totalStock": 37,
     "fleamarketPrice": null,
-    "changeRate": -0.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "_のピカチュウ(25th)【P】",
     "code": "007/025S8a-P",
-    "averagePrice": 88533,
-    "minPrice": 66000,
+    "averagePrice": 89533,
+    "minPrice": 69000,
     "bestStoreUrl": "https://www.hareruya2.com/product/20720",
     "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 1.1,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ドンファン(25th)【P】",
@@ -1768,7 +1768,7 @@
     "totalStock": 44,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "にせオーキドはかせ(25th)【P】",
@@ -1779,7 +1779,7 @@
     "totalStock": 49,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ(25thミラー)",
@@ -1787,32 +1787,32 @@
     "averagePrice": 5890,
     "minPrice": 2780,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/179240",
-    "totalStock": 41,
+    "totalStock": 45,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ひかるコイキング(25th)【P】",
     "code": "010/025S8a-P",
-    "averagePrice": 27400,
+    "averagePrice": 28200,
     "minPrice": 25000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016942166336?_pos=1&_sid=939701538&_ss=r",
-    "totalStock": 9,
+    "totalStock": 10,
     "fleamarketPrice": null,
-    "changeRate": -2.8,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 2.9,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フシギバナ(25th)【P】",
     "code": "002/025S8a-P",
-    "averagePrice": 13100,
-    "minPrice": 10000,
-    "bestStoreUrl": "https://www.hareruya2.com/products/9016937578816?_pos=1&_sid=505f23858&_ss=r",
+    "averagePrice": 14100,
+    "minPrice": 13800,
+    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g003-025-S8A-P-B/",
     "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 7.6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキー☆(25th)【P】",
@@ -1820,10 +1820,10 @@
     "averagePrice": 41850,
     "minPrice": 35800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g012-025-S8A-P-B/",
-    "totalStock": 17,
+    "totalStock": 18,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マグマ団のグラードン(25th)【P】",
@@ -1834,7 +1834,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウex(25th)【P】",
@@ -1845,18 +1845,18 @@
     "totalStock": 69,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウ(25th)【UR】",
     "code": "030/028S8a",
-    "averagePrice": 38200,
+    "averagePrice": 42350,
     "minPrice": 34000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9016935121216?_pos=1&_sid=15e39cc71&_ss=r",
-    "totalStock": 5,
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": -9.8,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 10.9,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウツーEX(25th)【P】",
@@ -1864,10 +1864,10 @@
     "averagePrice": 17350,
     "minPrice": 11800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g022-025-S8A-P-B/",
-    "totalStock": 26,
+    "totalStock": 29,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードン(25th)【P】",
@@ -1878,7 +1878,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レシラム(25th)【P】",
@@ -1889,7 +1889,7 @@
     "totalStock": 22,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レントラーGLLV.X(25th)【P】",
@@ -1897,10 +1897,10 @@
     "averagePrice": 1853,
     "minPrice": 1280,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g017-025-S8A-P-B/",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団参上！(25th)【P】",
@@ -1908,10 +1908,10 @@
     "averagePrice": 4180,
     "minPrice": 3580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g006-025-S8A-P-B/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "わるいギャラドス(25th)【P】",
@@ -1919,10 +1919,10 @@
     "averagePrice": 12945,
     "minPrice": 9180,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g005-025-S8A-P-B/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ【AR】",
@@ -1933,7 +1933,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シロナの覇気【SAR】",
@@ -1943,8 +1943,8 @@
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itwysqvsaz44_8puh?_pos=1&_sid=c9c083052&_ss=r",
     "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 2.9,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒスイの仲間たち【SR】",
@@ -1952,10 +1952,10 @@
     "averagePrice": 1023,
     "minPrice": 850,
     "bestStoreUrl": "https://www.hareruya2.com/product/26388",
-    "totalStock": 10,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シンオウの仲間たち【SR】",
@@ -1963,10 +1963,10 @@
     "averagePrice": 1098,
     "minPrice": 850,
     "bestStoreUrl": "https://www.hareruya2.com/product/26386",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシアVSTAR【SAR】",
@@ -1977,7 +1977,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィアVSTAR【SAR】",
@@ -1988,7 +1988,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エリカの招待【SAR】",
@@ -1996,10 +1996,10 @@
     "averagePrice": 8065,
     "minPrice": 3980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/231599",
-    "totalStock": 6,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エリカの招待【SR】",
@@ -2007,10 +2007,10 @@
     "averagePrice": 3353,
     "minPrice": 3000,
     "bestStoreUrl": "https://www.hareruya2.com/product/29317",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウex【SAR】",
@@ -2021,7 +2021,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エリカの招待(マスターボールミラー)【U】",
@@ -2032,7 +2032,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ(マスターボールミラー)【C】",
@@ -2043,7 +2043,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウex【UR】",
@@ -2051,10 +2051,10 @@
     "averagePrice": 29350,
     "minPrice": 14000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017522389312?_pos=1&_sid=eb241bb0a&_ss=r",
-    "totalStock": 69,
+    "totalStock": 72,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【SAR】",
@@ -2062,10 +2062,10 @@
     "averagePrice": 66350,
     "minPrice": 48000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017393807680?_pos=1&_sid=6febb0731&_ss=r",
-    "totalStock": 13,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダーex【SAR】",
@@ -2076,7 +2076,7 @@
     "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サカキのカリスマ【SAR】",
@@ -2084,10 +2084,10 @@
     "averagePrice": 3335,
     "minPrice": 2880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g207-165-SV2A-B/",
-    "totalStock": 14,
+    "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カメックスex【SAR】",
@@ -2098,7 +2098,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フーディンex【SAR】",
@@ -2106,10 +2106,10 @@
     "averagePrice": 10850,
     "minPrice": 9000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017521373504?_pos=1&_sid=af2436dbf&_ss=r",
-    "totalStock": 30,
+    "totalStock": 31,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フシギバナex【SAR】",
@@ -2120,7 +2120,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シャワーズ(マスターボールミラー)【R】",
@@ -2130,8 +2130,8 @@
     "bestStoreUrl": "https://www.c-labo-online.jp/product/292504",
     "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 1.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【SR】",
@@ -2142,7 +2142,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダース(マスターボールミラー)【R】",
@@ -2153,7 +2153,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブースター(マスターボールミラー)【R】",
@@ -2164,7 +2164,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナナミの手助け【SR】",
@@ -2172,10 +2172,10 @@
     "averagePrice": 735,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/product/29319",
-    "totalStock": 11,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゲンガー(マスターボールミラー)【R】",
@@ -2186,7 +2186,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキー(YU NAGABA)【P】",
@@ -2194,10 +2194,10 @@
     "averagePrice": 28867,
     "minPrice": 28000,
     "bestStoreUrl": "https://www.hareruya2.com/product/28661",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダース(YU NAGABA)【P】",
@@ -2208,7 +2208,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシア(YU NAGABA)【P】",
@@ -2219,7 +2219,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィア(YU NAGABA)【P】",
@@ -2230,7 +2230,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィア(YU NAGABA)【P】",
@@ -2241,7 +2241,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブースター(YU NAGABA)【P】",
@@ -2252,7 +2252,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シャワーズ(YU NAGABA)【P】",
@@ -2263,7 +2263,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーブイ(YU NAGABA)【P】",
@@ -2274,7 +2274,7 @@
     "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エーフィ(YU NAGABA)【P】",
@@ -2285,7 +2285,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【SAR】黒炎",
@@ -2293,10 +2293,10 @@
     "averagePrice": 54100,
     "minPrice": 48000,
     "bestStoreUrl": "https://www.hareruya2.com/product/29979",
-    "totalStock": 13,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【UR】",
@@ -2307,7 +2307,7 @@
     "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オモダカ【SAR】",
@@ -2318,7 +2318,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ポピー【SAR】",
@@ -2326,10 +2326,10 @@
     "averagePrice": 1235,
     "minPrice": 980,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g138-108-SV3-B/",
-    "totalStock": 7,
+    "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【SR】黒炎",
@@ -2337,10 +2337,10 @@
     "averagePrice": 4260,
     "minPrice": 3080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g125-108-SV3-B/",
-    "totalStock": 6,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ポピー【SR】",
@@ -2348,10 +2348,10 @@
     "averagePrice": 585,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/product/29976",
-    "totalStock": 10,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピジョットex【SAR】",
@@ -2362,7 +2362,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オルティガ【SR】",
@@ -2373,7 +2373,7 @@
     "totalStock": 42,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コオリッポex【SAR】",
@@ -2381,10 +2381,10 @@
     "averagePrice": 1210,
     "minPrice": 1000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017392759104?_pos=1&_sid=0dcbb71fc&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オモダカ【SR】",
@@ -2395,7 +2395,7 @@
     "totalStock": 35,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブロロロームex【SAR】",
@@ -2403,10 +2403,10 @@
     "averagePrice": 1010,
     "minPrice": 880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g135-108-SV3-B/",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "バンギラスex【SR】",
@@ -2414,10 +2414,10 @@
     "averagePrice": 735,
     "minPrice": 680,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g122-108-SV3-B/",
-    "totalStock": 25,
+    "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 7.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パラソルおねえさん【SAR】",
@@ -2428,7 +2428,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガブリアスex【SAR】",
@@ -2439,7 +2439,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チリ【SAR】",
@@ -2450,7 +2450,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パラソルおねえさん【SR】",
@@ -2461,7 +2461,7 @@
     "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サーフゴーex【SAR】",
@@ -2469,10 +2469,10 @@
     "averagePrice": 5290,
     "minPrice": 5000,
     "bestStoreUrl": "https://www.hareruya2.com/product/30489",
-    "totalStock": 8,
+    "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガブリアスex【UR】",
@@ -2483,7 +2483,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リバーサルエネルギー【UR】",
@@ -2494,7 +2494,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シキミ【SR】",
@@ -2502,10 +2502,10 @@
     "averagePrice": 623,
     "minPrice": 550,
     "bestStoreUrl": "https://www.hareruya2.com/product/30484",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ビーチコート【UR】",
@@ -2516,7 +2516,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カプ・コケコex【SAR】",
@@ -2524,10 +2524,10 @@
     "averagePrice": 3210,
     "minPrice": 2380,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g086-062-SV3A-B/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガブリアスex【SR】",
@@ -2535,10 +2535,10 @@
     "averagePrice": 1285,
     "minPrice": 980,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g076-062-SV3A-B/",
-    "totalStock": 5,
+    "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アオキ【SR】",
@@ -2546,10 +2546,10 @@
     "averagePrice": 448,
     "minPrice": 380,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/241084",
-    "totalStock": 50,
+    "totalStock": 47,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ユキメノコex【SR】",
@@ -2560,7 +2560,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フーパex【SR】",
@@ -2571,7 +2571,7 @@
     "totalStock": 27,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トドロクツキex【SAR】",
@@ -2582,7 +2582,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メロコ【SAR】",
@@ -2593,7 +2593,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トドロクツキex【UR】",
@@ -2604,7 +2604,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メロコ【SR】",
@@ -2615,7 +2615,7 @@
     "totalStock": 25,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オーリム博士の気迫【SAR】",
@@ -2626,7 +2626,7 @@
     "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グソクムシャex【SAR】",
@@ -2636,8 +2636,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g088-066-SV4K-B/",
     "totalStock": 8,
     "fleamarketPrice": null,
-    "changeRate": 2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゴージャスマント【UR】",
@@ -2648,7 +2648,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スナノケガワex【SAR】",
@@ -2656,10 +2656,10 @@
     "averagePrice": 1085,
     "minPrice": 880,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itzfcjs5lv5w_k5dy?_pos=1&_sid=550253103&_ss=r",
-    "totalStock": 11,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノブジンex【SAR】",
@@ -2667,10 +2667,10 @@
     "averagePrice": 3420,
     "minPrice": 2480,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g089-066-SV4M-B/",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノブジンex【SR】",
@@ -2678,10 +2678,10 @@
     "averagePrice": 448,
     "minPrice": 380,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/245919",
-    "totalStock": 29,
+    "totalStock": 30,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リップ【SAR】",
@@ -2692,7 +2692,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カウンターキャッチャー【UR】",
@@ -2703,7 +2703,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リップ【SR】",
@@ -2711,10 +2711,10 @@
     "averagePrice": 623,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017526845760?_pos=1&_sid=f96c5f8e2&_ss=r",
-    "totalStock": 48,
+    "totalStock": 47,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノカイナex【SAR】",
@@ -2722,10 +2722,10 @@
     "averagePrice": 1510,
     "minPrice": 780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it22dfxls50t_s0vr?_pos=1&_sid=df1950d14&_ss=r",
-    "totalStock": 10,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チルタリスex【SAR】",
@@ -2733,10 +2733,10 @@
     "averagePrice": 9565,
     "minPrice": 7480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itdpvxaqfehe_c2o6?_pos=1&_sid=57c805951&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": -3.8,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノブジンex【UR】",
@@ -2747,7 +2747,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フトゥー博士のシナリオ【SAR】",
@@ -2758,7 +2758,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ【CHR】",
@@ -2766,10 +2766,10 @@
     "averagePrice": 9460,
     "minPrice": 7500,
     "bestStoreUrl": "https://www.hareruya2.com/product/23469",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒスイゾロアークVSTAR【UR】",
@@ -2780,7 +2780,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒナツ【SR】",
@@ -2791,7 +2791,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ラブトロスV【CSR】",
@@ -2802,7 +2802,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガブリアスV【CSR】",
@@ -2810,10 +2810,10 @@
     "averagePrice": 9360,
     "minPrice": 8500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017116688704?_pos=1&_sid=3eb4f24f9&_ss=r",
-    "totalStock": 22,
+    "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "こだわりベルト【UR】",
@@ -2824,7 +2824,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スターミーV【CSR】",
@@ -2832,10 +2832,10 @@
     "averagePrice": 18350,
     "minPrice": 16800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ittke3tty0q6_beme?_pos=1&_sid=13a2aa1d0&_ss=r",
-    "totalStock": 4,
+    "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ジャローダV【CSR】",
@@ -2846,7 +2846,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "セレナ【SR】",
@@ -2857,7 +2857,7 @@
     "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チルタリス【CHR】",
@@ -2865,10 +2865,10 @@
     "averagePrice": 1185,
     "minPrice": 1000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017086345536?_pos=1&_sid=528a1ea76&_ss=r",
-    "totalStock": 50,
+    "totalStock": 51,
     "fleamarketPrice": null,
-    "changeRate": -7.4,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テールナー【CHR】",
@@ -2876,10 +2876,10 @@
     "averagePrice": 885,
     "minPrice": 700,
     "bestStoreUrl": "https://www.hareruya2.com/product/25198",
-    "totalStock": 119,
+    "totalStock": 121,
     "fleamarketPrice": null,
-    "changeRate": -6.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ふりそで【SR】",
@@ -2889,8 +2889,8 @@
     "bestStoreUrl": "https://www.hareruya2.com/products/9017089884480?_pos=1&_sid=a7220a991&_ss=r",
     "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": -2.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "キハダ【SAR】",
@@ -2900,8 +2900,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g099-073-SV1A-B/",
     "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": 23.6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "キハダ【SR】",
@@ -2909,10 +2909,10 @@
     "averagePrice": 723,
     "minPrice": 580,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it4s70708nwg_31hx?_pos=1&_sid=d48597363&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": -10.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マスカーニャex【SAR】",
@@ -2922,8 +2922,8 @@
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it0mm0s9ec2g_px80?_pos=1&_sid=23be3627a&_ss=r",
     "totalStock": 8,
     "fleamarketPrice": null,
-    "changeRate": -0.6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ラウドボーンex【SAR】",
@@ -2933,8 +2933,8 @@
     "bestStoreUrl": "https://www.c-labo-online.jp/product/221124",
     "totalStock": 10,
     "fleamarketPrice": null,
-    "changeRate": -1.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ウェーニバルex【SAR】",
@@ -2945,7 +2945,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボスの指令/ゲーチス【SAR】",
@@ -2955,8 +2955,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g100-073-SV1A-B/",
     "totalStock": 8,
     "fleamarketPrice": null,
-    "changeRate": 7.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マスカーニャex【UR】",
@@ -2966,8 +2966,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g101-073-SV1A-B/",
     "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": -3.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ラウドボーンex【UR】",
@@ -2978,7 +2978,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ウェーニバルex【UR】",
@@ -2988,8 +2988,8 @@
     "bestStoreUrl": "https://www.c-labo-online.jp/product/221130",
     "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": 24.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "デデンネex【SR】",
@@ -2999,8 +2999,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g089-073-SV1A-B/",
     "totalStock": 11,
     "fleamarketPrice": null,
-    "changeRate": 5.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボスの指令/ゲーチス【SR】",
@@ -3010,8 +3010,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g095-073-SV1A-B/",
     "totalStock": 34,
     "fleamarketPrice": null,
-    "changeRate": -1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マスカーニャex【SR】",
@@ -3022,7 +3022,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コイキング【AR】",
@@ -3033,7 +3033,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ハヤト【SR】",
@@ -3043,8 +3043,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g094-073-SV1A-B/",
     "totalStock": 19,
     "fleamarketPrice": null,
-    "changeRate": -5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモ【SAR】",
@@ -3052,10 +3052,10 @@
     "averagePrice": 48800,
     "minPrice": 47800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g096-071-SV2D-B/",
-    "totalStock": 23,
+    "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモ【SR】",
@@ -3066,7 +3066,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ディンルーex【SAR】",
@@ -3074,10 +3074,10 @@
     "averagePrice": 1283,
     "minPrice": 1173,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g094-071-SV2D-B-K/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": 4.6,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "デカヌチャンex【SAR】",
@@ -3085,10 +3085,10 @@
     "averagePrice": 5135,
     "minPrice": 4980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/225191",
-    "totalStock": 10,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーユイex【SAR】",
@@ -3099,7 +3099,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スーパーエネルギー回収【UR】",
@@ -3110,7 +3110,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サワロ【SAR】",
@@ -3118,10 +3118,10 @@
     "averagePrice": 953,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/product/28247",
-    "totalStock": 100,
+    "totalStock": 99,
     "fleamarketPrice": null,
-    "changeRate": 26.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フォレトスex【SR】",
@@ -3131,8 +3131,8 @@
     "bestStoreUrl": "https://www.c-labo-online.jp/product/225182",
     "totalStock": 37,
     "fleamarketPrice": null,
-    "changeRate": 2.9,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グルーシャ【SAR】",
@@ -3142,8 +3142,8 @@
     "bestStoreUrl": "https://www.hareruya2.com/product/28280",
     "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": -3.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グルーシャ【SR】",
@@ -3151,10 +3151,10 @@
     "averagePrice": 935,
     "minPrice": 750,
     "bestStoreUrl": "https://www.hareruya2.com/products/9017457770816?_pos=1&_sid=59af3be7b&_ss=r",
-    "totalStock": 46,
+    "totalStock": 45,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パオジアンex【SAR】",
@@ -3165,7 +3165,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イキリンコex【SAR】",
@@ -3176,18 +3176,18 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チオンジェンex【SAR】",
     "code": "092/071SV2P",
-    "averagePrice": 2085,
-    "minPrice": 1980,
-    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g092-071-SV2P-B/",
-    "totalStock": 15,
+    "averagePrice": 1960,
+    "minPrice": 1480,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itje1fodx3v2_tbgv?_pos=1&_sid=163b1a654&_ss=r",
+    "totalStock": 16,
     "fleamarketPrice": null,
-    "changeRate": 0.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パオジアンex【UR】",
@@ -3195,21 +3195,21 @@
     "averagePrice": 910,
     "minPrice": 780,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g097-071-SV2P-B/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": 3.4,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "すごいつりざお【UR】",
     "code": "098/071SV2P",
-    "averagePrice": 1835,
-    "minPrice": 1480,
+    "averagePrice": 1785,
+    "minPrice": 1280,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it0soknjumyf_gmkx?_pos=1&_sid=2c88260cf&_ss=r",
     "totalStock": 23,
     "fleamarketPrice": null,
-    "changeRate": 7.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -2.7,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヤドキングex【SR】",
@@ -3217,10 +3217,10 @@
     "averagePrice": 835,
     "minPrice": 700,
     "bestStoreUrl": "https://www.hareruya2.com/product/28271",
-    "totalStock": 15,
+    "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "コライドンex【UR】",
@@ -3231,7 +3231,7 @@
     "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモ【SAR】シャイニー",
@@ -3239,10 +3239,10 @@
     "averagePrice": 10020,
     "minPrice": 7500,
     "bestStoreUrl": "https://www.hareruya2.com/product/31892",
-    "totalStock": 23,
+    "totalStock": 24,
     "fleamarketPrice": null,
-    "changeRate": -7.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リザードンex【SAR】シャイニー",
@@ -3250,10 +3250,10 @@
     "averagePrice": 46100,
     "minPrice": 39000,
     "bestStoreUrl": "https://www.hareruya2.com/product/31891",
-    "totalStock": 13,
+    "totalStock": 12,
     "fleamarketPrice": null,
-    "changeRate": 2.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サーナイトex【SAR】シャイニー",
@@ -3263,8 +3263,8 @@
     "bestStoreUrl": "https://www.hareruya2.com/product/31890",
     "totalStock": 14,
     "fleamarketPrice": null,
-    "changeRate": -5.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボタン【SAR】シャイニー",
@@ -3275,7 +3275,7 @@
     "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウ【S】",
@@ -3283,10 +3283,10 @@
     "averagePrice": 11460,
     "minPrice": 9580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g236-190-SV4A-B/",
-    "totalStock": 6,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミュウex【SAR】シャイニー",
@@ -3297,18 +3297,18 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミミッキュ【AR】",
     "code": "341/190SV4a",
-    "averagePrice": 2885,
-    "minPrice": 2280,
-    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itwo1k46b17u_l2np?_pos=1&_sid=cdb9badbd&_ss=r",
+    "averagePrice": 3060,
+    "minPrice": 2780,
+    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g341-190-SV4A-B/",
     "totalStock": 10,
     "fleamarketPrice": null,
-    "changeRate": -6.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 6.1,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ネモ【SAR】",
@@ -3316,10 +3316,10 @@
     "averagePrice": 1153,
     "minPrice": 1080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g351-190-SV4A-B/",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
-    "changeRate": -2.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ネルケ【SAR】",
@@ -3327,10 +3327,10 @@
     "averagePrice": 2385,
     "minPrice": 1980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/249426",
-    "totalStock": 4,
+    "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ペパー【SAR】シャイニー",
@@ -3341,7 +3341,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パルデアの学生【SR】346",
@@ -3352,7 +3352,7 @@
     "totalStock": 100,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パルデアの学生【SR】345",
@@ -3363,7 +3363,7 @@
     "totalStock": 106,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ベルのまごころ【SAR】",
@@ -3373,8 +3373,8 @@
     "bestStoreUrl": "https://www.hareruya2.com/products/9062665847104?_pos=1&_sid=6b3099bf8&_ss=r",
     "totalStock": 35,
     "fleamarketPrice": null,
-    "changeRate": -7.2,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ベルのまごころ【SR】",
@@ -3384,8 +3384,8 @@
     "bestStoreUrl": "https://www.hareruya2.com/products/9062672466240?_pos=1&_sid=68747dfe5&_ss=r",
     "totalStock": 23,
     "fleamarketPrice": null,
-    "changeRate": -8.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "暗号マニアの解読【SR】",
@@ -3396,7 +3396,7 @@
     "totalStock": 45,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノカシラex【SAR】",
@@ -3407,7 +3407,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノイサハex【SAR】",
@@ -3415,10 +3415,10 @@
     "averagePrice": 2960,
     "minPrice": 2580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g093-071-SV5M-B/",
-    "totalStock": 11,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テツノイワオex【SAR】",
@@ -3429,7 +3429,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "プライムキャッチャー【ACE】",
@@ -3440,7 +3440,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ビワ【SAR】",
@@ -3448,10 +3448,10 @@
     "averagePrice": 2260,
     "minPrice": 1980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itoi42x5ascg_j0vb?_pos=1&_sid=369b9a832&_ss=r",
-    "totalStock": 15,
+    "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ビワ【SR】",
@@ -3462,7 +3462,7 @@
     "totalStock": 35,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゲンガーex【SR】",
@@ -3470,10 +3470,10 @@
     "averagePrice": 7760,
     "minPrice": 6580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g088-071-SV5K-B/",
-    "totalStock": 27,
+    "totalStock": 28,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ウネルミナモex【SAR】",
@@ -3484,7 +3484,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "タケルライコex【SAR】",
@@ -3492,10 +3492,10 @@
     "averagePrice": 1887,
     "minPrice": 1780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itahzwkh7wjj_460c?_pos=1&_sid=1918ec3db&_ss=r",
-    "totalStock": 40,
+    "totalStock": 41,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ウガツホムラex【SAR】",
@@ -3506,7 +3506,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マツバの確信【SAR】",
@@ -3514,10 +3514,10 @@
     "averagePrice": 8160,
     "minPrice": 6480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itcc9f4r22qc_arcs?_pos=1&_sid=1f5699ed0&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "なかよしポフィン【U】",
@@ -3525,10 +3525,10 @@
     "averagePrice": 110,
     "minPrice": 80,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itqqcfgkwynm_levu?_pos=1&_sid=2770a0fbd&_ss=r",
-    "totalStock": 51,
+    "totalStock": 56,
     "fleamarketPrice": null,
-    "changeRate": -12,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サザレ【SAR】",
@@ -3539,7 +3539,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゲッコウガex【SAR】",
@@ -3550,7 +3550,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スイレンのお世話【SAR】",
@@ -3561,7 +3561,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スイレンのお世話【SR】",
@@ -3572,7 +3572,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ガチグマアカツキex【SAR】",
@@ -3580,10 +3580,10 @@
     "averagePrice": 3887,
     "minPrice": 3480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it9e72g0n2e2_d3t1?_pos=1&_sid=7cb9e3cf3&_ss=r",
-    "totalStock": 10,
+    "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サザレ【SR】",
@@ -3591,21 +3591,21 @@
     "averagePrice": 1010,
     "minPrice": 900,
     "bestStoreUrl": "https://www.hareruya2.com/products/9123437117760?_pos=1&_sid=6bf219d77&_ss=r",
-    "totalStock": 36,
+    "totalStock": 37,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヤバソチャex【SAR】",
     "code": "089/066SV5a",
-    "averagePrice": 1910,
+    "averagePrice": 1935,
     "minPrice": 1680,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g089-066-SV5A-B/",
     "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 1.3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "緊急ボード【UR】",
@@ -3616,7 +3616,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼイユ【SAR】",
@@ -3624,10 +3624,10 @@
     "averagePrice": 21350,
     "minPrice": 20000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9245990715712",
-    "totalStock": 5,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "なかよしポフィン【UR】",
@@ -3635,10 +3635,10 @@
     "averagePrice": 2110,
     "minPrice": 1880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g133-101-SV6-B/",
-    "totalStock": 11,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スグリ【SAR】",
@@ -3649,7 +3649,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オーガポンいどのめんex【SAR】",
@@ -3660,7 +3660,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼイユ【SR】",
@@ -3671,7 +3671,7 @@
     "totalStock": 93,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オーガポンみどりのめんex【SAR】",
@@ -3682,7 +3682,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オーガポンいしずえのめんex【SAR】",
@@ -3693,7 +3693,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オーガポンかまどのめんex【SAR】",
@@ -3704,7 +3704,7 @@
     "totalStock": 33,
     "fleamarketPrice": null,
     "changeRate": 41.8,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スグリ【SR】",
@@ -3715,7 +3715,7 @@
     "totalStock": 66,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "改造ハンマー【UR】",
@@ -3726,7 +3726,7 @@
     "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カシオペア【SAR】",
@@ -3737,7 +3737,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "大地の器【UR】",
@@ -3748,7 +3748,7 @@
     "totalStock": 43,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "キチキギスex【SAR】",
@@ -3759,7 +3759,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "モモワロウex【SAR】",
@@ -3767,10 +3767,10 @@
     "averagePrice": 1460,
     "minPrice": 880,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it2abe27bk5o_pihz?_pos=1&_sid=bf7f1ce3b&_ss=r",
-    "totalStock": 9,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イイネイヌex【SAR】",
@@ -3781,18 +3781,18 @@
     "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マシマシラex【SAR】",
     "code": "088/064SV6a",
-    "averagePrice": 1235,
+    "averagePrice": 1220,
     "minPrice": 980,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g088-064-SV6A-B/",
-    "totalStock": 7,
+    "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -1.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カシオペア【SR】",
@@ -3800,21 +3800,21 @@
     "averagePrice": 823,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9372465561920",
-    "totalStock": 46,
+    "totalStock": 45,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "力の砂時計【UR】",
     "code": "094/064SV6a",
-    "averagePrice": 1810,
+    "averagePrice": 1680,
     "minPrice": 1080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g094-064-SV6A-B/",
-    "totalStock": 17,
+    "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -7.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アンズの秘技【SR】",
@@ -3825,7 +3825,7 @@
     "totalStock": 47,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "タロ【SAR】",
@@ -3836,7 +3836,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テラパゴスex【SAR】",
@@ -3844,10 +3844,10 @@
     "averagePrice": 4453,
     "minPrice": 4000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9501512335680",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブライア【SAR】",
@@ -3858,7 +3858,7 @@
     "totalStock": 26,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "タロ【SR】",
@@ -3866,10 +3866,10 @@
     "averagePrice": 1905,
     "minPrice": 1280,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itwvzb5gum00_p4cv?_pos=1&_sid=3dd63150d&_ss=r",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼロの大空洞【UR】",
@@ -3880,7 +3880,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カミツオロチex【SAR】",
@@ -3888,10 +3888,10 @@
     "averagePrice": 3165,
     "minPrice": 2600,
     "bestStoreUrl": "https://www.c-labo-kaitori.jp/product/62383",
-    "totalStock": 6,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "デンチュラex【SAR】",
@@ -3902,7 +3902,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "勇気のおまもり【UR】",
@@ -3913,7 +3913,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ポケモンセンターのお姉さん(SR仕様)【P】",
@@ -3924,7 +3924,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ソニア【SR】",
@@ -3935,7 +3935,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マリィ【SR】",
@@ -3946,7 +3946,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウV(未開封)",
@@ -3957,7 +3957,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "モンスターボール(未開封)",
@@ -3968,18 +3968,18 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルチア【SR】",
     "code": "104/096sm7",
-    "averagePrice": 238500,
-    "minPrice": 230000,
-    "bestStoreUrl": "https://www.hareruya2.com/products/9063310623040?_pos=1&_sid=16ad417b0&_ss=r",
-    "totalStock": 5,
+    "averagePrice": 241333,
+    "minPrice": 238000,
+    "bestStoreUrl": "https://www.torecolo.jp/shop/g/g104-096-SM7-B/",
+    "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 1.2,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルチアのアピール【SAR】",
@@ -3990,7 +3990,7 @@
     "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ラティアスex【SAR】",
@@ -4001,7 +4001,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ルチアのアピール【SR】",
@@ -4009,10 +4009,10 @@
     "averagePrice": 4435,
     "minPrice": 4000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9586617123136",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アローラナッシーex【SAR】",
@@ -4023,7 +4023,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ジェットエネルギー【UR】",
@@ -4034,7 +4034,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カキツバタ【SAR】",
@@ -4042,10 +4042,10 @@
     "averagePrice": 935,
     "minPrice": 780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itsgs45llbam_x2j7?_pos=1&_sid=f1a03920d&_ss=r",
-    "totalStock": 19,
+    "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブリジュラスex【SAR】",
@@ -4056,7 +4056,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex【SAR】",
@@ -4067,7 +4067,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サザンドラex【SAR】",
@@ -4078,7 +4078,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "夜のタンカ【UR】",
@@ -4088,8 +4088,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g137-106-SV8-B/",
     "totalStock": 66,
     "fleamarketPrice": null,
-    "changeRate": -2.5,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミロカロスex【SAR】",
@@ -4100,7 +4100,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex【UR】",
@@ -4111,7 +4111,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ミカンのまなざし【SAR】",
@@ -4122,7 +4122,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex【SR】",
@@ -4133,7 +4133,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキーex【SAR】",
@@ -4141,10 +4141,10 @@
     "averagePrice": 69350,
     "minPrice": 64800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it2gjejzvkik_dkdv?_pos=1&_sid=ae0230f10&_ss=r",
-    "totalStock": 10,
+    "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキー(マスターボールミラー)",
@@ -4155,7 +4155,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィアex【SAR】",
@@ -4166,7 +4166,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニンフィア(マスターボールミラー)",
@@ -4177,18 +4177,18 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーブイ(マスターボールミラー)",
     "code": "125/187SV8a",
-    "averagePrice": 4360,
+    "averagePrice": 4547,
     "minPrice": 3580,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g125-187-SV8A-BM1/",
-    "totalStock": 12,
+    "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 4.3,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エーフィex【SAR】",
@@ -4196,10 +4196,10 @@
     "averagePrice": 10065,
     "minPrice": 9500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9667472556352?_pos=1&_sid=0b1804d49&_ss=r",
-    "totalStock": 10,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エーフィ(マスターボールミラー)",
@@ -4210,7 +4210,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーブイex【SAR】223",
@@ -4221,7 +4221,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシアex【SAR】",
@@ -4232,7 +4232,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーブイex【SAR】224",
@@ -4240,10 +4240,10 @@
     "averagePrice": 6635,
     "minPrice": 5480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itthesglepyi_wigh?_pos=1&_sid=ddce9ce3c&_ss=r",
-    "totalStock": 13,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex【UR】テラスタル",
@@ -4254,7 +4254,7 @@
     "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "グレイシア(マスターボールミラー)",
@@ -4265,7 +4265,7 @@
     "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィアex【SAR】",
@@ -4273,10 +4273,10 @@
     "averagePrice": 10440,
     "minPrice": 8980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itjsa7apl84q_8f7a?_pos=1&_sid=32a11b886&_ss=r",
-    "totalStock": 10,
+    "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブースターex【SAR】",
@@ -4284,10 +4284,10 @@
     "averagePrice": 8385,
     "minPrice": 7980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/292121",
-    "totalStock": 8,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シャワーズex【SAR】",
@@ -4295,10 +4295,10 @@
     "averagePrice": 9160,
     "minPrice": 8980,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/292124",
-    "totalStock": 13,
+    "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダースex【SAR】",
@@ -4306,10 +4306,10 @@
     "averagePrice": 8510,
     "minPrice": 6980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itvjqcyy6b4o_twgv?_pos=1&_sid=c39ffb2e6&_ss=r",
-    "totalStock": 8,
+    "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シャワーズ(マスターボールミラー)",
@@ -4320,7 +4320,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーフィア(マスターボールミラー)",
@@ -4331,7 +4331,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブースター(マスターボールミラー)",
@@ -4339,10 +4339,10 @@
     "averagePrice": 2960,
     "minPrice": 2500,
     "bestStoreUrl": "https://www.hareruya2.com/products/46682a",
-    "totalStock": 30,
+    "totalStock": 31,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サンダース(マスターボールミラー)",
@@ -4353,7 +4353,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スボミー(マスターボールミラー)",
@@ -4361,10 +4361,10 @@
     "averagePrice": 660,
     "minPrice": 480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it3wmmjarvqi_276y?_pos=1&_sid=ef15e6a10&_ss=r",
-    "totalStock": 15,
+    "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ドロンチ(マスターボールミラー)",
@@ -4375,7 +4375,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トドロクツキ(マスターボールミラー)",
@@ -4386,7 +4386,7 @@
     "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ソウブレイズex【SAR】",
@@ -4394,10 +4394,10 @@
     "averagePrice": 2435,
     "minPrice": 2200,
     "bestStoreUrl": "https://www.hareruya2.com/products/ex01687",
-    "totalStock": 13,
+    "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トドロクツキex【SAR】テラスタル",
@@ -4408,18 +4408,18 @@
     "totalStock": 57,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イルカマンex【SAR】",
     "code": "207/187SV8a",
-    "averagePrice": 2210,
+    "averagePrice": 2335,
     "minPrice": 1980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ittesa2oif5g_itsc?_pos=1&_sid=03b5b5eca&_ss=r",
-    "totalStock": 9,
+    "totalStock": 11,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 5.7,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スグリ【SAR】テラスタル",
@@ -4430,7 +4430,7 @@
     "totalStock": 20,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "スピンロトム(マスターボールミラー)",
@@ -4441,7 +4441,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ドラパルトex【SAR】",
@@ -4449,10 +4449,10 @@
     "averagePrice": 2385,
     "minPrice": 1880,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g221-187-SV8A-B/",
-    "totalStock": 26,
+    "totalStock": 29,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "タケルライコex【SAR】テラスタル",
@@ -4460,10 +4460,10 @@
     "averagePrice": 1935,
     "minPrice": 1780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itahzwkh7wjj_460c?_pos=1&_sid=75c2f4bb9&_ss=r",
-    "totalStock": 40,
+    "totalStock": 41,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "タロ【SAR】テラスタル",
@@ -4471,10 +4471,10 @@
     "averagePrice": 1110,
     "minPrice": 980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itjuamzs3mr2_jtk5?_pos=1&_sid=f403bd26e&_ss=r",
-    "totalStock": 27,
+    "totalStock": 28,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "テラパゴスex【SAR】テラスタル",
@@ -4482,10 +4482,10 @@
     "averagePrice": 1010,
     "minPrice": 980,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g226-187-SV8A-B/",
-    "totalStock": 12,
+    "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "パルデアの仲間たち【SR】",
@@ -4493,10 +4493,10 @@
     "averagePrice": 1085,
     "minPrice": 900,
     "bestStoreUrl": "https://www.hareruya2.com/products/9667472064832",
-    "totalStock": 27,
+    "totalStock": 26,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒトカゲ(AR仕様)",
@@ -4507,7 +4507,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フシギダネ(AR仕様)",
@@ -4515,21 +4515,21 @@
     "averagePrice": 13600,
     "minPrice": 12800,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/246733",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼニガメ(AR仕様)",
     "code": "052/049SVG",
-    "averagePrice": 16225,
+    "averagePrice": 16100,
     "minPrice": 12800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itvkq3q929eo_oon3?_pos=1&_sid=f6334d8f2&_ss=r",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
-    "changeRate": -3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -0.8,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニャース【P】",
@@ -4540,7 +4540,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエのピッピex【SAR】",
@@ -4551,7 +4551,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのハラバリーex【SAR】",
@@ -4562,7 +4562,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "Nのゾロアークex【SAR】",
@@ -4573,7 +4573,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのハラバリーex【UR】",
@@ -4584,7 +4584,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ホップのザシアンex【SAR】",
@@ -4592,10 +4592,10 @@
     "averagePrice": 4135,
     "minPrice": 3780,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itwytql9cq0q_dnga?_pos=1&_sid=4c16e81ae&_ss=r",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボーマンダex【SAR】",
@@ -4606,7 +4606,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエのピッピex【SR】",
@@ -4614,10 +4614,10 @@
     "averagePrice": 2485,
     "minPrice": 1900,
     "bestStoreUrl": "https://www.hareruya2.com/products/9708384059712",
-    "totalStock": 123,
+    "totalStock": 127,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "Nのゾロアークex【UR】",
@@ -4625,10 +4625,10 @@
     "averagePrice": 2635,
     "minPrice": 2480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itb5wvypkvgg_hc6o?_pos=1&_sid=3f311be44&_ss=r",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アイリスの闘志【SR】",
@@ -4639,7 +4639,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエのアブリボン【AR】",
@@ -4650,7 +4650,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのハラバリーex【SR】",
@@ -4658,10 +4658,10 @@
     "averagePrice": 710,
     "minPrice": 500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9708383928640",
-    "totalStock": 56,
+    "totalStock": 57,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボルケニオンex【SAR】",
@@ -4672,7 +4672,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "Nのレシラム【AR】",
@@ -4680,10 +4680,10 @@
     "averagePrice": 2510,
     "minPrice": 2080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g109-100-SV9-B/",
-    "totalStock": 58,
+    "totalStock": 64,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのタイカイデン【AR】",
@@ -4691,10 +4691,10 @@
     "averagePrice": 760,
     "minPrice": 600,
     "bestStoreUrl": "https://www.hareruya2.com/products/9708382421312",
-    "totalStock": 47,
+    "totalStock": 49,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "フリーザー【AR】",
@@ -4702,10 +4702,10 @@
     "averagePrice": 1510,
     "minPrice": 1180,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g102-100-SV9-B/",
-    "totalStock": 68,
+    "totalStock": 69,
     "fleamarketPrice": null,
-    "changeRate": 7.1,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのカイデン(未開封)【P】",
@@ -4713,10 +4713,10 @@
     "averagePrice": 1485,
     "minPrice": 1380,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g232-SV-P/",
-    "totalStock": 36,
+    "totalStock": 39,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シロナのガブリアスex【SAR】",
@@ -4726,8 +4726,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g087-063-SV9A-B/",
     "totalStock": 6,
     "fleamarketPrice": null,
-    "changeRate": 3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒビキのホウオウex【SAR】",
@@ -4738,7 +4738,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒビキの冒険【SAR】",
@@ -4749,7 +4749,7 @@
     "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シロナのガブリアスex【UR】",
@@ -4757,10 +4757,10 @@
     "averagePrice": 7260,
     "minPrice": 6980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it774a4jj0dv_uufs?_pos=1&_sid=940d0e801&_ss=r",
-    "totalStock": 6,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒビキのホウオウex【UR】",
@@ -4771,7 +4771,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガヤンマex【SAR】",
@@ -4782,7 +4782,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カスミのコダック【AR】",
@@ -4790,10 +4790,10 @@
     "averagePrice": 5485,
     "minPrice": 5480,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g071-063-SV9A-B/",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒビキのバクフーン【AR】",
@@ -4801,10 +4801,10 @@
     "averagePrice": 2510,
     "minPrice": 2000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9749842329920",
-    "totalStock": 42,
+    "totalStock": 43,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ハッコウシティ【UR】",
@@ -4815,18 +4815,18 @@
     "totalStock": 51,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ペパーのマフィティフex【SAR】",
     "code": "088/063SV9a",
-    "averagePrice": 2185,
-    "minPrice": 1980,
+    "averagePrice": 2060,
+    "minPrice": 1480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itm1g4jcwgt8_hb8c?_pos=1&_sid=52795eee0&_ss=r",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -5.7,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒビキのホウオウex【SR】",
@@ -4834,10 +4834,10 @@
     "averagePrice": 1635,
     "minPrice": 1280,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g077-063-SV9A-B/",
-    "totalStock": 9,
+    "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "シロナのガブリアスex【SR】",
@@ -4845,10 +4845,10 @@
     "averagePrice": 2835,
     "minPrice": 2780,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g080-063-SV9A-B/",
-    "totalStock": 19,
+    "totalStock": 26,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のミュウツーex【SAR】",
@@ -4859,7 +4859,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のファイヤーex【SAR】",
@@ -4870,7 +4870,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のクロバットex【SAR】",
@@ -4878,10 +4878,10 @@
     "averagePrice": 8410,
     "minPrice": 7500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9781117911360",
-    "totalStock": 16,
+    "totalStock": 17,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のニドキングex【SAR】",
@@ -4892,7 +4892,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のミュウツーex【UR】",
@@ -4900,10 +4900,10 @@
     "averagePrice": 11970,
     "minPrice": 9280,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g130-098-SV10-B/",
-    "totalStock": 4,
+    "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のサカキ【SAR】",
@@ -4914,7 +4914,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のアテナ【SAR】",
@@ -4925,7 +4925,7 @@
     "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のミュウツーex【SR】",
@@ -4936,7 +4936,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のニャース【AR】",
@@ -4947,7 +4947,7 @@
     "totalStock": 41,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "バシャーモ【AR】",
@@ -4955,10 +4955,10 @@
     "averagePrice": 898,
     "minPrice": 800,
     "bestStoreUrl": "https://www.hareruya2.com/products/9781118009664",
-    "totalStock": 72,
+    "totalStock": 73,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のヘルガー【AR】",
@@ -4966,10 +4966,10 @@
     "averagePrice": 923,
     "minPrice": 730,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g100-098-SV10-B/",
-    "totalStock": 63,
+    "totalStock": 67,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロケット団のソーナンス【AR】",
@@ -4977,10 +4977,10 @@
     "averagePrice": 1023,
     "minPrice": 730,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g103-098-SV10-B/",
-    "totalStock": 19,
+    "totalStock": 21,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼクロムex【BWR】",
@@ -4991,7 +4991,7 @@
     "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レシラムex【BWR】",
@@ -5002,7 +5002,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゼクロムex【SAR】",
@@ -5010,21 +5010,21 @@
     "averagePrice": 33050,
     "minPrice": 30800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g169-086-SV11B-B/",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "レシラムex【SAR】",
     "code": "168/086SV11W",
-    "averagePrice": 30350,
-    "minPrice": 28000,
-    "bestStoreUrl": "https://www.hareruya2.com/products/9824664912192",
+    "averagePrice": 30850,
+    "minPrice": 29800,
+    "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itpu33abf1ua_brwj?_pos=1&_sid=3f482d10d&_ss=r",
     "totalStock": 4,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 1.6,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "キュレムex【SAR】",
@@ -5035,7 +5035,7 @@
     "totalStock": 6,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メロエッタex【SAR】",
@@ -5046,7 +5046,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "サザンドラex【SAR】ホワイトフレア",
@@ -5054,10 +5054,10 @@
     "averagePrice": 6320,
     "minPrice": 5980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itbr3lnuejhg_djsx?_pos=1&_sid=d1b6e2435&_ss=r",
-    "totalStock": 6,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "Nの筋書き【SAR】",
@@ -5065,10 +5065,10 @@
     "averagePrice": 6885,
     "minPrice": 6000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9824663667008",
-    "totalStock": 25,
+    "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "トウコ【SAR】",
@@ -5079,7 +5079,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ビクティニ(未開封/AR仕様)【P】",
@@ -5090,7 +5090,7 @@
     "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "名探偵ピカチュウ【P】",
@@ -5101,7 +5101,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガルカリオex【MUR】",
@@ -5112,18 +5112,18 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエの決心【SAR】",
     "code": "091/063M1L",
-    "averagePrice": 24150,
+    "averagePrice": 23900,
     "minPrice": 14800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it3a62bon0w9_5hzt?_pos=1&_sid=d1bbb6cce&_ss=r&variant=47119935733934",
-    "totalStock": 29,
+    "totalStock": 30,
     "fleamarketPrice": null,
-    "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": -1,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエの決心【SR】",
@@ -5131,10 +5131,10 @@
     "averagePrice": 9185,
     "minPrice": 8480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itsvvbr2vzr8_dc6x?_pos=1&_sid=a483e1374&_ss=r",
-    "totalStock": 14,
+    "totalStock": 20,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マチスの取引【SAR】",
@@ -5142,10 +5142,10 @@
     "averagePrice": 898,
     "minPrice": 780,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g090-063-M1L-B/",
-    "totalStock": 15,
+    "totalStock": 16,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガルカリオex【SAR】",
@@ -5153,21 +5153,21 @@
     "averagePrice": 11770,
     "minPrice": 8980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itei4i1dym04_qfa8?_pos=1&_sid=1e47e75b4&_ss=r",
-    "totalStock": 18,
+    "totalStock": 13,
     "fleamarketPrice": null,
-    "changeRate": -3.7,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガフシギバナex【SAR】",
     "code": "087/063M1L",
-    "averagePrice": 7835,
+    "averagePrice": 7910,
     "minPrice": 7280,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itfxcs9m9mxk_bfjk?_pos=1&_sid=ab9071954&_ss=r",
-    "totalStock": 17,
+    "totalStock": 19,
     "fleamarketPrice": null,
-    "changeRate": 3.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 1,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガサーナイトex【SAR】",
@@ -5178,7 +5178,7 @@
     "totalStock": 26,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガサーナイトex【MUR】",
@@ -5189,7 +5189,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アセロラのいたずら【SAR】",
@@ -5197,10 +5197,10 @@
     "averagePrice": 6260,
     "minPrice": 5480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itznnsmfyfdc_miam?_pos=1&_sid=8c2837f8f&_ss=r",
-    "totalStock": 17,
+    "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アセロラのいたずら【SR】",
@@ -5208,10 +5208,10 @@
     "averagePrice": 1710,
     "minPrice": 1480,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itogsyexqehw_2d5e?_pos=1&_sid=beb4624ba&_ss=r",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガラティアスex【SAR】",
@@ -5219,10 +5219,10 @@
     "averagePrice": 5760,
     "minPrice": 4980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it7339jf2zvb_v62u?_pos=1&_sid=f1536080a&_ss=r",
-    "totalStock": 10,
+    "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガアブソルex【SAR】",
@@ -5230,10 +5230,10 @@
     "averagePrice": 3710,
     "minPrice": 3280,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it0dfa39kjpc_oocd?_pos=1&_sid=9e2371b17&_ss=r",
-    "totalStock": 22,
+    "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガリザードンXex【MUR】",
@@ -5244,7 +5244,7 @@
     "totalStock": 24,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガリザードンXex【SAR】",
@@ -5252,10 +5252,10 @@
     "averagePrice": 128500,
     "minPrice": 128000,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g110-080-M2-B/",
-    "totalStock": 9,
+    "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒカリ【SAR】",
@@ -5263,10 +5263,10 @@
     "averagePrice": 3785,
     "minPrice": 3400,
     "bestStoreUrl": "https://www.hareruya2.com/products/ex02085",
-    "totalStock": 13,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ヒカリ【SR】",
@@ -5274,10 +5274,10 @@
     "averagePrice": 1835,
     "minPrice": 1700,
     "bestStoreUrl": "https://www.hareruya2.com/products/ex02076",
-    "totalStock": 35,
+    "totalStock": 30,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "オドリドリex【SAR】",
@@ -5288,7 +5288,7 @@
     "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガリザードンXex【SR】",
@@ -5296,10 +5296,10 @@
     "averagePrice": 7010,
     "minPrice": 6080,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g094-080-M2-B/",
-    "totalStock": 11,
+    "totalStock": 12,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ロトムex【SAR】",
@@ -5310,7 +5310,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガカイリューex【MUR】",
@@ -5321,7 +5321,7 @@
     "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガカイリューex【SAR】",
@@ -5329,10 +5329,10 @@
     "averagePrice": 32350,
     "minPrice": 29800,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itfsbjccjfta_0ykz?_pos=1&_sid=95f28fc59&_ss=r",
-    "totalStock": 11,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガゲンガーex【SAR】MEGA",
@@ -5340,10 +5340,10 @@
     "averagePrice": 62600,
     "minPrice": 60000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9984761495872",
-    "totalStock": 9,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex【SAR】MEGA",
@@ -5354,7 +5354,7 @@
     "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガリザードンXex【MA】",
@@ -5362,10 +5362,10 @@
     "averagePrice": 7960,
     "minPrice": 7500,
     "bestStoreUrl": "https://www.hareruya2.com/products/9984757203264",
-    "totalStock": 48,
+    "totalStock": 51,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガゲンガーex【MA】",
@@ -5373,10 +5373,10 @@
     "averagePrice": 3835,
     "minPrice": 3000,
     "bestStoreUrl": "https://www.hareruya2.com/products/9984759267648",
-    "totalStock": 61,
+    "totalStock": 65,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "Nのゾロアークex【SAR】MEGA",
@@ -5384,10 +5384,10 @@
     "averagePrice": 7535,
     "minPrice": 6980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_itxj9l3ogvnk_rquv?_pos=1&_sid=cc12bcad5&_ss=r",
-    "totalStock": 18,
+    "totalStock": 20,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ナンジャモのハラバリーex【SAR】MEGA",
@@ -5398,7 +5398,7 @@
     "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "マリィのオーロンゲex【SAR】MEGA",
@@ -5406,10 +5406,10 @@
     "averagePrice": 5085,
     "minPrice": 4280,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_ithto7p0d0yo_ngeq?_pos=1&_sid=ed5d9d2be&_ss=r",
-    "totalStock": 12,
+    "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "カナリィ【SAR】",
@@ -5417,10 +5417,10 @@
     "averagePrice": 4260,
     "minPrice": 3780,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g248-193-M2A-B/",
-    "totalStock": 8,
+    "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ダイゴのメタグロスex【SAR】",
@@ -5431,7 +5431,7 @@
     "totalStock": 19,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "アイリスの闘志【SAR】",
@@ -5442,7 +5442,7 @@
     "totalStock": 45,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガユキメノコex【SAR】MEGA",
@@ -5450,10 +5450,10 @@
     "averagePrice": 2585,
     "minPrice": 2480,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/352489",
-    "totalStock": 4,
+    "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガディアンシーex【SAR】MEGA",
@@ -5464,7 +5464,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガリザードンYex(MUR仕様)",
@@ -5475,7 +5475,7 @@
     "totalStock": 4,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ピカチュウex(SAR仕様)スタデ",
@@ -5486,7 +5486,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "リーリエのピッピex(SAR仕様)スタデ",
@@ -5497,7 +5497,7 @@
     "totalStock": 53,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ボスの指令/カラスバ(SR仕様)",
@@ -5508,7 +5508,7 @@
     "totalStock": 28,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガメガニウムex(SAR仕様)",
@@ -5516,10 +5516,10 @@
     "averagePrice": 29100,
     "minPrice": 26800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g761-742-MC-B/",
-    "totalStock": 7,
+    "totalStock": 8,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガオーダイルex(SAR仕様)",
@@ -5530,7 +5530,7 @@
     "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガエンブオーex(SAR仕様)",
@@ -5541,7 +5541,7 @@
     "totalStock": 9,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "イーブイ(AR仕様)スタデ",
@@ -5549,10 +5549,10 @@
     "averagePrice": 49867,
     "minPrice": 41800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g755-742-MC-B/",
-    "totalStock": 23,
+    "totalStock": 22,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "エリカのモンジャラ(AR仕様)スタデ",
@@ -5560,10 +5560,10 @@
     "averagePrice": 14200,
     "minPrice": 12800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g743-742-MC-B/",
-    "totalStock": 13,
+    "totalStock": 14,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガジガルデex【MUR】",
@@ -5571,10 +5571,10 @@
     "averagePrice": 32100,
     "minPrice": 28800,
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g117-080-M3-B/",
-    "totalStock": 14,
+    "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メイのはげまし【SAR】",
@@ -5582,10 +5582,10 @@
     "averagePrice": 14145,
     "minPrice": 8980,
     "bestStoreUrl": "https://torecacamp-pokemon.com/products/rc_it7jmnf6ouve_lktd?_pos=1&_sid=a37e58c8f&_ss=r&variant=47408880124078",
-    "totalStock": 13,
+    "totalStock": 11,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ニャースex【SAR】",
@@ -5596,7 +5596,7 @@
     "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガジガルデex【SAR】",
@@ -5604,10 +5604,10 @@
     "averagePrice": 3710,
     "minPrice": 3500,
     "bestStoreUrl": "https://www.hareruya2.com/products/10025047982400?_pos=1&_sid=8cd668cb3&_ss=r",
-    "totalStock": 24,
+    "totalStock": 23,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガスターミーex【SAR】",
@@ -5618,7 +5618,7 @@
     "totalStock": 33,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガピクシーex【SAR】",
@@ -5626,10 +5626,10 @@
     "averagePrice": 3835,
     "minPrice": 3480,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/361543",
-    "totalStock": 11,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ユカリ【SAR】",
@@ -5637,10 +5637,10 @@
     "averagePrice": 1787,
     "minPrice": 1600,
     "bestStoreUrl": "https://www.hareruya2.com/products/10025048310080",
-    "totalStock": 9,
+    "totalStock": 10,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メイのはげまし【SR】",
@@ -5651,7 +5651,7 @@
     "totalStock": 35,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガゲッコウガex【MUR】",
@@ -5662,7 +5662,7 @@
     "totalStock": 13,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガゲッコウガex【SAR】",
@@ -5673,7 +5673,7 @@
     "totalStock": 15,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ホミカの演奏【SAR】",
@@ -5684,7 +5684,7 @@
     "totalStock": 56,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガフラエッテex【SAR】",
@@ -5695,7 +5695,7 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "チラチーノex【SAR】",
@@ -5703,10 +5703,10 @@
     "averagePrice": 4610,
     "minPrice": 4480,
     "bestStoreUrl": "https://www.c-labo-online.jp/product/371274",
-    "totalStock": 10,
+    "totalStock": 7,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガドラミドロex【SAR】",
@@ -5717,7 +5717,7 @@
     "totalStock": 43,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "メガゲッコウガex【SR】",
@@ -5727,8 +5727,8 @@
     "bestStoreUrl": "https://www.torecolo.jp/shop/g/g098-083-M4-B/",
     "totalStock": 90,
     "fleamarketPrice": null,
-    "changeRate": 2.3,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "changeRate": 0,
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "AZの安らぎ【SAR】",
@@ -5739,7 +5739,7 @@
     "totalStock": 25,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ゲンガーVMAX(SA)",
@@ -5750,7 +5750,7 @@
     "totalStock": 3,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   },
   {
     "name": "ブラッキーGX【SSR】",
@@ -5761,6 +5761,6 @@
     "totalStock": 5,
     "fleamarketPrice": null,
     "changeRate": 0,
-    "lastUpdated": "2026-07-19T20:38:32.963Z"
+    "lastUpdated": "2026-07-20T21:14:09.163Z"
   }
 ]
